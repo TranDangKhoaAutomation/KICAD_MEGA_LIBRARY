@@ -1,0 +1,39 @@
+
+=== BROKEN (unfixable) ===
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\L_0603.kicad_mod: ref '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_0603.step' model 'L_0603.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\L_0805.kicad_mod: ref '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_0805.step' model 'L_0805.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\L_SMD,12.5x12.5mm.kicad_mod: ref '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-SMD_L12.5-W12.5.step' model 'IND-SMD_L12.5-W12.5.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\OSC-SMD_4P-L3.2-W2.5-BL.kicad_mod: ref '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/OSC-SMD_4P-L3.2-W2.5-BL.step' model 'OSC-SMD_4P-L3.2-W2.5-BL.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI.kicad_mod: ref '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI.step' model 'OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\Q_SOT-223-4.kicad_mod: ref '/3dModels/SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR.step' model 'SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\Q_SOT-23.kicad_mod: ref '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/Q_SOT-23.step' model 'Q_SOT-23.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL.kicad_mod: ref '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL.step' model 'SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR.kicad_mod: ref '/3dModels/SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR.step' model 'SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\SOT-223_L6.5-W3.5-P2.30-LS7.0-BR.kicad_mod: ref '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-223_L6.5-W3.5-P2.30-LS7.0-BR.step' model 'SOT-223_L6.5-W3.5-P2.30-LS7.0-BR.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-1.kicad_mod: ref '/3dModels/SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-1.step' model 'SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-1.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR.kicad_mod: ref '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR.step' model 'SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR.kicad_mod: ref '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR.step' model 'SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR.kicad_mod: ref '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR.step' model 'SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\JLCPCB.pretty\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR.kicad_mod: ref '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR.step' model 'SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR.step' not in D:\KICAD_MEGA_LIBRARY\3dmodels\JLCPCB
+D:\KICAD_MEGA_LIBRARY\footprints\Espressif.pretty\ESP32-H2-MINI-1.kicad_mod: ref '${KICAD8_3RD_PARTY}/3dmodels/com_github_espressif_kicad-libraries/espressif.3dshapes/ESP32-H2-MINI-1.STEP' model 'ESP32-H2-MINI-1.STEP' not in D:\KICAD_MEGA_LIBRARY\3dmodels\Espressif
+
+=== BROKEN (unfixable) ===
+
+=== SPARKFUN BROKEN ===
+D:\KICAD_MEGA_LIBRARY\footprints\SparkFun-Capacitor.pretty\Panasonic_C.kicad_mod: CP_Elec_5x4.4.step not found under Capacitor.3dshapes
+D:\KICAD_MEGA_LIBRARY\footprints\SparkFun-Connector.pretty\FPC_1x22_P0.5mm_Horizontal_BottomContact.kicad_mod: FPC_0.5mm-22-RA.step not found under Connector.3dshapes
+D:\KICAD_MEGA_LIBRARY\footprints\SparkFun-Connector.pretty\JST_1x04_P1.0mm_Horizontal_SMD_StressRelief.kicad_mod: SM04B-SRSS-TB_LiteBlackSilver.step not found under Connector.3dshapes
+D:\KICAD_MEGA_LIBRARY\footprints\SparkFun-Connector.pretty\JST_1x07_P1.0mm_Horizontal_SMD.kicad_mod: JST_SMD_1.0mm-7.step not found under Connector.3dshapes
+D:\KICAD_MEGA_LIBRARY\footprints\SparkFun-Connector.pretty\U.FL_Reduced.kicad_mod: U.FL_Hirose_U.FL-R-SMT-1_Vertical.step not found under Connector.3dshapes
+
+=== BROKEN (unfixable) ===
+
+=== BROKEN (unfixable) ===
+
+=== BROKEN (unfixable) ===
+
+=== BROKEN (unfixable) ===
+
+=== BROKEN (unfixable) ===
+
+=== BROKEN (unfixable) ===

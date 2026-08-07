@@ -1,0 +1,46 @@
+=== VERIFICATION REPORT ===
+sym-lib-table balance: 0 (0=OK)
+fp-lib-table balance: 0 (0=OK)
+
+Symbol entries: 63
+Mega symbol missing URIs: 0
+
+Footprint entries: 25
+Mega footprint missing URIs: 0
+
+=== Symbol file validation ===
+Bad symbol files: 0
+
+=== Footprint counts ===
+  Mega_Espressif: 54
+  Mega_JLCPCB: 303
+  Mega_SparkFun-Aesthetic: 101
+  Mega_SparkFun-Battery: 2
+  Mega_SparkFun-Board: 9
+  Mega_SparkFun-Camera: 1
+  Mega_SparkFun-Capacitor: 13
+  Mega_SparkFun-Clock: 8
+  Mega_SparkFun-Coil: 9
+  Mega_SparkFun-Connector: 208
+  Mega_SparkFun-Display: 6
+  Mega_SparkFun-Electromechanical: 9
+  Mega_SparkFun-Fuse: 5
+  Mega_SparkFun-GNSS: 12
+  Mega_SparkFun-Hardware: 11
+  Mega_SparkFun-Jumper: 12
+  Mega_SparkFun-LED: 44
+  Mega_SparkFun-RF: 18
+  Mega_SparkFun-Resistor: 11
+  Mega_SparkFun-Semiconductor-Nonstandard: 6
+  Mega_SparkFun-Semiconductor-Standard: 78
+  Mega_SparkFun-Sensor: 19
+  Mega_SparkFun-Switch: 26
+  Mega_DigiKey: 464
+Total Mega footprints: 1429
+
+Total Mega symbols: 8932
+
+3dmodels/JLCPCB: 277 files
+3dmodels/Espressif: 39 files
+3dmodels/SparkFun: 324 files
+Total 3D models: 640

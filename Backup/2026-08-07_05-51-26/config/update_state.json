@@ -1,0 +1,9 @@
+{
+  "last_success": "",
+  "last_attempt": "",
+  "updated_sources": [],
+  "update_in_progress": false,
+  "failed_sources": [
+    "DigiKey"
+  ]
+}

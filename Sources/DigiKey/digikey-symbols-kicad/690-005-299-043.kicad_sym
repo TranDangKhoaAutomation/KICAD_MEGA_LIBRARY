@@ -1,0 +1,565 @@
+(kicad_symbol_lib
+	(version 20251024)
+	(generator "kicad_symbol_editor")
+	(generator_version "10.0")
+	(symbol "690-005-299-043"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "J"
+			(at 8.89 30.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "690-005-299-043"
+			(at 6.8326 14.8844 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "digikey-footprints:USB_Mini_B_Female_690-005-299-043"
+			(at 5.08 5.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "http://files.edac.net/690-005-299-043.pdf"
+			(at 5.08 7.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "CONN RCPT USB2.0 MINI B SMD R/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digi-Key_PN" "151-1206-1-ND"
+			(at 5.08 10.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "690-005-299-043"
+			(at 5.08 12.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Category" "Connectors, Interconnects"
+			(at 5.08 15.24 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "USB, DVI, HDMI Connectors"
+			(at 5.08 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "DK_Datasheet_Link" "http://files.edac.net/690-005-299-043.pdf"
+			(at 5.08 20.32 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "DK_Detail_Page" "/product-detail/en/edac-inc/690-005-299-043/151-1206-1-ND/4312192"
+			(at 5.08 22.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Description_1" "CONN RCPT USB2.0 MINI B SMD R/A"
+			(at 5.08 25.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer" "EDAC Inc."
+			(at 5.08 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Status" "Active"
+			(at 5.08 30.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "ki_keywords" "151-1206-1-ND 690"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "690-005-299-043_0_1"
+			(polyline
+				(pts
+					(xy 10.795 23.368) (xy 10.795 12.192)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 10.795 23.368) (xy 12.319 24.892) (xy 14.097 24.892)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 10.795 12.192) (xy 12.319 10.668) (xy 14.097 10.668)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 14.859 22.225)
+				(end 12.573 23.495)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 14.859 19.685)
+				(end 12.573 20.955)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 14.859 17.145)
+				(end 12.573 18.415)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 14.859 14.605)
+				(end 12.573 15.875)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 14.859 12.065)
+				(end 12.573 13.335)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 15.875 10.668)
+				(end 14.097 24.892)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 17.145 23.495)
+				(end 15.875 22.225)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 17.145 20.955)
+				(end 15.875 19.685)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 17.145 18.415)
+				(end 15.875 17.145)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 17.145 15.875)
+				(end 15.875 14.605)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 17.145 13.335)
+				(end 15.875 12.065)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 18.161 26.035)
+				(end 19.177 24.13)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 18.161 9.5758)
+				(end 19.177 11.4808)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 19.177 18.5928) (xy 19.177 7.0358) (xy 15.9258 7.0358) (xy 15.4686 7.112) (xy 15.2146 7.239)
+					(xy 13.4366 8.6614) (xy 13.1064 8.8392) (xy 12.7 8.9408) (xy 9.525 8.9408) (xy 9.525 19.7358)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 19.177 17.018) (xy 19.177 28.575) (xy 15.9258 28.575) (xy 15.4686 28.4988) (xy 15.2146 28.3718)
+					(xy 13.4366 26.9494) (xy 13.1064 26.7716) (xy 12.7 26.67) (xy 9.525 26.67) (xy 9.525 15.875)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 19.685 20.2438) (xy 19.685 7.1628) (xy 19.685 6.9088) (xy 19.558 6.6548) (xy 19.304 6.5278)
+					(xy 19.05 6.5278) (xy 15.5956 6.5278) (xy 15.24 6.5786) (xy 14.9352 6.7564) (xy 13.1826 8.1534)
+					(xy 12.8016 8.382) (xy 12.5222 8.4328) (xy 9.652 8.4328) (xy 9.398 8.4328) (xy 9.144 8.5598) (xy 9.017 8.8138)
+					(xy 9.017 9.0678) (xy 9.017 19.7358)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 19.685 15.367) (xy 19.685 28.448) (xy 19.685 28.702) (xy 19.558 28.956) (xy 19.304 29.083)
+					(xy 19.05 29.083) (xy 15.5956 29.083) (xy 15.24 29.0322) (xy 14.9352 28.8544) (xy 13.1826 27.4574)
+					(xy 12.8016 27.2288) (xy 12.5222 27.178) (xy 9.652 27.178) (xy 9.398 27.178) (xy 9.144 27.051)
+					(xy 9.017 26.797) (xy 9.017 26.543) (xy 9.017 15.875)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 20.193 20.3708) (xy 20.193 6.6548) (xy 20.193 6.4008) (xy 20.066 6.1468) (xy 19.812 6.0198)
+					(xy 19.558 6.0198) (xy 15.5194 6.0198) (xy 15.0114 6.096) (xy 14.6812 6.2484) (xy 12.573 7.9248)
+					(xy 9.144 7.9248) (xy 8.89 7.9248) (xy 8.636 8.0518) (xy 8.509 8.3058) (xy 8.509 8.5598) (xy 8.509 19.7358)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(polyline
+				(pts
+					(xy 20.193 15.24) (xy 20.193 28.956) (xy 20.193 29.21) (xy 20.066 29.464) (xy 19.812 29.591) (xy 19.558 29.591)
+					(xy 15.5194 29.591) (xy 15.0114 29.5148) (xy 14.6812 29.3624) (xy 12.573 27.686) (xy 9.144 27.686)
+					(xy 8.89 27.686) (xy 8.636 27.559) (xy 8.509 27.305) (xy 8.509 27.051) (xy 8.509 15.875)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "690-005-299-043_1_1"
+			(pin passive line
+				(at 22.86 22.86 180)
+				(length 2.667)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 22.86 20.32 180)
+				(length 2.667)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 22.86 17.78 180)
+				(length 2.667)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 22.86 15.24 180)
+				(length 2.667)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 22.86 12.7 180)
+				(length 2.667)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 5.08 90)
+				(length 2.794)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "SH"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+)

@@ -1,0 +1,495 @@
+(kicad_symbol_lib
+	(version 20251024)
+	(generator "kicad_symbol_editor")
+	(generator_version "10.0")
+	(symbol "0473460001"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "J"
+			(at -3.81 12.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0473460001"
+			(at -6.35 0 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "digikey-footprints:USB_Micro_B_Female_0473460001"
+			(at 5.08 5.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.molex.com/pdm_docs/sd/473460001_sd.pdf"
+			(at 5.08 7.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "CONN RCPT USB2.0 MICRO B SMD R/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digi-Key_PN" "WM17141CT-ND"
+			(at 5.08 10.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "0473460001"
+			(at 5.08 12.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Category" "Connectors, Interconnects"
+			(at 5.08 15.24 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "USB, DVI, HDMI Connectors"
+			(at 5.08 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "DK_Datasheet_Link" "https://www.molex.com/pdm_docs/sd/473460001_sd.pdf"
+			(at 5.08 20.32 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "DK_Detail_Page" "/product-detail/en/molex/0473460001/WM17141CT-ND/1782474"
+			(at 5.08 22.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Description_1" "CONN RCPT USB2.0 MICRO B SMD R/A"
+			(at 5.08 25.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer" "Molex"
+			(at 5.08 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Status" "Active"
+			(at 5.08 30.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "ki_keywords" "WM17141CT-ND 47346"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "0473460001_1_1"
+			(polyline
+				(pts
+					(xy 0.4826 4.2926) (xy 0.4826 3.2766) (xy 1.8796 3.2766) (xy 1.8796 4.2926) (xy 0.4826 4.2926)
+					(xy 1.1176 3.7846) (xy 0.4826 3.2766) (xy 1.8796 3.2766) (xy 1.8796 3.7846) (xy 1.1176 3.7846)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.4826 1.7526) (xy 0.4826 0.7366) (xy 1.8796 0.7366) (xy 1.8796 1.7526) (xy 0.4826 1.7526)
+					(xy 1.1176 1.2446) (xy 0.4826 0.7366) (xy 1.8796 0.7366) (xy 1.8796 1.2446) (xy 1.1176 1.2446)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.4826 -1.7526) (xy 0.4826 -0.7366) (xy 1.8796 -0.7366) (xy 1.8796 -1.7526) (xy 0.4826 -1.7526)
+					(xy 1.1176 -1.2446) (xy 0.4826 -0.7366) (xy 1.8796 -0.7366) (xy 1.8796 -1.2446) (xy 1.1176 -1.2446)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.4826 -4.2926) (xy 0.4826 -3.2766) (xy 1.8796 -3.2766) (xy 1.8796 -4.2926) (xy 0.4826 -4.2926)
+					(xy 1.1176 -3.7846) (xy 0.4826 -3.2766) (xy 1.8796 -3.2766) (xy 1.8796 -3.7846) (xy 1.1176 -3.7846)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 0.889 4.318)
+				(end 1.905 5.842)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 0.889 3.302)
+				(end 1.905 1.778)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 0.889 0.635)
+				(end 1.905 -0.381)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 0.889 -0.635)
+				(end 1.905 0.381)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 0.889 -3.302)
+				(end 1.905 -1.778)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start 0.889 -4.318)
+				(end 1.905 -5.842)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.905 0.0254) (xy 1.905 -5.842) (xy 0.635 -5.842) (xy 0.635 -6.1468) (xy 0.8128 -6.4262) (xy 1.1938 -6.5786)
+					(xy 1.651 -6.6294) (xy 2.2606 -6.5532) (xy 2.7178 -6.3246) (xy 2.9464 -6.0706) (xy 3.0226 -5.6388)
+					(xy 3.0226 -4.8006) (xy 3.0226 0.127)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.905 -0.0254) (xy 1.905 5.842) (xy 0.635 5.842) (xy 0.635 6.1468) (xy 0.8128 6.4262) (xy 1.1938 6.5786)
+					(xy 1.651 6.6294) (xy 2.2606 6.5532) (xy 2.7178 6.3246) (xy 2.9464 6.0706) (xy 3.0226 5.6388) (xy 3.0226 4.8006)
+					(xy 3.0226 -0.127)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.7846 12.2428) (xy 3.7846 -12.5476)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.8514 -11.4808) (xy 4.8514 -12.8016) (xy 4.7752 -13.4366) (xy 4.572 -13.8684) (xy 4.0386 -14.3256)
+					(xy 3.5814 -14.5288) (xy 3.0988 -14.605) (xy -0.2794 -14.5542) (xy -0.7112 -14.4526) (xy -1.2446 -14.1986)
+					(xy -2.2098 -13.4366) (xy -3.556 -12.1412) (xy -4.0132 -11.6586) (xy -4.3688 -11.1506) (xy -4.6228 -10.5918)
+					(xy -4.7498 -9.7536) (xy -4.7498 9.3726) (xy -4.5974 10.0838) (xy -4.4704 10.4648) (xy -4.2164 10.9728)
+					(xy -3.6068 11.6078) (xy -1.4478 13.589) (xy -0.9652 13.8684) (xy -0.5588 14.0208) (xy 0.0762 14.1224)
+					(xy 0.5588 14.1732) (xy 3.2766 14.1732) (xy 3.7592 14.0208) (xy 4.2164 13.7414) (xy 4.445 13.5128)
+					(xy 4.699 13.1572) (xy 4.826 12.8524) (xy 4.8514 12.446) (xy 4.8514 -11.5062)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.8514 -12.5476) (xy 3.8354 -12.5476) (xy 3.7846 -12.5476) (xy 3.7846 -12.9032) (xy 3.6068 -13.2334)
+					(xy 3.429 -13.3604) (xy 3.2258 -13.4366) (xy 0.4572 -13.4366) (xy 0.0508 -13.4112) (xy -0.3302 -13.3096)
+					(xy -0.6604 -13.1318) (xy -0.9906 -12.9032) (xy -3.1496 -10.8458) (xy -3.4036 -10.3886) (xy -3.5306 -9.779)
+					(xy -3.556 -8.636) (xy -3.556 9.2202) (xy -3.5306 9.4234) (xy -3.4544 9.8298) (xy -3.302 10.1854)
+					(xy -3.0226 10.6172) (xy -1.7526 11.8364) (xy -0.8636 12.5984) (xy -0.3302 12.8778) (xy 0.0762 13.0048)
+					(xy 0.6096 13.081) (xy 3.0734 13.081) (xy 3.3274 13.0048) (xy 3.5814 12.8524) (xy 3.7846 12.5222)
+					(xy 3.7846 12.2174) (xy 4.8514 12.2174)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 7.62 5.08 180)
+				(length 2.794)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 2.54 180)
+				(length 2.794)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 2.794)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 -2.54 180)
+				(length 2.794)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 -5.08 180)
+				(length 2.794)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -2.54 -15.24 90)
+				(length 2.032)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "SH"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+)

@@ -1,0 +1,760 @@
+================================================================================
+3D MODEL REFERENCE ANALYSIS
+Scanned files: 303
+================================================================================
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\AUDIO-TH_PJ-3850-5A.kicad_mod] -> ref base 'AUDIO-TH_PJ-3850-5A.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\AUDIO-TH_PJ-3850-5A.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\BAT-TH_BS-07-A1BJ001.kicad_mod] -> ref base 'BAT-TH_BS-07-A1BJ001.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\BAT-TH_BS-07-A1BJ001.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\CDIP-18_L24.4-W6.5-P2.54-LS7.6-BL.kicad_mod] -> ref base 'CDIP-18_L24.4-W6.5-P2.54-LS7.6-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CDIP-18_L24.4-W6.5-P2.54-LS7.6-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\CONN-TH_16P-P5.08_KEFA_KF2EDGKRCH-5.08-2X8P.kicad_mod] -> ref base 'CONN-TH_16P-P5.08_KEFA_KF2EDGKRCH-5.08-2X8P.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CONN-TH_16P-P5.08_KEFA_KF2EDGKRCH-5.08-2X8P.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\CONN-TH_20P-P3.50-S4.60_L18.6-W60.3-EH3.2.kicad_mod] -> ref base 'CONN-TH_20P-P3.50-S4.60_L18.6-W60.3-EH3.2.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CONN-TH_20P-P3.50-S4.60_L18.6-W60.3-EH3.2.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\CONN-TH_2P-P10.00_DBT10-10.0-2P-BK.kicad_mod] -> ref base 'CONN-TH_2P-P10.00_DBT10-10.0-2P-BK.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CONN-TH_2P-P10.00_DBT10-10.0-2P-BK.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\CONN-TH_2P-P5.00_KFM736H-5.0-2X1P.kicad_mod] -> ref base 'CONN-TH_2P-P5.00_KFM736H-5.0-2X1P.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CONN-TH_2P-P5.00_KFM736H-5.0-2X1P.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\CONN-TH_4P-P5.08_DB129VG-5.08-4P-GN-S.kicad_mod] -> ref base 'CONN-TH_4P-P5.08_DB129VG-5.08-4P-GN-S.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CONN-TH_4P-P5.08_DB129VG-5.08-4P-GN-S.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\CONN-TH_HKT-00004.kicad_mod] -> ref base 'CONN-TH_HKT-00004.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CONN-TH_HKT-00004.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\CONN-TH_K966658WV-1.kicad_mod] -> ref base 'CONN-TH_K966658WV-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CONN-TH_K966658WV-1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\CRYSTAL-SMD_4P-L2.5-W2.0-BL.kicad_mod] -> ref base 'CRYSTAL-SMD_4P-L2.5-W2.0-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CRYSTAL-SMD_4P-L2.5-W2.0-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_1812.kicad_mod] -> ref base 'C_1812.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\C_1812.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_1825.kicad_mod] -> ref base 'C_1825.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\C_1825.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_CASE-X-7343-43(mm).kicad_mod] -> ref base 'CAP-SMD_L7.3-W4.3-L-FD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-SMD_L7.3-W4.3-L-FD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D10xL12mm.kicad_mod] -> ref base 'CAP-TH_BD10.0-P5.00-D0.6-FD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_BD10.0-P5.00-D0.6-FD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D10xL14mm.kicad_mod] -> ref base 'CAP-TH_BD10.0-P5.00-D0.6-FD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_BD10.0-P5.00-D0.6-FD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D10xL16mm.kicad_mod] -> ref base 'CAP-TH_BD10.0-P5.00-D0.6-FD-A.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_BD10.0-P5.00-D0.6-FD-A.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D10xL20mm.kicad_mod] -> ref base 'CAP-TH_BD10.0-P5.00-D0.6-FD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_BD10.0-P5.00-D0.6-FD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D13xL21mm.kicad_mod] -> ref base 'CAP-TH_BD13.0-P5.00-D0.6-FD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_BD13.0-P5.00-D0.6-FD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D18xL20mm.kicad_mod] -> ref base 'CAP-TH_BD18.0-P7.50-D1.2-FD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_BD18.0-P7.50-D1.2-FD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D18xL30mm.kicad_mod] -> ref base 'CAP-TH_BD18.0-P7.5-D0.8-FD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_BD18.0-P7.5-D0.8-FD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D18xL36mm.kicad_mod] -> ref base 'CAP-TH_BD18.0-P7.5-D0.8-FD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_BD18.0-P7.5-D0.8-FD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D5xL11mm.kicad_mod] -> ref base 'C_Plugin,D5xL11mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\C_Plugin,D5xL11mm.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D6.3xL11.5mm.kicad_mod] -> ref base 'CAP-TH_BD6.3-P2.60-D0.6-FD-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_BD6.3-P2.60-D0.6-FD-1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D6.3xL8mm.kicad_mod] -> ref base 'CAP-TH_BD6.3-P2.50-D1.0-FD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_BD6.3-P2.50-D1.0-FD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D8xL12mm.kicad_mod] -> ref base 'CAP-TH_BD8.0-P3.50-D0.6-FD_1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_BD8.0-P3.50-D0.6-FD_1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D8xL16mm.kicad_mod] -> ref base 'CAP-TH_BD8.0-P3.50-D0.6-FD_1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_BD8.0-P3.50-D0.6-FD_1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,P=10mm.kicad_mod] -> ref base 'CAP-TH_L13.0-W7.0-P10.00-D0.6.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_L13.0-W7.0-P10.00-D0.6.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,P=15mm.kicad_mod] -> ref base 'CAP-TH_L26.5-W10.0-P22.50-D0.8.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_L26.5-W10.0-P22.50-D0.8.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,P=27.5mm.kicad_mod] -> ref base 'CAP-TH_L32.0-W13.0-P27.50-D0.8.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_L32.0-W13.0-P27.50-D0.8.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,P=5.08mm.kicad_mod] -> ref base 'CAP-TH_L5.0-W3.2-P5.08-D0.6.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_L5.0-W3.2-P5.08-D0.6.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,P=5mm.kicad_mod] -> ref base 'CAP-TH_L5.0-W3.0-P5.00-D0.6-S2.45.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_L5.0-W3.0-P5.00-D0.6-S2.45.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,P=7.5mm.kicad_mod] -> ref base 'CAP-TH_L6.8-W5.0-P7.50-D0.6-S4.40.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-TH_L6.8-W5.0-P7.50-D0.6-S4.40.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_SMD,D8xL10.5mm.kicad_mod] -> ref base 'CAP-SMD_BD8.0-L8.3-W8.3-FD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\CAP-SMD_BD8.0-L8.3-W8.3-FD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\DFN-10_L3.0-W3.0-P0.50-BL-EP-2.kicad_mod] -> ref base 'DFN-10_L3.0-W3.0-P0.50-BL-EP-2.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\DFN-10_L3.0-W3.0-P0.50-BL-EP-2.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\DFNWB-6_L2.0-W2.0-P0.65-BL-EP_CJM1206.kicad_mod] -> ref base 'DFNWB-6_L2.0-W2.0-P0.65-BL-EP_CJM1206.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\DFNWB-6_L2.0-W2.0-P0.65-BL-EP_CJM1206.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\DFS_4P-L8.3-W6.4-P5.10-LS10.1-BL.kicad_mod] -> ref base 'DFS_4P-L8.3-W6.4-P5.10-LS10.1-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\DFS_4P-L8.3-W6.4-P5.10-LS10.1-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\DIO-BG-TH_KBPC3510.kicad_mod] -> ref base 'DIO-BG-TH_KBPC3510.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\DIO-BG-TH_KBPC3510.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\DIP-8_7P-L9.7-W6.4-P2.54-LS7.6-BL-PE6.kicad_mod] -> ref base 'DIP-8_7P-L9.7-W6.4-P2.54-LS7.6-BL-PE6.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\DIP-8_7P-L9.7-W6.4-P2.54-LS7.6-BL-PE6.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\DIP-8_L9.3-W6.4-P2.54-LS7.9-BL.kicad_mod] -> ref base 'DIP-8_L9.3-W6.4-P2.54-LS7.9-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\DIP-8_L9.3-W6.4-P2.54-LS7.9-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\D_A-405.kicad_mod] -> ref base 'DO-41_BD2.4-L4.7-P8.70-D0.6-RD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\DO-41_BD2.4-L4.7-P8.70-D0.6-RD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\D_DO-15.kicad_mod] -> ref base 'DO-15_BD3.2-L6.4-P10.40-D0.8-RD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\DO-15_BD3.2-L6.4-P10.40-D0.8-RD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\D_DO-247.kicad_mod] -> ref base 'DO-247_L15.6-W5.0-P10.90.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\DO-247_L15.6-W5.0-P10.90.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\D_DO-27.kicad_mod] -> ref base 'DO-27-BD5.3-L9.0-P14.0-D1.3-R-RD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\DO-27-BD5.3-L9.0-P14.0-D1.3-R-RD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\D_DO-41 (DO-204AL).kicad_mod] -> ref base 'DO-41_BD1.9-L3.3-P7.30-D0.8-RD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\DO-41_BD1.9-L3.3-P7.30-D0.8-RD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\D_Plugin,D=3.3mm.kicad_mod] -> ref base 'LED-TH_L3.2-W2.0-P2.54-RD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\LED-TH_L3.2-W2.0-P2.54-RD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\D_Plugin,D=4.9mm.kicad_mod] -> ref base 'LED-TH_2P-P2.54_L4.9-W1.9_BLUE.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\LED-TH_2P-P2.54_L4.9-W1.9_BLUE.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\D_SMBF.kicad_mod] -> ref base 'SMBF_L4.3-W3.6-LS5.3-RD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SMBF_L4.3-W3.6-LS5.3-RD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\D_SMD3528.kicad_mod] -> ref base 'LED-SMD_L3.5-W2.8_TVSG-AXBZ-2J8L-1-20-R18-Z.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\LED-SMD_L3.5-W2.8_TVSG-AXBZ-2J8L-1-20-R18-Z.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\D_SOD-523F.kicad_mod] -> ref base 'SOD-523F_L1.7-W0.9-LS1.7-RD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOD-523F_L1.7-W0.9-LS1.7-RD.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\D_X3-DFN0603-2.kicad_mod] -> ref base 'X3-DFN0603-2_L0.6-W0.3-BI.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\X3-DFN0603-2_L0.6-W0.3-BI.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\ESIP-7C_L10.1-W2.0-P2.54-TL.kicad_mod] -> ref base 'ESIP-7C_L10.1-W2.0-P2.54-TL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\ESIP-7C_L10.1-W2.0-P2.54-TL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\FILTER-ARRAY-SMD_0805-4P-L2.0-W1.3-BL_BWCU.kicad_mod] -> ref base 'FILTER-ARRAY-SMD_0805-4P-L2.0-W1.3-BL_BWCU.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\FILTER-ARRAY-SMD_0805-4P-L2.0-W1.3-BL_BWCU.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\FILTER-SMD_4P-L12.0-W10.8-TL.kicad_mod] -> ref base 'FILTER-SMD_4P-L12.0-W10.8-TL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\FILTER-SMD_4P-L12.0-W10.8-TL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\FILTER-SMD_4P-L2.0-W1.2-BL-1.kicad_mod] -> ref base 'FILTER-SMD_4P-L2.0-W1.2-BL-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\FILTER-SMD_4P-L2.0-W1.2-BL-1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\FILTER-SMD_4P-L9.5-W8.3_PSMCAQ1050-222P.kicad_mod] -> ref base 'FILTER-SMD_4P-L9.5-W8.3_PSMCAQ1050-222P.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\FILTER-SMD_4P-L9.5-W8.3_PSMCAQ1050-222P.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\FILTER-TH_6P-L28.0-W21.0-P10.00-BL.kicad_mod] -> ref base 'FILTER-TH_6P-L28.0-W21.0-P10.00-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\FILTER-TH_6P-L28.0-W21.0-P10.00-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\F_0603.kicad_mod] -> ref base 'F_0603.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\F_0603.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\F_1206.kicad_mod] -> ref base 'F_1206.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\F_1206.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\GBU_4P-L22.0-W3.5-P5.08-GBU4K.kicad_mod] -> ref base 'GBU810.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\GBU810.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\GBU_4P-L22.0-W3.5-P5.08.kicad_mod] -> ref base 'GBU_4P-L22.0-W3.5-P5.08.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\GBU_4P-L22.0-W3.5-P5.08.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\HC-49S_L7.0-W4.0.kicad_mod] -> ref base 'HC-49S_L7.0-W4.0.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\HC-49S_L7.0-W4.0.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\HDR-TH_4P-P1.27_X1321FR-2X02-C43D24.kicad_mod] -> ref base 'HDR-TH_4P-P1.27_X1321FR-2X02-C43D24.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\HDR-TH_4P-P1.27_X1321FR-2X02-C43D24.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\HDR-TH_8P-P2.54-V-M.kicad_mod] -> ref base 'PinHeader_1x08_P2.54mm_Vertical.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\PinHeader_1x08_P2.54mm_Vertical.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\HTSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL-EP-A.kicad_mod] -> ref base 'HTSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL-EP-A.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\HTSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL-EP-A.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\IDC-TH_14P-P2.54_Z-230011014209.kicad_mod] -> ref base 'IDC-TH_14P-P2.54_Z-230011014209.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IDC-TH_14P-P2.54_Z-230011014209.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\IND-TH_L18.2-W10.2-P12.00-D0.9.kicad_mod] -> ref base 'IND-TH_L18.2-W10.2-P12.00-D0.9.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-TH_L18.2-W10.2-P12.00-D0.9.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\ITO-220AB-3_L10.0-W4.5-P2.54-L.kicad_mod] -> ref base 'ITO-220AB-3_L10.0-W4.5-P2.54-L.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\ITO-220AB-3_L10.0-W4.5-P2.54-L.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\KEY-TH_4P-L6.0-W6.0-P4.50-LS6.50.kicad_mod] -> ref base 'KEY-TH_4P-L6.0-W6.0-P4.50-LS6.50.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\KEY-TH_4P-L6.0-W6.0-P4.50-LS6.50.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\LED-TH_3P-BD4.0-P2.54-L.kicad_mod] -> ref base 'LED-TH_3P-BD5.8-P2.54_XL-A524SURUGC.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\LED-TH_3P-BD5.8-P2.54_XL-A524SURUGC.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\LED-TH_3P-BD5.8-P2.54_XL-A524SURUGC.kicad_mod] -> ref base 'LED-TH_3P-BD5.8-P2.54_XL-A524SURUGC.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\LED-TH_3P-BD5.8-P2.54_XL-A524SURUGC.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_1008.kicad_mod] -> ref base 'L_1008.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\L_1008.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_1210.kicad_mod] -> ref base 'IND-SMD_L3.2-W2.5.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-SMD_L3.2-W2.5.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_Plugin,D11.5xL18mm.kicad_mod] -> ref base 'IND-TH_BD11.5-P5.00-D0.8.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-TH_BD11.5-P5.00-D0.8.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,10.5x10.3mm.kicad_mod] -> ref base 'IND-SMD_L10.3-W10.3_1274AS-H-330M.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-SMD_L10.3-W10.3_1274AS-H-330M.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,12.3x12.3mm.kicad_mod] -> ref base 'L_Coilcraft_MSS1260-XXX.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\L_Coilcraft_MSS1260-XXX.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,12.5x12.5mm.kicad_mod] -> ref base 'IND-SMD_L12.5-W12.5.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-SMD_L12.5-W12.5.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,12x12mm.kicad_mod] -> ref base 'IND-SMD_L12.0-W12.0.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-SMD_L12.0-W12.0.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,13.8x12.6x6.5mm.kicad_mod] -> ref base 'IND-SMD_L13.8-W12.6_YSPI13XX.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-SMD_L13.8-W12.6_YSPI13XX.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,28x27x21.5mm.kicad_mod] -> ref base 'IND-SMD_3P-L28.0-W27.0_1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-SMD_3P-L28.0-W27.0_1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,4.5x4.1mm.kicad_mod] -> ref base 'IND-SMD_L4.5-W4.1_TMPA0402SP.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-SMD_L4.5-W4.1_TMPA0402SP.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,4.5x4x3.2mm.kicad_mod] -> ref base 'IND-SMD_L4.5-W4.0_CD43.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-SMD_L4.5-W4.0_CD43.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,4x4mm.kicad_mod] -> ref base 'L_Bourns-SRN4018.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\L_Bourns-SRN4018.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,5.8x5.2mm.kicad_mod] -> ref base 'IND-SMD_L5.8-W5.2.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-SMD_L5.8-W5.2.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,6.9x7.4mm.kicad_mod] -> ref base 'IND-SMD_L7.5-W7.0.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-SMD_L7.5-W7.0.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,7x7.8mm.kicad_mod] -> ref base 'IND-SMD_L7.8-W7.0_GCD75.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-SMD_L7.8-W7.0_GCD75.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,8x8mm.kicad_mod] -> ref base 'IND-SMD_L8.0-W8.0.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\IND-SMD_L8.0-W8.0.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\MBF-SMD_L4.7-W3.8-P2.50-LS7.0-BL.kicad_mod] -> ref base 'MBF-SMD_L4.7-W3.8-P2.50-LS7.0-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\MBF-SMD_L4.7-W3.8-P2.50-LS7.0-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL-1.kicad_mod] -> ref base 'MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL-1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL.kicad_mod] -> ref base 'MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\OPTO-SMD-4_L4.4-W4.1-P2.54-LS7.0-TL.kicad_mod] -> ref base 'OPTO-SMD-4_L4.4-W4.1-P2.54-LS7.0-TL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\OPTO-SMD-4_L4.4-W4.1-P2.54-LS7.0-TL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL.kicad_mod] -> ref base 'OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\OPTO-TH_4P_ITR8307-S17-TR8-B-TS.kicad_mod] -> ref base 'OPTO-TH_4P_ITR8307-S17-TR8-B-TS.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\OPTO-TH_4P_ITR8307-S17-TR8-B-TS.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\OSC-SMD_4P-L5.0-W3.2-BL-1.kicad_mod] -> ref base 'OSC-SMD_4P-L5.0-W3.2-BL-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\OSC-SMD_4P-L5.0-W3.2-BL-1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\PDIP-8_L9.3-W6.4-P2.54-LS7.9-BL-1.kicad_mod] -> ref base 'PDIP-8_L9.3-W6.4-P2.54-LS7.9-BL-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\PDIP-8_L9.3-W6.4-P2.54-LS7.9-BL-1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\PDIP-8_L9.6-W6.4-P2.54-LS7.6-BL.kicad_mod] -> ref base 'PDIP-8_L9.6-W6.4-P2.54-LS7.6-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\PDIP-8_L9.6-W6.4-P2.54-LS7.6-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\PDIP-8_L9.6-W6.4-P2.54-LS7.9-BL-1.kicad_mod] -> ref base 'PDIP-8_L9.6-W6.4-P2.54-LS7.9-BL-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\PDIP-8_L9.6-W6.4-P2.54-LS7.9-BL-1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\PG-HSOF-8_L10.5-W10.1-P1.20-LS11.9-TL-2.kicad_mod] -> ref base 'PG-HSOF-8_L10.5-W10.1-P1.20-LS11.9-TL-2.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\PG-HSOF-8_L10.5-W10.1-P1.20-LS11.9-TL-2.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\PG-SSOP-14_L4.9-W3.9-P0.65-LS6.0-BL-EP.kicad_mod] -> ref base 'PG-SSOP-14_L4.9-W3.9-P0.65-LS6.0-BL-EP.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\PG-SSOP-14_L4.9-W3.9-P0.65-LS6.0-BL-EP.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\POWERDI3333-8_DMN7022LFGQ-7.kicad_mod] -> ref base 'POWERDI3333-8_DMN7022LFGQ-7.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\POWERDI3333-8_DMN7022LFGQ-7.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\POWERFLAT-8_L5.2-W6.0-P1.27-LS6.2-BL.kicad_mod] -> ref base 'POWERFLAT-8_L5.2-W6.0-P1.27-LS6.2-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\POWERFLAT-8_L5.2-W6.0-P1.27-LS6.2-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\QFN-32_L5.0-W5.0-P0.50-TL-EP3.4.kicad_mod] -> ref base 'QFN-32_L5.0-W5.0-P0.50-TL-EP3.4.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\QFN-32_L5.0-W5.0-P0.50-TL-EP3.4.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\Q_DPAK.kicad_mod] -> ref base 'DPAK_L6.5-W6.0-P2.29-LS9.9-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\DPAK_L6.5-W6.0-P2.29-LS9.9-BR.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\Q_SC-70.kicad_mod] -> ref base 'SOT-323-3_L2.0-W1.2-P1.30-LS2.3-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOT-323-3_L2.0-W1.2-P1.30-LS2.3-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\Q_SOT-223-4.kicad_mod] -> ref base 'SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\Q_TO-126.kicad_mod] -> ref base 'TO-126-3_L7.6-W2.7-P2.30-L.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TO-126-3_L7.6-W2.7-P2.30-L.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\Q_TO-220-3.kicad_mod] -> ref base 'TO-220-3_L10.0-W4.5-P2.54-L.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TO-220-3_L10.0-W4.5-P2.54-L.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\Q_TO-220FP-3.kicad_mod] -> ref base 'TO-220F-3_L10.2-W4.7-P2.54-L.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TO-220F-3_L10.2-W4.7-P2.54-L.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\Q_TO-220SIS.kicad_mod] -> ref base 'TO-220F-3_L10.2-W4.7-P2.54-L.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TO-220F-3_L10.2-W4.7-P2.54-L.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\Q_TO-252.kicad_mod] -> ref base 'TO-252-2_L6.6-W6.1-P4.57-LS9.9-BR-CW.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TO-252-2_L6.6-W6.1-P4.57-LS9.9-BR-CW.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\Q_TO-92-3.kicad_mod] -> ref base 'TO-92-3_L4.8-W3.7-P2.54-R.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TO-92-3_L4.8-W3.7-P2.54-R.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\Q_TO-92.kicad_mod] -> ref base 'TO-92-3_L4.9-W3.7-P1.27-L.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TO-92-3_L4.9-W3.7-P1.27-L.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\RES-ADJ-TH_3P-BD13.0_WI-11-102.kicad_mod] -> ref base 'RES-ADJ-TH_3P-BD13.0_WI-11-102.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\RES-ADJ-TH_3P-BD13.0_WI-11-102.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\RT_0402.kicad_mod] -> ref base 'R_0402.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\R_0402.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\RT_Plugin,P=5mm.kicad_mod] -> ref base 'RES-TH_L10.5-W5.5-P5.0-D0.6.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\RES-TH_L10.5-W5.5-P5.0-D0.6.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\RT_Plugin,P=7.5mm.kicad_mod] -> ref base 'RES-TH_L12.5-W6.7-P7.50-D1.2.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\RES-TH_L12.5-W6.7-P7.50-D1.2.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\RV_1210.kicad_mod] -> ref base 'R1210.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\R1210.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\RV_Plugin,P=5mm.kicad_mod] -> ref base 'RES-TH_L10.5-W5.5-P5.0-D0.6.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\RES-TH_L10.5-W5.5-P5.0-D0.6.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\RV_Plugin,P=7.5mm.kicad_mod] -> ref base 'RES-TH_L15.0-W6.4-P7.50-D0.8.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\RES-TH_L15.0-W6.4-P7.50-D0.8.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\RV_Plugin,P=8mm.kicad_mod] -> ref base 'RV_Disc_D12mm_W6.3mm_P7.5mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\RV_Disc_D12mm_W6.3mm_P7.5mm.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\R_1812.kicad_mod] -> ref base 'R_1812.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\R_1812.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\R_2010.kicad_mod] -> ref base 'R_2010.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\R_2010.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\R_2512.kicad_mod] -> ref base 'R_2512.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\R_2512.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\R_2818.kicad_mod] -> ref base 'R2818.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\R2818.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\R_3921.kicad_mod] -> ref base 'RES-SMD_L10.0-W5.2.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\RES-SMD_L10.0-W5.2.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SC-70-5_L2.0-W1.3-P0.65-LS2.1-BR.kicad_mod] -> ref base 'SC-70-5_L2.0-W1.3-P0.65-LS2.1-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SC-70-5_L2.0-W1.3-P0.65-LS2.1-BR.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SC-70-5_L2.1-W1.3-P0.65-LS2.1-BL.kicad_mod] -> ref base 'SC-70-5_L2.1-W1.3-P0.65-LS2.1-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SC-70-5_L2.1-W1.3-P0.65-LS2.1-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SC-70-6_L2.0-W1.3-P0.65-LS2.1-BR.kicad_mod] -> ref base 'SC-70-6_L2.0-W1.3-P0.65-LS2.1-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SC-70-6_L2.0-W1.3-P0.65-LS2.1-BR.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SDB_L8.3-W6.4-P5.10-LS9.9-BL.kicad_mod] -> ref base 'SDB_L8.3-W6.4-P5.10-LS9.9-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SDB_L8.3-W6.4-P5.10-LS9.9-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SIP-3_L4.1-W1.6-P1.27-L.kicad_mod] -> ref base 'SIP-3_L4.1-W1.6-P1.27-L.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SIP-3_L4.1-W1.6-P1.27-L.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SMD-8_L9.8-W6.6-P2.54-LS10.3-BL.kicad_mod] -> ref base 'SMD-8_L9.8-W6.6-P2.54-LS10.3-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SMD-8_L9.8-W6.6-P2.54-LS10.3-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SMT-8_L9.7-W6.6-P2.54-LS10.3-BL.kicad_mod] -> ref base 'SMT-8_L9.7-W6.6-P2.54-LS10.3-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SMT-8_L9.7-W6.6-P2.54-LS10.3-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SO-8_L4.9-W3.9-P1.27-LS6.0-BL.kicad_mod] -> ref base 'SO-8_L4.9-W3.9-P1.27-LS6.0-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SO-8_L4.9-W3.9-P1.27-LS6.0-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL.kicad_mod] -> ref base 'SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOIC-18_L11.6-W7.5-P1.27-LS10.3-BL.kicad_mod] -> ref base 'SOIC-18_L11.6-W7.5-P1.27-LS10.3-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOIC-18_L11.6-W7.5-P1.27-LS10.3-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOIC-20W_7.5x12.8mm_P1.27mm.kicad_mod] -> ref base 'SOIC-20W_7.5x12.8mm_P1.27mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOIC-20W_7.5x12.8mm_P1.27mm.step', 'D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOIC-20W_7.5x12.8mm_P1.27mm.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOIC-28W_7.5x17.9mm_P1.27mm.kicad_mod] -> ref base 'SOIC-28W_7.5x17.9mm_P1.27mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOIC-28W_7.5x17.9mm_P1.27mm.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOIC-8_L4.9-W3.9-P1.27-LS6.1-BL.kicad_mod] -> ref base 'SOIC-8_L4.9-W3.9-P1.27-LS6.1-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOIC-8_L4.9-W3.9-P1.27-LS6.1-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOP-4_3.8x4.1mm_P2.54mm.kicad_mod] -> ref base 'SOP-4_3.8x4.1mm_P2.54mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOP-4_3.8x4.1mm_P2.54mm.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOP-4_L4.4-W2.8-P1.27-LS7.0-TL.kicad_mod] -> ref base 'SOP-4_L4.4-W2.8-P1.27-LS7.0-TL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOP-4_L4.4-W2.8-P1.27-LS7.0-TL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOP-4_L4.4-W4.0-P2.54-LS7.0-TL.kicad_mod] -> ref base 'SOP-4_L4.4-W4.0-P2.54-LS7.0-TL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOP-4_L4.4-W4.0-P2.54-LS7.0-TL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOP-8_L4.9-W3.9-P1.27-LS6.0-BL.kicad_mod] -> ref base 'SOP-8_L4.9-W3.9-P1.27-LS6.0-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOP-8_L4.9-W3.9-P1.27-LS6.0-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOP-8_L5.0-W3.8-P1.27-LS6.0-BL.kicad_mod] -> ref base 'SOP-8_L5.0-W3.8-P1.27-LS6.0-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOP-8_L5.0-W3.8-P1.27-LS6.0-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOP-8_L5.0-W3.9-P1.27-LS6.0-BL-1.kicad_mod] -> ref base 'SOP-8_L5.0-W3.9-P1.27-LS6.0-BL-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOP-8_L5.0-W3.9-P1.27-LS6.0-BL-1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-143-4_L2.9-W1.3-P1.92-LS2.4-BL.kicad_mod] -> ref base 'SOT-143-4_L2.9-W1.3-P1.92-LS2.4-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOT-143-4_L2.9-W1.3-P1.92-LS2.4-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR-1.kicad_mod] -> ref base 'SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR-1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-223-3_L6.7-W3.7-P2.30-LS7.0-BR.kicad_mod] -> ref base 'SOT-223-3_L6.7-W3.7-P2.30-LS7.0-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOT-223-3_L6.7-W3.7-P2.30-LS7.0-BR.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR.kicad_mod] -> ref base 'SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-1.kicad_mod] -> ref base 'SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR.kicad_mod] -> ref base 'SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-25_L3.0-W1.6-P0.95-LS2.8-BL.kicad_mod] -> ref base 'SOT-25_L3.0-W1.6-P0.95-LS2.8-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOT-25_L3.0-W1.6-P0.95-LS2.8-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-363-6_L2.2-W1.3-P0.65-LS2.1-BL.kicad_mod] -> ref base 'SOT-363-6_L2.2-W1.3-P0.65-LS2.1-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOT-363-6_L2.2-W1.3-P0.65-LS2.1-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-363_L2.1-W1.3-P0.65-LS2.1-BL.kicad_mod] -> ref base 'SOT-363_L2.1-W1.3-P0.65-LS2.1-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOT-363_L2.1-W1.3-P0.65-LS2.1-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-363_SC-70-6.kicad_mod] -> ref base 'SOT-363_SC-70-6.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOT-363_SC-70-6.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-669_L4.9-W4.0-P1.27-LS6.0-BR.kicad_mod] -> ref base 'SOT-669_L4.9-W4.0-P1.27-LS6.0-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOT-669_L4.9-W4.0-P1.27-LS6.0-BR.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SSOP-16_L4.9-W3.9-P0.64-LS6.0-BL.kicad_mod] -> ref base 'SSOP-16_L4.9-W3.9-P0.64-LS6.0-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SSOP-16_L4.9-W3.9-P0.64-LS6.0-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SW-SMD_218-2LPSTRF.kicad_mod] -> ref base 'SW-SMD_218-2LPSTRF.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SW-SMD_218-2LPSTRF.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SW-TH_PBS-42D02.kicad_mod] -> ref base 'SW-TH_PBS-42D02.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SW-TH_PBS-42D02.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TDSON-8-4_IRF40H233.kicad_mod] -> ref base 'TDSON-8-4_IRF40H233.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TDSON-8-4_IRF40H233.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TO-220-3_L9.9-W4.5-P2.54-L-1.kicad_mod] -> ref base 'TO-220-3_L9.9-W4.5-P2.54-L-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TO-220-3_L9.9-W4.5-P2.54-L-1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TO-220AB-3_L10.4-W4.6-P2.54-L.kicad_mod] -> ref base 'TO-220AB-3_L10.4-W4.6-P2.54-L.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TO-220AB-3_L10.4-W4.6-P2.54-L.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TO-263AB_L10.2-W9.0-P5.08-LS15.2-BL.kicad_mod] -> ref base 'TO-263AB_L10.2-W9.0-P5.08-LS15.2-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TO-263AB_L10.2-W9.0-P5.08-LS15.2-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TO-3P-3_L16.2-W5.0-P5.45-L.kicad_mod] -> ref base 'TO-247-3_Vertical.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TO-247-3_Vertical.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TO-92-3_L4.8-W3.7-P1.27-L-1.kicad_mod] -> ref base 'TO-92-3_L4.8-W3.7-P1.27-L-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TO-92-3_L4.8-W3.7-P1.27-L-1.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TSOP-32_L8.1-W12.5-P0.50-LS14.2-TL.kicad_mod] -> ref base 'TSOP-32_L8.1-W12.5-P0.50-LS14.2-TL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TSOP-32_L8.1-W12.5-P0.50-LS14.2-TL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL.kicad_mod] -> ref base 'TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL.kicad_mod] -> ref base 'TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TSSOP-5_L2.1-W1.3-P0.65-LS2.2-BR.kicad_mod] -> ref base 'TSSOP-5_L2.1-W1.3-P0.65-LS2.2-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TSSOP-5_L2.1-W1.3-P0.65-LS2.2-BR.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TSSOP-8_L4.4-W3.0-P0.65-LS6.4-BL.kicad_mod] -> ref base 'TSSOP-8_L4.4-W3.0-P0.65-LS6.4-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TSSOP-8_L4.4-W3.0-P0.65-LS6.4-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TYPE-C-SMD_U263-163N-4BLS1735.kicad_mod] -> ref base 'TYPE-C-SMD_U263-163N-4BLS1735.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\TYPE-C-SMD_U263-163N-4BLS1735.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\U-DFN2020-6B_L2.0-W2.0-P0.65-BL.kicad_mod] -> ref base 'U-DFN2020-6B_L2.0-W2.0-P0.65-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\U-DFN2020-6B_L2.0-W2.0-P0.65-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\UFDFN-6_L1.45-W1.0-P0.50-BL.kicad_mod] -> ref base 'UFDFN-6_L1.45-W1.0-P0.50-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\UFDFN-6_L1.45-W1.0-P0.50-BL.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\USB-C-TH_KINGHELM_KH-TYPE-C-L15-6P.kicad_mod] -> ref base 'USB-C-TH_KINGHELM_KH-TYPE-C-L15-6P.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\USB-C-TH_KINGHELM_KH-TYPE-C-L15-6P.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\USB-TYPE-C-TH_TYPEC-214-ARP14H105.kicad_mod] -> ref base 'USB-TYPE-C-TH_TYPEC-214-ARP14H105.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\USB-TYPE-C-TH_TYPEC-214-ARP14H105.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\WSON-12_L3.0-W2.0-P0.5-BL-EP2.7.kicad_mod] -> ref base 'WSON-12_L3.0-W2.0-P0.5-BL-EP2.7.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\WSON-12_L3.0-W2.0-P0.5-BL-EP2.7.step']
+MISSING [Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\WSON-8_L8.0-W6.0-P1.27-TL-EP-1.kicad_mod] -> ref base 'WSON-8_L8.0-W6.0-P1.27-TL-EP-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\WSON-8_L8.0-W6.0-P1.27-TL-EP-1.step']
+MISSING [footprints\JLCPCB.pretty\ANT-TH_L25.0-W25.0.kicad_mod] -> ref base 'ANT-TH_L25.0-W25.0.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\ANT-TH_L25.0-W25.0.step']
+MISSING [footprints\JLCPCB.pretty\Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering.kicad_mod] -> ref base 'Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering.step']
+MISSING [footprints\JLCPCB.pretty\CRYSTAL-SMD_4P-L3.2-W2.5-BL.kicad_mod] -> ref base 'CRYSTAL-SMD_4P-L3.2-W2.5-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\CRYSTAL-SMD_4P-L3.2-W2.5-BL.step']
+MISSING [footprints\JLCPCB.pretty\CRYSTAL-SMD_L11.5-W4.8-LS12.7.kicad_mod] -> ref base 'CRYSTAL-SMD_L11.5-W4.8-LS12.7.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\CRYSTAL-SMD_L11.5-W4.8-LS12.7.step']
+MISSING [footprints\JLCPCB.pretty\CRYSTAL-SMD_L5.0-W3.2.kicad_mod] -> ref base 'CRYSTAL-SMD_L5.0-W3.2.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\CRYSTAL-SMD_L5.0-W3.2.step']
+MISSING [footprints\JLCPCB.pretty\C_0402.kicad_mod] -> ref base 'C_0402.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\C_0402.step']
+MISSING [footprints\JLCPCB.pretty\C_0603.kicad_mod] -> ref base 'C_0603.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\C_0603.step']
+MISSING [footprints\JLCPCB.pretty\C_0805.kicad_mod] -> ref base 'C_0805.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\C_0805.step']
+MISSING [footprints\JLCPCB.pretty\C_1206.kicad_mod] -> ref base 'C_1206.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\C_1206.step']
+MISSING [footprints\JLCPCB.pretty\C_CASE-A-3216-18(mm).kicad_mod] -> ref base 'C_CASE-A-3216-18(mm).step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\C_CASE-A-3216-18(mm).step']
+MISSING [footprints\JLCPCB.pretty\C_CASE-B-3528-21(mm).kicad_mod] -> ref base 'C_CASE-B-3528-21(mm).step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\C_CASE-B-3528-21(mm).step']
+MISSING [footprints\JLCPCB.pretty\DBS_L8.2-W6.4-P5.10-LS10.0-BL.kicad_mod] -> ref base 'DBS_L8.2-W6.4-P5.10-LS10.0-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\DBS_L8.2-W6.4-P5.10-LS10.0-BL.step']
+MISSING [footprints\JLCPCB.pretty\DFN1006-3L_L1.0-W0.6-LS1.0-BR.kicad_mod] -> ref base 'DFN1006-3L_L1.0-W0.6-LS1.0-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\DFN1006-3L_L1.0-W0.6-LS1.0-BR.step']
+MISSING [footprints\JLCPCB.pretty\DFN2020-3_L2.0-W2.0-P0.65-BR-1.kicad_mod] -> ref base 'DFN2020-3_L2.0-W2.0-P0.65-BR-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\DFN2020-3_L2.0-W2.0-P0.65-BR-1.step']
+MISSING [footprints\JLCPCB.pretty\DFN2020-3_L2.0-W2.0-P1.30-BR-1.kicad_mod] -> ref base 'DFN2020-3_L2.0-W2.0-P1.30-BR-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\DFN2020-3_L2.0-W2.0-P1.30-BR-1.step']
+MISSING [footprints\JLCPCB.pretty\DFN2510-10_L2.5-W1.0-P0.50-BL.kicad_mod] -> ref base 'DFN2510-10_L2.5-W1.0-P0.50-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\DFN2510-10_L2.5-W1.0-P0.50-BL.step']
+MISSING [footprints\JLCPCB.pretty\D_0603.kicad_mod] -> ref base 'D_0603.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\D_0603.step']
+MISSING [footprints\JLCPCB.pretty\D_0805.kicad_mod] -> ref base 'D_0805.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\D_0805.step']
+MISSING [footprints\JLCPCB.pretty\D_DFN0603-2.kicad_mod] -> ref base 'DFN0603-2L-BI.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\DFN0603-2L-BI.step']
+MISSING [footprints\JLCPCB.pretty\D_DFN0603-2L.kicad_mod] -> ref base 'DFN0603-2_L0.6-W0.3-P0.40-RD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\DFN0603-2_L0.6-W0.3-P0.40-RD.step']
+MISSING [footprints\JLCPCB.pretty\D_DFN1006-2L.kicad_mod] -> ref base 'DFN1006-2L-RD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\DFN1006-2L-RD.step']
+MISSING [footprints\JLCPCB.pretty\D_DFN1610-2L.kicad_mod] -> ref base 'DFN1610-2L_L1.6-W1.0-P1.10-RD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\DFN1610-2L_L1.6-W1.0-P1.10-RD.step']
+MISSING [footprints\JLCPCB.pretty\D_DO-214AC(SMA).kicad_mod] -> ref base 'SMA_L4.5-W2.6-LS5.1-RD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SMA_L4.5-W2.6-LS5.1-RD.step']
+MISSING [footprints\JLCPCB.pretty\D_SMA.kicad_mod] -> ref base 'D_SMA.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\D_SMA.step']
+MISSING [footprints\JLCPCB.pretty\D_SMAF.kicad_mod] -> ref base 'SMAF_L3.5-W2.6-LS4.7-RD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SMAF_L3.5-W2.6-LS4.7-RD.step']
+MISSING [footprints\JLCPCB.pretty\D_SMB.kicad_mod] -> ref base 'D_SMB.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\D_SMB.step']
+MISSING [footprints\JLCPCB.pretty\D_SMC(DO-214AB).kicad_mod] -> ref base 'SMC_L7.1-W6.2-LS8.1-R-RD.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SMC_L7.1-W6.2-LS8.1-R-RD.step']
+MISSING [footprints\JLCPCB.pretty\D_SMC.kicad_mod] -> ref base 'D_SMC.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\D_SMC.step']
+MISSING [footprints\JLCPCB.pretty\D_SOD-123.kicad_mod] -> ref base 'D_SOD-123.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\D_SOD-123.step']
+MISSING [footprints\JLCPCB.pretty\D_SOD-123FL.kicad_mod] -> ref base 'D_SOD-123FL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\D_SOD-123FL.step']
+MISSING [footprints\JLCPCB.pretty\D_SOD-323.kicad_mod] -> ref base 'D_SOD-323.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\D_SOD-323.step']
+MISSING [footprints\JLCPCB.pretty\D_SOD-523.kicad_mod] -> ref base 'D_SOD-523.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\D_SOD-523.step']
+MISSING [footprints\JLCPCB.pretty\D_SOT-23.kicad_mod] -> ref base 'D_SOT-23.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\D_SOT-23.step']
+MISSING [footprints\JLCPCB.pretty\ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP.kicad_mod] -> ref base 'ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP.step']
+MISSING [footprints\JLCPCB.pretty\ESOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP.kicad_mod] -> ref base 'ESOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\ESOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP.step']
+MISSING [footprints\JLCPCB.pretty\ESP-12E.kicad_mod] -> ref base 'ESP-12E.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\ESP-12E.step']
+MISSING [footprints\JLCPCB.pretty\FB_0603.kicad_mod] -> ref base 'FB_0603.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\FB_0603.step']
+MISSING [footprints\JLCPCB.pretty\FB_0805.kicad_mod] -> ref base 'FB_0805.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\FB_0805.step']
+MISSING [footprints\JLCPCB.pretty\FC-135R_L3.2-W1.5.kicad_mod] -> ref base 'FC-135R_L3.2-W1.5.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\FC-135R_L3.2-W1.5.step']
+MISSING [footprints\JLCPCB.pretty\IPEX-SMD_BWIPX-1-001E.kicad_mod] -> ref base 'IPEX-SMD_BWIPX-1-001E.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\IPEX-SMD_BWIPX-1-001E.step']
+MISSING [footprints\JLCPCB.pretty\LED-SMD_4P-L1.6-W1.5_XL-1615RGBC-WS2812B.kicad_mod] -> ref base 'LED-SMD_4P-L1.6-W1.5_XL-1615RGBC-WS2812B.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\LED-SMD_4P-L1.6-W1.5_XL-1615RGBC-WS2812B.step']
+MISSING [footprints\JLCPCB.pretty\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.kicad_mod] -> ref base 'LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step']
+MISSING [footprints\JLCPCB.pretty\Lite-On_LTR-303ALS-01.kicad_mod] -> ref base 'Lite-On_LTR-303ALS-01.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\Lite-On_LTR-303ALS-01.step']
+MISSING [footprints\JLCPCB.pretty\LQFP-32_7x7mm_P0.8mm.kicad_mod] -> ref base 'LQFP-32_7x7mm_P0.8mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\LQFP-32_7x7mm_P0.8mm.step']
+MISSING [footprints\JLCPCB.pretty\LQFP-48_7x7mm_P0.5mm.kicad_mod] -> ref base 'LQFP-48_7x7mm_P0.5mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\LQFP-48_7x7mm_P0.5mm.step']
+MISSING [footprints\JLCPCB.pretty\LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL.kicad_mod] -> ref base 'LQFP-48_7x7mm_P0.5mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\LQFP-48_7x7mm_P0.5mm.step']
+MISSING [footprints\JLCPCB.pretty\L_0402.kicad_mod] -> ref base 'L_0402.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\L_0402.step']
+MISSING [footprints\JLCPCB.pretty\L_0603.kicad_mod] -> ref base 'L_0603.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\L_0603.step']
+MISSING [footprints\JLCPCB.pretty\L_0805.kicad_mod] -> ref base 'L_0805.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\L_0805.step']
+MISSING [footprints\JLCPCB.pretty\L_1206.kicad_mod] -> ref base 'L_1206.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\L_1206.step']
+MISSING [footprints\JLCPCB.pretty\MBS_L4.7-W3.8-P2.40-LS7.0-TL.kicad_mod] -> ref base 'MBS_L4.7-W3.8-P2.40-LS7.0-TL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\MBS_L4.7-W3.8-P2.40-LS7.0-TL.step']
+MISSING [footprints\JLCPCB.pretty\OSC-SMD_4P-L3.2-W2.5-BL.kicad_mod] -> ref base 'OSC-SMD_4P-L3.2-W2.5-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\OSC-SMD_4P-L3.2-W2.5-BL.step']
+MISSING [footprints\JLCPCB.pretty\OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI.kicad_mod] -> ref base 'OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI.step']
+MISSING [footprints\JLCPCB.pretty\OSC-SMD_L5.0-W3.2.kicad_mod] -> ref base 'OSC-SMD_L5.0-W3.2.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\OSC-SMD_L5.0-W3.2.step']
+MISSING [footprints\JLCPCB.pretty\PG-TO-263-5_L10.2-W8.7-P1.70-LS14.4-BR.kicad_mod] -> ref base 'PG-TO-263-5_L10.2-W8.7-P1.70-LS14.4-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\PG-TO-263-5_L10.2-W8.7-P1.70-LS14.4-BR.step']
+MISSING [footprints\JLCPCB.pretty\QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm.kicad_mod] -> ref base 'QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm.step']
+MISSING [footprints\JLCPCB.pretty\QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias.kicad_mod] -> ref base 'QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.step']
+MISSING [footprints\JLCPCB.pretty\QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm_ThermalVias.kicad_mod] -> ref base 'QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm.step']
+MISSING [footprints\JLCPCB.pretty\QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm_ThermalVias.kicad_mod] -> ref base 'QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm.step']
+MISSING [footprints\JLCPCB.pretty\QFN-56-1EP_7x7mm_P0.4mm_EP4x4mm_ThermalVias.kicad_mod] -> ref base 'QFN-56-1EP_7x7mm_P0.4mm_EP4x4mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\QFN-56-1EP_7x7mm_P0.4mm_EP4x4mm.step']
+MISSING [footprints\JLCPCB.pretty\Q_SOT-23.kicad_mod] -> ref base 'Q_SOT-23.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\Q_SOT-23.step']
+MISSING [footprints\JLCPCB.pretty\Q_SOT-323.kicad_mod] -> ref base 'SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR.step']
+MISSING [footprints\JLCPCB.pretty\Q_SOT-89.kicad_mod] -> ref base 'Q_SOT-89-3.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\Q_SOT-89-3.step']
+MISSING [footprints\JLCPCB.pretty\R_0402.kicad_mod] -> ref base 'R_0402.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\R_0402.step']
+MISSING [footprints\JLCPCB.pretty\R_0402x4.kicad_mod] -> ref base 'R_0402x4.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\R_0402x4.step']
+MISSING [footprints\JLCPCB.pretty\R_0603.kicad_mod] -> ref base 'R_0603.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\R_0603.step']
+MISSING [footprints\JLCPCB.pretty\R_0603x4.kicad_mod] -> ref base 'R_0603x4.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\R_0603x4.step']
+MISSING [footprints\JLCPCB.pretty\R_0805.kicad_mod] -> ref base 'R_0805.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\R_0805.step']
+MISSING [footprints\JLCPCB.pretty\R_1206.kicad_mod] -> ref base 'R_1206.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\R_1206.step']
+MISSING [footprints\JLCPCB.pretty\Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm.kicad_mod] -> ref base 'Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm.step']
+MISSING [footprints\JLCPCB.pretty\SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL.kicad_mod] -> ref base 'SOIC-14_3.9x8.7mm_P1.27mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOIC-14_3.9x8.7mm_P1.27mm.step']
+MISSING [footprints\JLCPCB.pretty\SOIC-16_3.9x9.9mm_P1.27mm.kicad_mod] -> ref base 'SOIC-16_3.9x9.9mm_P1.27mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOIC-16_3.9x9.9mm_P1.27mm.step']
+MISSING [footprints\JLCPCB.pretty\SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL.kicad_mod] -> ref base 'SOIC-16_3.9x9.9mm_P1.27mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOIC-16_3.9x9.9mm_P1.27mm.step']
+MISSING [footprints\JLCPCB.pretty\SOIC-20_L13.0-W7.6-P1.27-LS10.3-BL.kicad_mod] -> ref base 'SOIC-20W_7.5x12.8mm_P1.27mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOIC-20W_7.5x12.8mm_P1.27mm.step', 'D:\\KICAD_MEGA_LIBRARY\\Archived-Symbols-Footprints\\JLCPCB-Kicad-Footprints\\3dModels\\SOIC-20W_7.5x12.8mm_P1.27mm.step']
+MISSING [footprints\JLCPCB.pretty\SOIC-8_3.9x4.9mm_P1.27mm.kicad_mod] -> ref base 'SOIC-8_3.9x4.9mm_P1.27mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOIC-8_3.9x4.9mm_P1.27mm.step']
+MISSING [footprints\JLCPCB.pretty\SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL.kicad_mod] -> ref base 'SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL.step']
+MISSING [footprints\JLCPCB.pretty\SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL.kicad_mod] -> ref base 'SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL.step']
+MISSING [footprints\JLCPCB.pretty\SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL.kicad_mod] -> ref base 'SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL.step']
+MISSING [footprints\JLCPCB.pretty\SOP-4_4.4x2.6mm_P1.27mm.kicad_mod] -> ref base 'SOP-4_4.4x2.6mm_P1.27mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOP-4_4.4x2.6mm_P1.27mm.step']
+MISSING [footprints\JLCPCB.pretty\SOT-143-4_L2.9-W1.3-P1.90-LS2.4-BL-1.kicad_mod] -> ref base 'SOT-143-4_L2.9-W1.3-P1.90-LS2.4-BL-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-143-4_L2.9-W1.3-P1.90-LS2.4-BL-1.step']
+MISSING [footprints\JLCPCB.pretty\SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR.kicad_mod] -> ref base 'SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR.step']
+MISSING [footprints\JLCPCB.pretty\SOT-223_L6.5-W3.5-P2.30-LS7.0-BR.kicad_mod] -> ref base 'SOT-223_L6.5-W3.5-P2.30-LS7.0-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-223_L6.5-W3.5-P2.30-LS7.0-BR.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR.kicad_mod] -> ref base 'SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BL-1.kicad_mod] -> ref base 'SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BL-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BL-1.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR.kicad_mod] -> ref base 'SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.3-P1.90-LS2.8-BR.kicad_mod] -> ref base 'SOT-23-3_L2.9-W1.3-P1.90-LS2.8-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-3_L2.9-W1.3-P1.90-LS2.8-BR.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.4-P1.90-LS2.5-BR.kicad_mod] -> ref base 'SOT-23-3_L2.9-W1.4-P1.90-LS2.5-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-3_L2.9-W1.4-P1.90-LS2.5-BR.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.5-P1.90-LS2.6-BR.kicad_mod] -> ref base 'SOT-23-3_L2.9-W1.5-P1.90-LS2.6-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-3_L2.9-W1.5-P1.90-LS2.6-BR.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR.kicad_mod] -> ref base 'SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR.kicad_mod] -> ref base 'SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL.kicad_mod] -> ref base 'SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR.kicad_mod] -> ref base 'SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL-1.kicad_mod] -> ref base 'SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL-1.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL-1.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL.kicad_mod] -> ref base 'SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR.kicad_mod] -> ref base 'SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR.step']
+MISSING [footprints\JLCPCB.pretty\SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL.kicad_mod] -> ref base 'SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL.step']
+MISSING [footprints\JLCPCB.pretty\SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR-2.kicad_mod] -> ref base 'SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR-2.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR-2.step']
+MISSING [footprints\JLCPCB.pretty\SOT-323-3_L2.0-W1.3-P1.30-LS2.3-BR.kicad_mod] -> ref base 'SOT-323-3_L2.0-W1.3-P1.30-LS2.3-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-323-3_L2.0-W1.3-P1.30-LS2.3-BR.step']
+MISSING [footprints\JLCPCB.pretty\SOT-363-6_L2.0-W1.3-P0.65-LS2.3-BL.kicad_mod] -> ref base 'SOT-363-6_L2.0-W1.3-P0.65-LS2.3-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-363-6_L2.0-W1.3-P0.65-LS2.3-BL.step']
+MISSING [footprints\JLCPCB.pretty\SOT-363_L2.0-W1.3-P0.65-LS2.1-BR.kicad_mod] -> ref base 'SOT-363_L2.0-W1.3-P0.65-LS2.1-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-363_L2.0-W1.3-P0.65-LS2.1-BR.step']
+MISSING [footprints\JLCPCB.pretty\SOT-363_L2.1-W1.3-P0.65-LS2.2-BL.kicad_mod] -> ref base 'SOT-363_L2.1-W1.3-P0.65-LS2.2-BL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-363_L2.1-W1.3-P0.65-LS2.2-BL.step']
+MISSING [footprints\JLCPCB.pretty\SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR.kicad_mod] -> ref base 'SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR.step']
+MISSING [footprints\JLCPCB.pretty\SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.kicad_mod] -> ref base 'SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step']
+MISSING [footprints\JLCPCB.pretty\SW_TS-1088-AR02016.kicad_mod] -> ref base 'TS-1088-AR02016.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\TS-1088-AR02016.step']
+MISSING [footprints\JLCPCB.pretty\TO-252-2_L6.5-W6.1-P4.58-LS10.0-TL.kicad_mod] -> ref base 'TO-252-2_L6.5-W6.1-P4.58-LS10.0-TL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\TO-252-2_L6.5-W6.1-P4.58-LS10.0-TL.step']
+MISSING [footprints\JLCPCB.pretty\TO-263-5_L10.2-W8.9-P1.70-TL.kicad_mod] -> ref base 'TO-263-5_L10.2-W8.9-P1.70-TL.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\TO-263-5_L10.2-W8.9-P1.70-TL.step']
+MISSING [footprints\JLCPCB.pretty\TQFP-32_7x7mm_P0.8mm.kicad_mod] -> ref base 'TQFP-32_7x7mm_P0.8mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\TQFP-32_7x7mm_P0.8mm.step']
+MISSING [footprints\JLCPCB.pretty\TSSOP-10_3x3mm_P0.5mm.kicad_mod] -> ref base 'TSSOP-10_3x3mm_P0.5mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\TSSOP-10_3x3mm_P0.5mm.step']
+MISSING [footprints\JLCPCB.pretty\TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL.kicad_mod] -> ref base 'TSSOP-16_4.4x5mm_P0.65mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\TSSOP-16_4.4x5mm_P0.65mm.step']
+MISSING [footprints\JLCPCB.pretty\TSSOP-20_4.4x6.5mm_P0.65mm.kicad_mod] -> ref base 'TSSOP-20_4.4x6.5mm_P0.65mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\TSSOP-20_4.4x6.5mm_P0.65mm.step']
+MISSING [footprints\JLCPCB.pretty\TSSOP-24_L7.8-W4.4-P0.65-LS6.4-BL.kicad_mod] -> ref base 'TSSOP-24_6.1x7.8mm_P0.65mm.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\TSSOP-24_6.1x7.8mm_P0.65mm.step']
+MISSING [footprints\JLCPCB.pretty\TYPE-C-SMD_HX-TYPE-C-16PIN.kicad_mod] -> ref base 'TYPE-C-SMD_HX-TYPE-C-16PIN.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\TYPE-C-SMD_HX-TYPE-C-16PIN.step']
+MISSING [footprints\JLCPCB.pretty\WQFN-28_L5.0-W5.0-P0.50-BL-EP3.2.kicad_mod] -> ref base 'WQFN-28_L5.0-W5.0-P0.50-BL-EP3.2.step' found at: ['D:\\KICAD_MEGA_LIBRARY\\3dmodels\\JLCPCB.3dshapes\\WQFN-28_L5.0-W5.0-P0.50-BL-EP3.2.step']
+
+### No model at all: 14 files
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\D_SMD,3.4x1.6mm.kicad_mod
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\IND-TH_4P-L9.0-W5.0-P3.50-D0.3-1.kicad_mod
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\PWRM-TH_L28.0-W18.0_R02-T2S12-H.kicad_mod
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\Q_TO-3.kicad_mod
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\RV_Plugin,P=10mm.kicad_mod
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOP-6_L4.5-W6.8-P1.27-LS11.5-BL.kicad_mod
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SSOP-24_L8.6-W3.9-P0.65-LS6.0-BL-EP.kicad_mod
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TDFN-6_L2.0-W1.3-P0.40-TR.kicad_mod
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\TO-263-5_L10.0-W9.0-P1.70-LS15.0-BL.kicad_mod
+  - footprints\JLCPCB.pretty\Hole, 3mm.kicad_mod
+  - footprints\JLCPCB.pretty\Hole_Tooling_JLCPCB.kicad_mod
+  - footprints\JLCPCB.pretty\MouseBites, Cosmetic, JLCPCB, 1.6mm.kicad_mod
+  - footprints\JLCPCB.pretty\MouseBites, Mechanical, JLCPCB, 1.6mm.kicad_mod
+  - footprints\JLCPCB.pretty\Part_Num_JLCPCB.kicad_mod
+
+### Refs using ${KICAD8_3RD_PARTY} (old/legacy): 161
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\AUDIO-TH_PJ-3850-5A.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/AUDIO-TH_PJ-3850-5A.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\BAT-TH_BS-07-A1BJ001.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/BAT-TH_BS-07-A1BJ001.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\CONN-TH_2P-P5.00_KFM736H-5.0-2X1P.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CONN-TH_2P-P5.00_KFM736H-5.0-2X1P.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\CONN-TH_4P-P5.08_DB129VG-5.08-4P-GN-S.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CONN-TH_4P-P5.08_DB129VG-5.08-4P-GN-S.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\CRYSTAL-SMD_4P-L2.5-W2.0-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CRYSTAL-SMD_4P-L2.5-W2.0-BL.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_1812.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_1812.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_1825.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_1825.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,D10xL16mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CAP-TH_BD10.0-P5.00-D0.6-FD-A.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,P=10mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CAP-TH_L13.0-W7.0-P10.00-D0.6.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,P=15mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CAP-TH_L26.5-W10.0-P22.50-D0.8.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,P=27.5mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CAP-TH_L32.0-W13.0-P27.50-D0.8.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\C_Plugin,P=7.5mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CAP-TH_L6.8-W5.0-P7.50-D0.6-S4.40.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\D_SMBF.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SMBF_L4.3-W3.6-LS5.3-RD.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\FILTER-SMD_4P-L12.0-W10.8-TL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/FILTER-SMD_4P-L12.0-W10.8-TL.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\FILTER-SMD_4P-L9.5-W8.3_PSMCAQ1050-222P.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/FILTER-SMD_4P-L9.5-W8.3_PSMCAQ1050-222P.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\F_0603.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/F_0603.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\F_1206.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/F_1206.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\HC-49S_L7.0-W4.0.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/HC-49S_L7.0-W4.0.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\HDR-TH_8P-P2.54-V-M.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/PinHeader_1x08_P2.54mm_Vertical.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\IND-TH_L18.2-W10.2-P12.00-D0.9.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-TH_L18.2-W10.2-P12.00-D0.9.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_1008.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_1008.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,12.3x12.3mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_Coilcraft_MSS1260-XXX.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,12.5x12.5mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-SMD_L12.5-W12.5.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,12x12mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-SMD_L12.0-W12.0.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,4.5x4.1mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-SMD_L4.5-W4.1_TMPA0402SP.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,4.5x4x3.2mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-SMD_L4.5-W4.0_CD43.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,4x4mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_Bourns-SRN4018.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\L_SMD,8x8mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-SMD_L8.0-W8.0.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\OPTO-SMD-4_L4.4-W4.1-P2.54-LS7.0-TL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/OPTO-SMD-4_L4.4-W4.1-P2.54-LS7.0-TL.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\PDIP-8_L9.6-W6.4-P2.54-LS7.9-BL-1.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/PDIP-8_L9.6-W6.4-P2.54-LS7.9-BL-1.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\QFN-32_L5.0-W5.0-P0.50-TL-EP3.4.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/QFN-32_L5.0-W5.0-P0.50-TL-EP3.4.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\RV_1210.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R1210.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\RV_Plugin,P=5mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/RES-TH_L10.5-W5.5-P5.0-D0.6.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\RV_Plugin,P=7.5mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/RES-TH_L15.0-W6.4-P7.50-D0.8.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\RV_Plugin,P=8mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/RV_Disc_D12mm_W6.3mm_P7.5mm.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\R_1812.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_1812.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\R_2010.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_2010.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\R_2512.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_2512.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SMD-8_L9.8-W6.6-P2.54-LS10.3-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SMD-8_L9.8-W6.6-P2.54-LS10.3-BL.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOP-4_3.8x4.1mm_P2.54mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOP-4_3.8x4.1mm_P2.54mm.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOP-4_L4.4-W2.8-P1.27-LS7.0-TL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOP-4_L4.4-W2.8-P1.27-LS7.0-TL.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOP-4_L4.4-W4.0-P2.54-LS7.0-TL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOP-4_L4.4-W4.0-P2.54-LS7.0-TL.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR-1.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR-1.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-363-6_L2.2-W1.3-P0.65-LS2.1-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-363-6_L2.2-W1.3-P0.65-LS2.1-BL.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-363_SC-70-6.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-363_SC-70-6.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SW-SMD_218-2LPSTRF.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_218-2LPSTRF.step
+  - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\USB-C-TH_KINGHELM_KH-TYPE-C-L15-6P.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/USB-C-TH_KINGHELM_KH-TYPE-C-L15-6P.step
+  - footprints\JLCPCB.pretty\ANT-TH_L25.0-W25.0.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/ANT-TH_L25.0-W25.0.step
+  - footprints\JLCPCB.pretty\Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering.step
+  - footprints\JLCPCB.pretty\CRYSTAL-SMD_4P-L3.2-W2.5-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CRYSTAL-SMD_4P-L3.2-W2.5-BL.step
+  - footprints\JLCPCB.pretty\CRYSTAL-SMD_L11.5-W4.8-LS12.7.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CRYSTAL-SMD_L11.5-W4.8-LS12.7.step
+  - footprints\JLCPCB.pretty\CRYSTAL-SMD_L5.0-W3.2.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CRYSTAL-SMD_L5.0-W3.2.step
+  - footprints\JLCPCB.pretty\C_0402.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0402.step
+  - footprints\JLCPCB.pretty\C_0603.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+  - footprints\JLCPCB.pretty\C_0805.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0805.step
+  - footprints\JLCPCB.pretty\C_1206.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_1206.step
+  - footprints\JLCPCB.pretty\C_CASE-A-3216-18(mm).kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_CASE-A-3216-18(mm).step
+  - footprints\JLCPCB.pretty\C_CASE-B-3528-21(mm).kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_CASE-B-3528-21(mm).step
+  - footprints\JLCPCB.pretty\DBS_L8.2-W6.4-P5.10-LS10.0-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DBS_L8.2-W6.4-P5.10-LS10.0-BL.step
+  - footprints\JLCPCB.pretty\DFN1006-3L_L1.0-W0.6-LS1.0-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN1006-3L_L1.0-W0.6-LS1.0-BR.step
+  - footprints\JLCPCB.pretty\DFN2020-3_L2.0-W2.0-P0.65-BR-1.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN2020-3_L2.0-W2.0-P0.65-BR-1.step
+  - footprints\JLCPCB.pretty\DFN2020-3_L2.0-W2.0-P1.30-BR-1.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN2020-3_L2.0-W2.0-P1.30-BR-1.step
+  - footprints\JLCPCB.pretty\DFN2510-10_L2.5-W1.0-P0.50-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN2510-10_L2.5-W1.0-P0.50-BL.step
+  - footprints\JLCPCB.pretty\D_0603.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_0603.step
+  - footprints\JLCPCB.pretty\D_0805.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_0805.step
+  - footprints\JLCPCB.pretty\D_DFN0603-2.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN0603-2L-BI.step
+  - footprints\JLCPCB.pretty\D_DFN0603-2L.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN0603-2_L0.6-W0.3-P0.40-RD.step
+  - footprints\JLCPCB.pretty\D_DFN1006-2L.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN1006-2L-RD.step
+  - footprints\JLCPCB.pretty\D_DFN1610-2L.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN1610-2L_L1.6-W1.0-P1.10-RD.step
+  - footprints\JLCPCB.pretty\D_DO-214AC(SMA).kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SMA_L4.5-W2.6-LS5.1-RD.step
+  - footprints\JLCPCB.pretty\D_SMA.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SMA.step
+  - footprints\JLCPCB.pretty\D_SMAF.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SMAF_L3.5-W2.6-LS4.7-RD.step
+  - footprints\JLCPCB.pretty\D_SMB.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SMB.step
+  - footprints\JLCPCB.pretty\D_SMC(DO-214AB).kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SMC_L7.1-W6.2-LS8.1-R-RD.step
+  - footprints\JLCPCB.pretty\D_SMC.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SMC.step
+  - footprints\JLCPCB.pretty\D_SOD-123.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SOD-123.step
+  - footprints\JLCPCB.pretty\D_SOD-123FL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SOD-123FL.step
+  - footprints\JLCPCB.pretty\D_SOD-323.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SOD-323.step
+  - footprints\JLCPCB.pretty\D_SOD-523.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SOD-523.step
+  - footprints\JLCPCB.pretty\D_SOT-23.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SOT-23.step
+  - footprints\JLCPCB.pretty\ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP.step
+  - footprints\JLCPCB.pretty\ESOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/ESOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP.step
+  - footprints\JLCPCB.pretty\ESP-12E.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/ESP-12E.step
+  - footprints\JLCPCB.pretty\FB_0603.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/FB_0603.step
+  - footprints\JLCPCB.pretty\FB_0805.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/FB_0805.step
+  - footprints\JLCPCB.pretty\FC-135R_L3.2-W1.5.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/FC-135R_L3.2-W1.5.step
+  - footprints\JLCPCB.pretty\IPEX-SMD_BWIPX-1-001E.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IPEX-SMD_BWIPX-1-001E.step
+  - footprints\JLCPCB.pretty\LED-SMD_4P-L1.6-W1.5_XL-1615RGBC-WS2812B.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/LED-SMD_4P-L1.6-W1.5_XL-1615RGBC-WS2812B.step
+  - footprints\JLCPCB.pretty\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step
+  - footprints\JLCPCB.pretty\Lite-On_LTR-303ALS-01.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/Lite-On_LTR-303ALS-01.step
+  - footprints\JLCPCB.pretty\LQFP-32_7x7mm_P0.8mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/LQFP-32_7x7mm_P0.8mm.step
+  - footprints\JLCPCB.pretty\LQFP-48_7x7mm_P0.5mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/LQFP-48_7x7mm_P0.5mm.step
+  - footprints\JLCPCB.pretty\LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/LQFP-48_7x7mm_P0.5mm.step
+  - footprints\JLCPCB.pretty\L_0402.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_0402.step
+  - footprints\JLCPCB.pretty\L_0603.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_0603.step
+  - footprints\JLCPCB.pretty\L_0805.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_0805.step
+  - footprints\JLCPCB.pretty\L_1206.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_1206.step
+  - footprints\JLCPCB.pretty\MBS_L4.7-W3.8-P2.40-LS7.0-TL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/MBS_L4.7-W3.8-P2.40-LS7.0-TL.step
+  - footprints\JLCPCB.pretty\OSC-SMD_4P-L3.2-W2.5-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/OSC-SMD_4P-L3.2-W2.5-BL.step
+  - footprints\JLCPCB.pretty\OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI.step
+  - footprints\JLCPCB.pretty\OSC-SMD_L5.0-W3.2.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/OSC-SMD_L5.0-W3.2.step
+  - footprints\JLCPCB.pretty\PG-TO-263-5_L10.2-W8.7-P1.70-LS14.4-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/PG-TO-263-5_L10.2-W8.7-P1.70-LS14.4-BR.step
+  - footprints\JLCPCB.pretty\QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm.step
+  - footprints\JLCPCB.pretty\QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.step
+  - footprints\JLCPCB.pretty\QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm_ThermalVias.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm.step
+  - footprints\JLCPCB.pretty\QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm_ThermalVias.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm.step
+  - footprints\JLCPCB.pretty\QFN-56-1EP_7x7mm_P0.4mm_EP4x4mm_ThermalVias.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP4x4mm.step
+  - footprints\JLCPCB.pretty\Q_SOT-23.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/Q_SOT-23.step
+  - footprints\JLCPCB.pretty\Q_SOT-323.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR.step
+  - footprints\JLCPCB.pretty\Q_SOT-89.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/Q_SOT-89-3.step
+  - footprints\JLCPCB.pretty\R_0402.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0402.step
+  - footprints\JLCPCB.pretty\R_0402x4.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0402x4.step
+  - footprints\JLCPCB.pretty\R_0603.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+  - footprints\JLCPCB.pretty\R_0603x4.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603x4.step
+  - footprints\JLCPCB.pretty\R_0805.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0805.step
+  - footprints\JLCPCB.pretty\R_1206.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_1206.step
+  - footprints\JLCPCB.pretty\Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm.step
+  - footprints\JLCPCB.pretty\SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-14_3.9x8.7mm_P1.27mm.step
+  - footprints\JLCPCB.pretty\SOIC-16_3.9x9.9mm_P1.27mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-16_3.9x9.9mm_P1.27mm.step
+  - footprints\JLCPCB.pretty\SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-16_3.9x9.9mm_P1.27mm.step
+  - footprints\JLCPCB.pretty\SOIC-20_L13.0-W7.6-P1.27-LS10.3-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-20W_7.5x12.8mm_P1.27mm.step
+  - footprints\JLCPCB.pretty\SOIC-8_3.9x4.9mm_P1.27mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step
+  - footprints\JLCPCB.pretty\SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL.step
+  - footprints\JLCPCB.pretty\SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL.step
+  - footprints\JLCPCB.pretty\SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL.step
+  - footprints\JLCPCB.pretty\SOP-4_4.4x2.6mm_P1.27mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOP-4_4.4x2.6mm_P1.27mm.step
+  - footprints\JLCPCB.pretty\SOT-143-4_L2.9-W1.3-P1.90-LS2.4-BL-1.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-143-4_L2.9-W1.3-P1.90-LS2.4-BL-1.step
+  - footprints\JLCPCB.pretty\SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR.step
+  - footprints\JLCPCB.pretty\SOT-223_L6.5-W3.5-P2.30-LS7.0-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-223_L6.5-W3.5-P2.30-LS7.0-BR.step
+  - footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR.step
+  - footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BL-1.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BL-1.step
+  - footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR.step
+  - footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.3-P1.90-LS2.8-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.3-P1.90-LS2.8-BR.step
+  - footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.4-P1.90-LS2.5-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.4-P1.90-LS2.5-BR.step
+  - footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.5-P1.90-LS2.6-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.5-P1.90-LS2.6-BR.step
+  - footprints\JLCPCB.pretty\SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR.step
+  - footprints\JLCPCB.pretty\SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR.step
+  - footprints\JLCPCB.pretty\SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL.step
+  - footprints\JLCPCB.pretty\SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR.step
+  - footprints\JLCPCB.pretty\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL-1.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL-1.step
+  - footprints\JLCPCB.pretty\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL.step
+  - footprints\JLCPCB.pretty\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR.step
+  - footprints\JLCPCB.pretty\SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL.step
+  - footprints\JLCPCB.pretty\SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR-2.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR-2.step
+  - footprints\JLCPCB.pretty\SOT-323-3_L2.0-W1.3-P1.30-LS2.3-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-323-3_L2.0-W1.3-P1.30-LS2.3-BR.step
+  - footprints\JLCPCB.pretty\SOT-363-6_L2.0-W1.3-P0.65-LS2.3-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-363-6_L2.0-W1.3-P0.65-LS2.3-BL.step
+  - footprints\JLCPCB.pretty\SOT-363_L2.0-W1.3-P0.65-LS2.1-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-363_L2.0-W1.3-P0.65-LS2.1-BR.step
+  - footprints\JLCPCB.pretty\SOT-363_L2.1-W1.3-P0.65-LS2.2-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-363_L2.1-W1.3-P0.65-LS2.2-BL.step
+  - footprints\JLCPCB.pretty\SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR.step
+  - footprints\JLCPCB.pretty\SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step
+  - footprints\JLCPCB.pretty\SW_TS-1088-AR02016.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TS-1088-AR02016.step
+  - footprints\JLCPCB.pretty\TO-252-2_L6.5-W6.1-P4.58-LS10.0-TL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TO-252-2_L6.5-W6.1-P4.58-LS10.0-TL.step
+  - footprints\JLCPCB.pretty\TO-263-5_L10.2-W8.9-P1.70-TL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TO-263-5_L10.2-W8.9-P1.70-TL.step
+  - footprints\JLCPCB.pretty\TQFP-32_7x7mm_P0.8mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TQFP-32_7x7mm_P0.8mm.step
+  - footprints\JLCPCB.pretty\TSSOP-10_3x3mm_P0.5mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TSSOP-10_3x3mm_P0.5mm.step
+  - footprints\JLCPCB.pretty\TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TSSOP-16_4.4x5mm_P0.65mm.step
+  - footprints\JLCPCB.pretty\TSSOP-20_4.4x6.5mm_P0.65mm.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.step
+  - footprints\JLCPCB.pretty\TSSOP-24_L7.8-W4.4-P0.65-LS6.4-BL.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TSSOP-24_6.1x7.8mm_P0.65mm.step
+  - footprints\JLCPCB.pretty\TYPE-C-SMD_HX-TYPE-C-16PIN.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TYPE-C-SMD_HX-TYPE-C-16PIN.step
+  - footprints\JLCPCB.pretty\WQFN-28_L5.0-W5.0-P0.50-BL-EP3.2.kicad_mod -> ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/WQFN-28_L5.0-W5.0-P0.50-BL-EP3.2.step
+
+### Refs using absolute paths: 0
+
+### Refs mentioning Downloads: 0
+
+### Refs mentioning Archived: 0
+
+### Unique ref strings: 280
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/ANT-TH_L25.0-W25.0.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/AUDIO-TH_PJ-3850-5A.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/BAT-TH_BS-07-A1BJ001.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CAP-TH_BD10.0-P5.00-D0.6-FD-A.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CAP-TH_L13.0-W7.0-P10.00-D0.6.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CAP-TH_L26.5-W10.0-P22.50-D0.8.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CAP-TH_L32.0-W13.0-P27.50-D0.8.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CAP-TH_L6.8-W5.0-P7.50-D0.6-S4.40.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CONN-TH_2P-P5.00_KFM736H-5.0-2X1P.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CONN-TH_4P-P5.08_DB129VG-5.08-4P-GN-S.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CRYSTAL-SMD_4P-L2.5-W2.0-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CRYSTAL-SMD_4P-L3.2-W2.5-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CRYSTAL-SMD_L11.5-W4.8-LS12.7.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/CRYSTAL-SMD_L5.0-W3.2.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0402.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0805.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_1206.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_1812.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_1825.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_CASE-A-3216-18(mm).step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_CASE-B-3528-21(mm).step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DBS_L8.2-W6.4-P5.10-LS10.0-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN0603-2L-BI.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN0603-2_L0.6-W0.3-P0.40-RD.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN1006-2L-RD.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN1006-3L_L1.0-W0.6-LS1.0-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN1610-2L_L1.6-W1.0-P1.10-RD.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN2020-3_L2.0-W2.0-P0.65-BR-1.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN2020-3_L2.0-W2.0-P1.30-BR-1.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/DFN2510-10_L2.5-W1.0-P0.50-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_0603.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_0805.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SMA.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SMB.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SMC.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SOD-123.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SOD-123FL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SOD-323.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SOD-523.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/D_SOT-23.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/ESOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/ESP-12E.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/FB_0603.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/FB_0805.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/FC-135R_L3.2-W1.5.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/FILTER-SMD_4P-L12.0-W10.8-TL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/FILTER-SMD_4P-L9.5-W8.3_PSMCAQ1050-222P.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/F_0603.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/F_1206.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/HC-49S_L7.0-W4.0.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-SMD_L12.0-W12.0.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-SMD_L12.5-W12.5.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-SMD_L4.5-W4.0_CD43.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-SMD_L4.5-W4.1_TMPA0402SP.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-SMD_L8.0-W8.0.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-TH_L18.2-W10.2-P12.00-D0.9.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IPEX-SMD_BWIPX-1-001E.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/LED-SMD_4P-L1.6-W1.5_XL-1615RGBC-WS2812B.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/LQFP-32_7x7mm_P0.8mm.step
+  [2 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/LQFP-48_7x7mm_P0.5mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_0402.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_0603.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_0805.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_1008.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_1206.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_Bourns-SRN4018.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/L_Coilcraft_MSS1260-XXX.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/Lite-On_LTR-303ALS-01.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/MBS_L4.7-W3.8-P2.40-LS7.0-TL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/OPTO-SMD-4_L4.4-W4.1-P2.54-LS7.0-TL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/OSC-SMD_4P-L3.2-W2.5-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/OSC-SMD_L5.0-W3.2.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/PDIP-8_L9.6-W6.4-P2.54-LS7.9-BL-1.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/PG-TO-263-5_L10.2-W8.7-P1.70-LS14.4-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/PinHeader_1x08_P2.54mm_Vertical.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/QFN-32_L5.0-W5.0-P0.50-TL-EP3.4.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP4x4mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/Q_SOT-23.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/Q_SOT-89-3.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R1210.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/RES-TH_L10.5-W5.5-P5.0-D0.6.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/RES-TH_L15.0-W6.4-P7.50-D0.8.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/RV_Disc_D12mm_W6.3mm_P7.5mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0402.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0402x4.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603x4.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0805.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_1206.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_1812.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_2010.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_2512.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SMAF_L3.5-W2.6-LS4.7-RD.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SMA_L4.5-W2.6-LS5.1-RD.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SMBF_L4.3-W3.6-LS5.3-RD.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SMC_L7.1-W6.2-LS8.1-R-RD.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SMD-8_L9.8-W6.6-P2.54-LS10.3-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-14_3.9x8.7mm_P1.27mm.step
+  [2 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-16_3.9x9.9mm_P1.27mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-20W_7.5x12.8mm_P1.27mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOP-4_3.8x4.1mm_P2.54mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOP-4_4.4x2.6mm_P1.27mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOP-4_L4.4-W2.8-P1.27-LS7.0-TL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOP-4_L4.4-W4.0-P2.54-LS7.0-TL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-143-4_L2.9-W1.3-P1.90-LS2.4-BL-1.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR-1.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-223_L6.5-W3.5-P2.30-LS7.0-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BL-1.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.3-P1.90-LS2.8-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.4-P1.90-LS2.5-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.5-P1.90-LS2.6-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL-1.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR-2.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-323-3_L2.0-W1.3-P1.30-LS2.3-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-363-6_L2.0-W1.3-P0.65-LS2.3-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-363-6_L2.2-W1.3-P0.65-LS2.1-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-363_L2.0-W1.3-P0.65-LS2.1-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-363_L2.1-W1.3-P0.65-LS2.2-BL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-363_SC-70-6.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_218-2LPSTRF.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TO-252-2_L6.5-W6.1-P4.58-LS10.0-TL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TO-263-5_L10.2-W8.9-P1.70-TL.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TQFP-32_7x7mm_P0.8mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TS-1088-AR02016.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TSSOP-10_3x3mm_P0.5mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TSSOP-16_4.4x5mm_P0.65mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TSSOP-24_6.1x7.8mm_P0.65mm.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/TYPE-C-SMD_HX-TYPE-C-16PIN.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/USB-C-TH_KINGHELM_KH-TYPE-C-L15-6P.step
+  [1 fp] ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/WQFN-28_L5.0-W5.0-P0.50-BL-EP3.2.step
+  [1 fp] /3dModels/CAP-SMD_BD8.0-L8.3-W8.3-FD.step
+  [1 fp] /3dModels/CAP-SMD_L7.3-W4.3-L-FD.step
+  [3 fp] /3dModels/CAP-TH_BD10.0-P5.00-D0.6-FD.step
+  [1 fp] /3dModels/CAP-TH_BD13.0-P5.00-D0.6-FD.step
+  [2 fp] /3dModels/CAP-TH_BD18.0-P7.5-D0.8-FD.step
+  [1 fp] /3dModels/CAP-TH_BD18.0-P7.50-D1.2-FD.step
+  [1 fp] /3dModels/CAP-TH_BD6.3-P2.50-D1.0-FD.step
+  [1 fp] /3dModels/CAP-TH_BD6.3-P2.60-D0.6-FD-1.step
+  [2 fp] /3dModels/CAP-TH_BD8.0-P3.50-D0.6-FD_1.step
+  [1 fp] /3dModels/CAP-TH_L5.0-W3.0-P5.00-D0.6-S2.45.step
+  [1 fp] /3dModels/CAP-TH_L5.0-W3.2-P5.08-D0.6.step
+  [1 fp] /3dModels/CDIP-18_L24.4-W6.5-P2.54-LS7.6-BL.step
+  [1 fp] /3dModels/CONN-TH_16P-P5.08_KEFA_KF2EDGKRCH-5.08-2X8P.step
+  [1 fp] /3dModels/CONN-TH_20P-P3.50-S4.60_L18.6-W60.3-EH3.2.step
+  [1 fp] /3dModels/CONN-TH_2P-P10.00_DBT10-10.0-2P-BK.step
+  [1 fp] /3dModels/CONN-TH_HKT-00004.step
+  [1 fp] /3dModels/CONN-TH_K966658WV-1.step
+  [1 fp] /3dModels/C_Plugin,D5xL11mm.step
+  [1 fp] /3dModels/DFN-10_L3.0-W3.0-P0.50-BL-EP-2.step
+  [1 fp] /3dModels/DFNWB-6_L2.0-W2.0-P0.65-BL-EP_CJM1206.step
+  [1 fp] /3dModels/DFS_4P-L8.3-W6.4-P5.10-LS10.1-BL.step
+  [1 fp] /3dModels/DIO-BG-TH_KBPC3510.step
+  [1 fp] /3dModels/DIP-8_7P-L9.7-W6.4-P2.54-LS7.6-BL-PE6.step
+  [1 fp] /3dModels/DIP-8_L9.3-W6.4-P2.54-LS7.9-BL.step
+  [1 fp] /3dModels/DO-15_BD3.2-L6.4-P10.40-D0.8-RD.step
+  [1 fp] /3dModels/DO-247_L15.6-W5.0-P10.90.step
+  [1 fp] /3dModels/DO-27-BD5.3-L9.0-P14.0-D1.3-R-RD.step
+  [1 fp] /3dModels/DO-41_BD1.9-L3.3-P7.30-D0.8-RD.step
+  [1 fp] /3dModels/DO-41_BD2.4-L4.7-P8.70-D0.6-RD.step
+  [1 fp] /3dModels/DPAK_L6.5-W6.0-P2.29-LS9.9-BR.step
+  [1 fp] /3dModels/ESIP-7C_L10.1-W2.0-P2.54-TL.step
+  [1 fp] /3dModels/FILTER-ARRAY-SMD_0805-4P-L2.0-W1.3-BL_BWCU.step
+  [1 fp] /3dModels/FILTER-SMD_4P-L2.0-W1.2-BL-1.step
+  [1 fp] /3dModels/FILTER-TH_6P-L28.0-W21.0-P10.00-BL.step
+  [1 fp] /3dModels/GBU810.step
+  [1 fp] /3dModels/GBU_4P-L22.0-W3.5-P5.08.step
+  [1 fp] /3dModels/HDR-TH_4P-P1.27_X1321FR-2X02-C43D24.step
+  [1 fp] /3dModels/HTSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL-EP-A.step
+  [1 fp] /3dModels/IDC-TH_14P-P2.54_Z-230011014209.step
+  [1 fp] /3dModels/IND-SMD_3P-L28.0-W27.0_1.step
+  [1 fp] /3dModels/IND-SMD_L10.3-W10.3_1274AS-H-330M.step
+  [1 fp] /3dModels/IND-SMD_L13.8-W12.6_YSPI13XX.step
+  [1 fp] /3dModels/IND-SMD_L3.2-W2.5.step
+  [1 fp] /3dModels/IND-SMD_L5.8-W5.2.step
+  [1 fp] /3dModels/IND-SMD_L7.5-W7.0.step
+  [1 fp] /3dModels/IND-SMD_L7.8-W7.0_GCD75.step
+  [1 fp] /3dModels/IND-TH_BD11.5-P5.00-D0.8.step
+  [1 fp] /3dModels/ITO-220AB-3_L10.0-W4.5-P2.54-L.step
+  [1 fp] /3dModels/KEY-TH_4P-L6.0-W6.0-P4.50-LS6.50.step
+  [1 fp] /3dModels/LED-SMD_L3.5-W2.8_TVSG-AXBZ-2J8L-1-20-R18-Z.step
+  [1 fp] /3dModels/LED-TH_2P-P2.54_L4.9-W1.9_BLUE.step
+  [2 fp] /3dModels/LED-TH_3P-BD5.8-P2.54_XL-A524SURUGC.step
+  [1 fp] /3dModels/LED-TH_L3.2-W2.0-P2.54-RD.step
+  [1 fp] /3dModels/MBF-SMD_L4.7-W3.8-P2.50-LS7.0-BL.step
+  [1 fp] /3dModels/MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL-1.step
+  [1 fp] /3dModels/MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL.step
+  [1 fp] /3dModels/OPTO-TH_4P_ITR8307-S17-TR8-B-TS.step
+  [1 fp] /3dModels/OSC-SMD_4P-L5.0-W3.2-BL-1.step
+  [1 fp] /3dModels/PDIP-8_L9.3-W6.4-P2.54-LS7.9-BL-1.step
+  [1 fp] /3dModels/PDIP-8_L9.6-W6.4-P2.54-LS7.6-BL.step
+  [1 fp] /3dModels/PG-HSOF-8_L10.5-W10.1-P1.20-LS11.9-TL-2.step
+  [1 fp] /3dModels/PG-SSOP-14_L4.9-W3.9-P0.65-LS6.0-BL-EP.step
+  [1 fp] /3dModels/POWERDI3333-8_DMN7022LFGQ-7.step
+  [1 fp] /3dModels/POWERFLAT-8_L5.2-W6.0-P1.27-LS6.2-BL.step
+  [1 fp] /3dModels/R2818.step
+  [1 fp] /3dModels/RES-ADJ-TH_3P-BD13.0_WI-11-102.step
+  [1 fp] /3dModels/RES-SMD_L10.0-W5.2.step
+  [1 fp] /3dModels/RES-TH_L10.5-W5.5-P5.0-D0.6.step
+  [1 fp] /3dModels/RES-TH_L12.5-W6.7-P7.50-D1.2.step
+  [1 fp] /3dModels/R_0402.step
+  [1 fp] /3dModels/SC-70-5_L2.0-W1.3-P0.65-LS2.1-BR.step
+  [1 fp] /3dModels/SC-70-5_L2.1-W1.3-P0.65-LS2.1-BL.step
+  [1 fp] /3dModels/SC-70-6_L2.0-W1.3-P0.65-LS2.1-BR.step
+  [1 fp] /3dModels/SDB_L8.3-W6.4-P5.10-LS9.9-BL.step
+  [1 fp] /3dModels/SIP-3_L4.1-W1.6-P1.27-L.step
+  [1 fp] /3dModels/SMT-8_L9.7-W6.6-P2.54-LS10.3-BL.step
+  [1 fp] /3dModels/SO-8_L4.9-W3.9-P1.27-LS6.0-BL.step
+  [1 fp] /3dModels/SOD-523F_L1.7-W0.9-LS1.7-RD.step
+  [1 fp] /3dModels/SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL.step
+  [1 fp] /3dModels/SOIC-18_L11.6-W7.5-P1.27-LS10.3-BL.step
+  [1 fp] /3dModels/SOIC-20W_7.5x12.8mm_P1.27mm.step
+  [1 fp] /3dModels/SOIC-28W_7.5x17.9mm_P1.27mm.step
+  [1 fp] /3dModels/SOIC-8_L4.9-W3.9-P1.27-LS6.1-BL.step
+  [1 fp] /3dModels/SOP-8_L4.9-W3.9-P1.27-LS6.0-BL.step
+  [1 fp] /3dModels/SOP-8_L5.0-W3.8-P1.27-LS6.0-BL.step
+  [1 fp] /3dModels/SOP-8_L5.0-W3.9-P1.27-LS6.0-BL-1.step
+  [1 fp] /3dModels/SOT-143-4_L2.9-W1.3-P1.92-LS2.4-BL.step
+  [1 fp] /3dModels/SOT-223-3_L6.7-W3.7-P2.30-LS7.0-BR.step
+  [2 fp] /3dModels/SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR.step
+  [1 fp] /3dModels/SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-1.step
+  [1 fp] /3dModels/SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR.step
+  [1 fp] /3dModels/SOT-25_L3.0-W1.6-P0.95-LS2.8-BL.step
+  [1 fp] /3dModels/SOT-323-3_L2.0-W1.2-P1.30-LS2.3-BL.step
+  [1 fp] /3dModels/SOT-363_L2.1-W1.3-P0.65-LS2.1-BL.step
+  [1 fp] /3dModels/SOT-669_L4.9-W4.0-P1.27-LS6.0-BR.step
+  [1 fp] /3dModels/SSOP-16_L4.9-W3.9-P0.64-LS6.0-BL.step
+  [1 fp] /3dModels/SW-TH_PBS-42D02.step
+  [1 fp] /3dModels/TDSON-8-4_IRF40H233.step
+  [1 fp] /3dModels/TO-126-3_L7.6-W2.7-P2.30-L.step
+  [1 fp] /3dModels/TO-220-3_L10.0-W4.5-P2.54-L.step
+  [1 fp] /3dModels/TO-220-3_L9.9-W4.5-P2.54-L-1.step
+  [1 fp] /3dModels/TO-220AB-3_L10.4-W4.6-P2.54-L.step
+  [2 fp] /3dModels/TO-220F-3_L10.2-W4.7-P2.54-L.step
+  [1 fp] /3dModels/TO-247-3_Vertical.step
+  [1 fp] /3dModels/TO-252-2_L6.6-W6.1-P4.57-LS9.9-BR-CW.step
+  [1 fp] /3dModels/TO-263AB_L10.2-W9.0-P5.08-LS15.2-BL.step
+  [1 fp] /3dModels/TO-92-3_L4.8-W3.7-P1.27-L-1.step
+  [1 fp] /3dModels/TO-92-3_L4.8-W3.7-P2.54-R.step
+  [1 fp] /3dModels/TO-92-3_L4.9-W3.7-P1.27-L.step
+  [1 fp] /3dModels/TSOP-32_L8.1-W12.5-P0.50-LS14.2-TL.step
+  [1 fp] /3dModels/TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL.step
+  [1 fp] /3dModels/TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL.step
+  [1 fp] /3dModels/TSSOP-5_L2.1-W1.3-P0.65-LS2.2-BR.step
+  [1 fp] /3dModels/TSSOP-8_L4.4-W3.0-P0.65-LS6.4-BL.step
+  [1 fp] /3dModels/TYPE-C-SMD_U263-163N-4BLS1735.step
+  [1 fp] /3dModels/U-DFN2020-6B_L2.0-W2.0-P0.65-BL.step
+  [1 fp] /3dModels/UFDFN-6_L1.45-W1.0-P0.50-BL.step
+  [1 fp] /3dModels/USB-TYPE-C-TH_TYPEC-214-ARP14H105.step
+  [1 fp] /3dModels/WSON-12_L3.0-W2.0-P0.5-BL-EP2.7.step
+  [1 fp] /3dModels/WSON-8_L8.0-W6.0-P1.27-TL-EP-1.step
+  [1 fp] /3dModels/X3-DFN0603-2_L0.6-W0.3-BI.step

@@ -1,0 +1,250 @@
+==========================================================================================
+KICAD MEGA LIBRARY - PHASE 1 INVENTORY
+Generated: (see file timestamps)
+==========================================================================================
+
+## Symbol files (*.kicad_sym / *.lib): 184
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\106900.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\110020.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\1121858.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\115764.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\124470.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\145341.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\145632.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\154598.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\176950.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\177092.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\178288.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\179353.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\179599.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\1884530.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\206012.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\220787.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\233584.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\236903.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\241823.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\242517.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\255741.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2688588.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2688657.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2802547.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2802549.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2827951.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2828435.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2829399.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2829400.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2829401.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2829405.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2829430.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2829996.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2831458.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\283496.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2835341.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2839965.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2843728.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2846153.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2847017.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2848658.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2848660.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2848956.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2857161.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2857871.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2859537.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2860796.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2868666.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2874959.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2875244.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2876037.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2881888.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2885075.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2891286.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2891287.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2895565.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2898685.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2901519.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2901567.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2901586.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2906129.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2909989.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2919662.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2926148.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2931474.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2934761.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2934850.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2935146.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2935357.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2943373.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2943867.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\296127.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2961921.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2962896.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2974890.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2974900.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2974934.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2975041.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2975359.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2976941.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2978937.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2979167.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2981774.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2982529.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2986199.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2987356.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\2997277.kicad_sym
+   4      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\29981.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\3011073.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\3011551.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\3018491.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\32078.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\32565.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\358681.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\382019.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\394180.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\394181.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\394186.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\409524.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\411210.kicad_sym
+   4      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\41375116.kicad_sym
+   4      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\41375125.kicad_sym
+   4      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\41375126.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\42379244.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\42381015.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\42432283.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\444982.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\454921.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\454922.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\455047.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\459237.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\459293.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\460565.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\460963.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\461091.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\461795.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\462846.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\463100.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\463680.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\463824.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\463889.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\464225.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\471601.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\476385.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\485694.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\504120.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\504132.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\507849.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\509080.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\5126825.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\525743.kicad_sym
+   5      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\556890.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\556907.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\600856.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\616200.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\625524.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\626112.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\626179.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\626276.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\627428.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\627741.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\631708.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\633806.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\636034.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\636300.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\636421.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\637214.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\637217.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\638551.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\640393.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\646469.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\6649.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\672278.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\672302.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\672389.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\707255.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\7502688.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\75501.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\7722.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\780826.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\780899.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\880350.kicad_sym
+   2      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\970954.kicad_sym
+   3      syms  Archived-Symbols-Footprints\JLCPCB-Kicad-Symbols\9861.kicad_sym
+   28     syms  symbols\JLCPCB-Analog.kicad_sym
+   544    syms  symbols\JLCPCB-Capacitors.kicad_sym
+   6      syms  symbols\JLCPCB-Connectors_Buttons.kicad_sym
+   20     syms  symbols\JLCPCB-Crystals.kicad_sym
+   88     syms  symbols\JLCPCB-Diode-Packages.kicad_sym
+   1030   syms  symbols\JLCPCB-Diodes.kicad_sym
+   63     syms  symbols\JLCPCB-Extended.kicad_sym
+   22     syms  symbols\JLCPCB-ICs.kicad_sym
+   32     syms  symbols\JLCPCB-Inductors.kicad_sym
+   22     syms  symbols\JLCPCB-Interface.kicad_sym
+   15     syms  symbols\JLCPCB-MCUs.kicad_sym
+   11     syms  symbols\JLCPCB-Manufacturing.kicad_sym
+   8      syms  symbols\JLCPCB-Memory.kicad_sym
+   3      syms  symbols\JLCPCB-Optocouplers.kicad_sym
+   55     syms  symbols\JLCPCB-Power.kicad_sym
+   894    syms  symbols\JLCPCB-Resistors.kicad_sym
+   0      syms  symbols\JLCPCB-Transformers.kicad_sym
+   5      syms  symbols\JLCPCB-Transistor-Packages.kicad_sym
+   154    syms  symbols\JLCPCB-Transistors.kicad_sym
+   0      syms  symbols\JLCPCB-Variable-Resistors.kicad_sym
+
+## Footprint files (*.kicad_mod): 303
+## Footprint library dirs (*.pretty): 1
+   - footprints\JLCPCB.pretty (118 files)
+
+## 3D model files (*.step/*.stp/*.wrl/*.stl): 278
+
+## Duplicate filenames across tree:
+   1 names with duplicates
+   [SAME CONTENT] SOIC-20W_7.5x12.8mm_P1.27mm.step
+       - 3dmodels\JLCPCB.3dshapes\SOIC-20W_7.5x12.8mm_P1.27mm.step (e7bf0c0a3e10)
+       - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\3dModels\SOIC-20W_7.5x12.8mm_P1.27mm.step (e7bf0c0a3e10)
+
+## Duplicate content (SHA-256) groups:
+   13 duplicate-content groups
+   [1fae91f87be5] x2
+       - 3dmodels\JLCPCB.3dshapes\FB_0805.step
+       - 3dmodels\JLCPCB.3dshapes\L_0805.step
+   [30705bbb3a91] x2
+       - 3dmodels\JLCPCB.3dshapes\FB_0603.step
+       - 3dmodels\JLCPCB.3dshapes\L_0603.step
+   [428abdfbc472] x2
+       - 3dmodels\JLCPCB.3dshapes\SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL.step
+       - 3dmodels\JLCPCB.3dshapes\SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR.step
+   [524264138273] x2
+       - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\Q_SOT-223-4.kicad_mod
+       - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR.kicad_mod
+   [5492637bcf6a] x2
+       - 3dmodels\JLCPCB.3dshapes\SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL.step
+       - 3dmodels\JLCPCB.3dshapes\SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL.step
+   [626f754b8234] x3
+       - 3dmodels\JLCPCB.3dshapes\SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR.step
+       - 3dmodels\JLCPCB.3dshapes\SOT-223_L6.5-W3.5-P2.30-LS7.0-BR.step
+       - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\3dModels\SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR.step
+   [75cdbf6df124] x2
+       - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\3dModels\IND-SMD_L12.0-W12.0.step
+       - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\3dModels\IND-SMD_L12.5-W12.5.step
+   [77ba908a8221] x3
+       - 3dmodels\JLCPCB.3dshapes\SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR.step
+       - 3dmodels\JLCPCB.3dshapes\SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR.step
+       - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\3dModels\SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-1.step
+   [97c82fe65a4a] x2
+       - 3dmodels\JLCPCB.3dshapes\SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR.step
+       - 3dmodels\JLCPCB.3dshapes\SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR.step
+   [ac5e6a47fb14] x3
+       - 3dmodels\JLCPCB.3dshapes\CRYSTAL-SMD_4P-L3.2-W2.5-BL.step
+       - 3dmodels\JLCPCB.3dshapes\OSC-SMD_4P-L3.2-W2.5-BL.step
+       - 3dmodels\JLCPCB.3dshapes\OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI.step
+   [d4beacdf7b30] x2
+       - 3dmodels\JLCPCB.3dshapes\D_SOT-23.step
+       - 3dmodels\JLCPCB.3dshapes\Q_SOT-23.step
+   [e7bf0c0a3e10] x2
+       - 3dmodels\JLCPCB.3dshapes\SOIC-20W_7.5x12.8mm_P1.27mm.step
+       - Archived-Symbols-Footprints\JLCPCB-Kicad-Footprints\3dModels\SOIC-20W_7.5x12.8mm_P1.27mm.step
+   [f24d05dd87ac] x2
+       - 3dmodels\JLCPCB.3dshapes\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL.step
+       - 3dmodels\JLCPCB.3dshapes\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR.step
+
+## 3D models present but never referenced by any *.kicad_mod:
+   0 models unreferenced

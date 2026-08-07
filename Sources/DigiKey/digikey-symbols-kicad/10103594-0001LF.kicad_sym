@@ -1,0 +1,496 @@
+(kicad_symbol_lib
+	(version 20251024)
+	(generator "kicad_symbol_editor")
+	(generator_version "10.0")
+	(symbol "10103594-0001LF"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "J"
+			(at -6.35 12.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10103594-0001LF"
+			(at -7.62 -15.24 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "digikey-footprints:USB_Micro_B_Female_10103594-0001LF"
+			(at 5.08 5.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf"
+			(at 5.08 7.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "CONN RCPT USB2.0 MICRO B SMD R/A"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digi-Key_PN" "609-4050-1-ND"
+			(at 5.08 10.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "10103594-0001LF"
+			(at 5.08 12.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Category" "Connectors, Interconnects"
+			(at 5.08 15.24 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "USB, DVI, HDMI Connectors"
+			(at 5.08 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "DK_Datasheet_Link" "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf"
+			(at 5.08 20.32 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "DK_Detail_Page" "/product-detail/en/amphenol-icc-fci/10103594-0001LF/609-4050-1-ND/2350357"
+			(at 5.08 22.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Description_1" "CONN RCPT USB2.0 MICRO B SMD R/A"
+			(at 5.08 25.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer" "Amphenol ICC (FCI)"
+			(at 5.08 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Status" "Active"
+			(at 5.08 30.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "ki_keywords" "609-4050-1-ND"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "10103594-0001LF_1_1"
+			(polyline
+				(pts
+					(xy -0.7874 4.2926) (xy -0.7874 3.2766) (xy 0.6096 3.2766) (xy 0.6096 4.2926) (xy -0.7874 4.2926)
+					(xy -0.1524 3.7846) (xy -0.7874 3.2766) (xy 0.6096 3.2766) (xy 0.6096 3.7846) (xy -0.1524 3.7846)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.7874 1.7526) (xy -0.7874 0.7366) (xy 0.6096 0.7366) (xy 0.6096 1.7526) (xy -0.7874 1.7526)
+					(xy -0.1524 1.2446) (xy -0.7874 0.7366) (xy 0.6096 0.7366) (xy 0.6096 1.2446) (xy -0.1524 1.2446)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.7874 -1.7526) (xy -0.7874 -0.7366) (xy 0.6096 -0.7366) (xy 0.6096 -1.7526) (xy -0.7874 -1.7526)
+					(xy -0.1524 -1.2446) (xy -0.7874 -0.7366) (xy 0.6096 -0.7366) (xy 0.6096 -1.2446) (xy -0.1524 -1.2446)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.7874 -4.2926) (xy -0.7874 -3.2766) (xy 0.6096 -3.2766) (xy 0.6096 -4.2926) (xy -0.7874 -4.2926)
+					(xy -0.1524 -3.7846) (xy -0.7874 -3.2766) (xy 0.6096 -3.2766) (xy 0.6096 -3.7846) (xy -0.1524 -3.7846)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -0.381 4.318)
+				(end 0.635 5.842)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start -0.381 3.302)
+				(end 0.635 1.778)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start -0.381 0.635)
+				(end 0.635 -0.381)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start -0.381 -0.635)
+				(end 0.635 0.381)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start -0.381 -3.302)
+				(end 0.635 -1.778)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start -0.381 -4.318)
+				(end 0.635 -5.842)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.635 0.0254) (xy 0.635 -5.842) (xy -0.635 -5.842) (xy -0.635 -6.1468) (xy -0.4572 -6.4262)
+					(xy -0.0762 -6.5786) (xy 0.381 -6.6294) (xy 0.9906 -6.5532) (xy 1.4478 -6.3246) (xy 1.6764 -6.0706)
+					(xy 1.7526 -5.6388) (xy 1.7526 -4.8006) (xy 1.7526 0.127)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.635 -0.0254) (xy 0.635 5.842) (xy -0.635 5.842) (xy -0.635 6.1468) (xy -0.4572 6.4262) (xy -0.0762 6.5786)
+					(xy 0.381 6.6294) (xy 0.9906 6.5532) (xy 1.4478 6.3246) (xy 1.6764 6.0706) (xy 1.7526 5.6388) (xy 1.7526 4.8006)
+					(xy 1.7526 -0.127)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.5146 12.2428) (xy 2.5146 -12.5476)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.5814 -11.4808) (xy 3.5814 -12.8016) (xy 3.5052 -13.4366) (xy 3.302 -13.8684) (xy 2.7686 -14.3256)
+					(xy 2.3114 -14.5288) (xy 1.8288 -14.605) (xy -1.5494 -14.5542) (xy -1.9812 -14.4526) (xy -2.5146 -14.1986)
+					(xy -3.4798 -13.4366) (xy -4.826 -12.1412) (xy -5.2832 -11.6586) (xy -5.6388 -11.1506) (xy -5.8928 -10.5918)
+					(xy -6.0198 -9.7536) (xy -6.0198 9.3726) (xy -5.8674 10.0838) (xy -5.7404 10.4648) (xy -5.4864 10.9728)
+					(xy -4.8768 11.6078) (xy -2.7178 13.589) (xy -2.2352 13.8684) (xy -1.8288 14.0208) (xy -1.1938 14.1224)
+					(xy -0.7112 14.1732) (xy 2.0066 14.1732) (xy 2.4892 14.0208) (xy 2.9464 13.7414) (xy 3.175 13.5128)
+					(xy 3.429 13.1572) (xy 3.556 12.8524) (xy 3.5814 12.446) (xy 3.5814 -11.5062)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.5814 -12.5476) (xy 2.5654 -12.5476) (xy 2.5146 -12.5476) (xy 2.5146 -12.9032) (xy 2.3368 -13.2334)
+					(xy 2.159 -13.3604) (xy 1.9558 -13.4366) (xy -0.8128 -13.4366) (xy -1.2192 -13.4112) (xy -1.6002 -13.3096)
+					(xy -1.9304 -13.1318) (xy -2.2606 -12.9032) (xy -4.4196 -10.8458) (xy -4.6736 -10.3886) (xy -4.8006 -9.779)
+					(xy -4.826 -8.636) (xy -4.826 9.2202) (xy -4.8006 9.4234) (xy -4.7244 9.8298) (xy -4.572 10.1854)
+					(xy -4.2926 10.6172) (xy -3.0226 11.8364) (xy -2.1336 12.5984) (xy -1.6002 12.8778) (xy -1.1938 13.0048)
+					(xy -0.6604 13.081) (xy 1.8034 13.081) (xy 2.0574 13.0048) (xy 2.3114 12.8524) (xy 2.5146 12.5222)
+					(xy 2.5146 12.2174) (xy 3.5814 12.2174)
+				)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 6.35 5.08 180)
+				(length 2.794)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 6.35 2.54 180)
+				(length 2.794)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 6.35 0 180)
+				(length 2.794)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 6.35 -2.54 180)
+				(length 2.794)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 6.35 -5.08 180)
+				(length 2.794)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -3.81 -15.24 90)
+				(length 2.032)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "SH"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+)

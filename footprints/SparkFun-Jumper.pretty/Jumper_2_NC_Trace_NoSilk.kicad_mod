@@ -1,0 +1,111 @@
+(footprint "Jumper_2_NC_Trace_NoSilk"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(tags "SparkFun")
+	(property "Reference" "REF**"
+		(at 0 -1.143 0)
+		(layer "F.Fab")
+		(uuid "2648d739-a347-45ba-9d4e-1b786eb3e20c")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+	)
+	(property "Value" "Jumper_2_NC_Trace_NoSilk"
+		(at 0 1.143 0)
+		(layer "F.Fab")
+		(uuid "25422dc0-fce5-4d6b-ba2f-4004963fc759")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify top)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "468766c9-b917-4ee4-b87c-05285f2c28c4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "45aafdd0-0ed2-47e1-8b39-65ebd93b78dc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom dnp allow_soldermask_bridges)
+	(net_tie_pad_groups "1,2")
+	(fp_poly
+		(pts
+			(xy -0.25 -0.15) (xy 0.25 -0.15) (xy 0.25 0.15) (xy -0.25 0.15)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "e1ab3dfc-63e5-4693-b0a6-b6d0869d5ced")
+	)
+	(fp_poly
+		(pts
+			(xy 0.254 0.2405) (xy -0.254 0.2405) (xy -0.254 -0.2405) (xy 0.254 -0.2405)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "f9e3a682-8ebf-43df-9d09-d4bced096bae")
+	)
+	(fp_rect
+		(start 1.1 -0.9)
+		(end -1.1 0.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "c2d66ebe-d76a-4016-b41c-fc80fdde0fa2")
+	)
+	(pad "1" smd rect
+		(at -0.5207 0)
+		(size 0.6604 1.27)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 0)
+		(uuid "bd819715-fc0a-48ed-9886-ebe8780b8c30")
+	)
+	(pad "2" smd rect
+		(at 0.5207 0)
+		(size 0.6604 1.27)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 0)
+		(uuid "e1b97780-d302-45ac-a80e-4c4899853f84")
+	)
+	(embedded_fonts no)
+)

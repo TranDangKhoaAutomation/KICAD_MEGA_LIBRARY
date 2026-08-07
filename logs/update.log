@@ -1,0 +1,90 @@
+﻿[2026-08-07 01:09:36] === KiCad Mega Library Update started ===
+[2026-08-07 01:09:36] Backup: D:\KICAD_MEGA_LIBRARY\Backup\2026-08-07_01-09-36
+[2026-08-07 01:09:36] Skip (disabled): KiCad-Official-Symbols
+[2026-08-07 01:09:36] Skip (disabled): KiCad-Official-Footprints
+[2026-08-07 01:09:36] Skip (disabled): KiCad-Official-3D-Models
+[2026-08-07 01:09:37] Update: Espressif @dd76561
+[2026-08-07 01:09:40]   dd76561 -> dd76561
+[2026-08-07 01:09:41] Update: SparkFun @6483383
+[2026-08-07 01:09:43]   6483383 -> 6483383
+[2026-08-07 01:09:43] Working tree cÃ³ thay Ä‘á»•i, bá» qua: DigiKey
+[2026-08-07 01:09:44] Update: JLCPCB-CDFER @bdd592b
+[2026-08-07 01:09:46]   bdd592b -> bdd592b
+[2026-08-07 01:09:46] Re-stage vendor libraries...
+[2026-08-07 01:09:55] Re-register library tables...
+[2026-08-07 01:09:55] === Update complete ===
+[2026-08-07 05:51:10] === KiCad Mega Library Update started ===
+[2026-08-07 05:51:10] Cáº­p nháº­t gáº§n nháº¥t cÃ¡ch 4.7h (< 24h). Bá» qua.
+[2026-08-07 05:51:26] === KiCad Mega Library Update started ===
+[2026-08-07 05:51:26] Backup: D:\KICAD_MEGA_LIBRARY\Backup\2026-08-07_05-51-26
+[2026-08-07 05:51:26] Skip (disabled): KiCad-Official-Symbols
+[2026-08-07 05:51:26] Skip (disabled): KiCad-Official-Footprints
+[2026-08-07 05:51:26] Skip (disabled): KiCad-Official-3D-Models
+[2026-08-07 05:51:27] Update: Espressif @dd76561
+[2026-08-07 05:51:30]   dd76561 -> dd76561
+[2026-08-07 05:51:31] Update: SparkFun @6483383
+[2026-08-07 05:51:33]   6483383 -> 6483383
+[2026-08-07 05:51:33] Working tree cÃ³ thay Ä‘á»•i, bá» qua: DigiKey
+[2026-08-07 05:51:33] Update: JLCPCB-CDFER @bdd592b
+[2026-08-07 05:51:36]   bdd592b -> bdd592b
+[2026-08-07 05:51:36] Re-stage vendor libraries...
+[2026-08-07 05:52:00] Re-register library tables...
+[2026-08-07 05:52:00] === Update complete ===
+[2026-08-07 05:52:26] === KiCad Mega Library Update started ===
+[2026-08-07 05:52:26] Cáº­p nháº­t gáº§n nháº¥t cÃ¡ch 0h (< 24h). Bá» qua.
+[2026-08-07 05:53:34] === KiCad Mega Library Update started ===
+[2026-08-07 05:53:34] Backup: D:\KICAD_MEGA_LIBRARY\Backup\2026-08-07_05-53-34
+[2026-08-07 05:53:34] Skip (disabled): KiCad-Official-Symbols
+[2026-08-07 05:53:34] Skip (disabled): KiCad-Official-Footprints
+[2026-08-07 05:53:34] Skip (disabled): KiCad-Official-3D-Models
+[2026-08-07 05:53:35] Update: Espressif @dd76561
+[2026-08-07 05:53:37]   dd76561 -> dd76561
+[2026-08-07 05:53:37] Update: SparkFun @6483383
+[2026-08-07 05:53:40]   6483383 -> 6483383
+[2026-08-07 05:53:40] Update: DigiKey @d4bd68f
+[2026-08-07 05:53:42]   d4bd68f -> d4bd68f
+[2026-08-07 05:53:42] Update: JLCPCB-CDFER @bdd592b
+[2026-08-07 05:53:46]   bdd592b -> bdd592b
+[2026-08-07 05:53:46] Re-stage vendor libraries...
+[2026-08-07 05:53:50] Re-register library tables...
+[2026-08-07 05:53:50] === Update complete ===
+[07/08/2026  7:23:06,76] === Update started === 
+[07/08/2026  7:23:07,16] SKIP: KiCad running 
+[07/08/2026  7:23:17,42] === Update started === 
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+[fp] Espressif.pretty: copied=0 skipped=54
+[fp] SparkFun-Aesthetic.pretty: copied=0 skipped=101
+[fp] SparkFun-Battery.pretty: copied=0 skipped=2
+[fp] SparkFun-Board.pretty: copied=0 skipped=9
+[fp] SparkFun-Camera.pretty: copied=0 skipped=1
+[fp] SparkFun-Capacitor.pretty: copied=0 skipped=13
+[fp] SparkFun-Clock.pretty: copied=0 skipped=8
+[fp] SparkFun-Coil.pretty: copied=0 skipped=9
+[fp] SparkFun-Connector.pretty: copied=0 skipped=208
+[fp] SparkFun-Display.pretty: copied=0 skipped=6
+[fp] SparkFun-Electromechanical.pretty: copied=0 skipped=9
+[fp] SparkFun-Fuse.pretty: copied=0 skipped=5
+[fp] SparkFun-GNSS.pretty: copied=0 skipped=12
+[fp] SparkFun-Hardware.pretty: copied=0 skipped=11
+[fp] SparkFun-Jumper.pretty: copied=0 skipped=12
+[fp] SparkFun-LED.pretty: copied=0 skipped=44
+[fp] SparkFun-RF.pretty: copied=0 skipped=18
+[fp] SparkFun-Resistor.pretty: copied=0 skipped=11
+[fp] SparkFun-Semiconductor-Nonstandard.pretty: copied=0 skipped=6
+[fp] SparkFun-Semiconductor-Standard.pretty: copied=0 skipped=78
+[fp] SparkFun-Sensor.pretty: copied=0 skipped=19
+[fp] SparkFun-Switch.pretty: copied=0 skipped=26
+[fp] digikey-footprints.pretty: copied=0 skipped=464
+Done.
+=== 3D CONSOLIDATION 2026-08-07 07:23:27 ===
+SUMMARY: copied=0 skipped=427
+JLCPCB: changed=0 broken=0
+Espressif: changed=0 broken=0
+TOTAL changed=0 broken=0
+SKIP (no symbols): SparkFun-MicroMod.kicad_sym
+[sym] added=0 skipped=62
+[fp] added=0 skipped=24
+[07/08/2026  7:23:27,57] === Update complete (failed=0) === 
