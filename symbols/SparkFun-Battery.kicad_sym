@@ -37,7 +37,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Battery:ML414H_IV01E"
+		(property "Footprint" "Mega_SparkFun-Battery:ML414H_IV01E"
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)

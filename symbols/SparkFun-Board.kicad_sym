@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Board:Arduino_Pro_Mini_Shield"
+		(property "Footprint" "Mega_SparkFun-Board:Arduino_Pro_Mini_Shield"
 			(at 0 -21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -628,7 +628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Board:Uno_R3_Shield_NoLabels"
+		(property "Footprint" "Mega_SparkFun-Board:Uno_R3_Shield_NoLabels"
 			(at 0 -34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1256,7 +1256,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Board:ProMicroC"
+		(property "Footprint" "Mega_SparkFun-Board:ProMicroC"
 			(at -1.27 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1767,7 +1767,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Board:RedBoard"
+		(property "Footprint" "Mega_SparkFun-Board:RedBoard"
 			(at 0 -30.226 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2421,7 +2421,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Board:Teensy 4.1"
+		(property "Footprint" "Mega_SparkFun-Board:Teensy 4.1"
 			(at 0 -55.118 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3375,7 +3375,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Board:ThingPlus"
+		(property "Footprint" "Mega_SparkFun-Board:ThingPlus"
 			(at 0 -36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3977,7 +3977,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Board:ThingPlus_With_Connectors"
+		(property "Footprint" "Mega_SparkFun-Board:ThingPlus_With_Connectors"
 			(at 0 -36.83 0)
 			(show_name no)
 			(do_not_autoplace no)

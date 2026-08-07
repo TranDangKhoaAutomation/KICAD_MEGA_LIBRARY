@@ -27,7 +27,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:SOP-4_4.4x2.6mm_P1.27mm"
+		(property "Footprint" "Mega_JLCPCB:SOP-4_4.4x2.6mm_P1.27mm"
 			(at -5.08 -5.08 0)
 			(effects
 				(font

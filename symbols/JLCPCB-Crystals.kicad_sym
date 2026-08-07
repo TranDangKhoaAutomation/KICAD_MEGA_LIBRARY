@@ -23,7 +23,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:OSC-SMD_L5.0-W3.2"
+		(property "Footprint" "Mega_JLCPCB:OSC-SMD_L5.0-W3.2"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -345,7 +345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:CRYSTAL-SMD_4P-L3.2-W2.5-BL"
+		(property "Footprint" "Mega_JLCPCB:CRYSTAL-SMD_4P-L3.2-W2.5-BL"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -762,7 +762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:OSC-SMD_4P-L3.2-W2.5-BL"
+		(property "Footprint" "Mega_JLCPCB:OSC-SMD_4P-L3.2-W2.5-BL"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -1179,7 +1179,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:OSC-SMD_4P-L3.2-W2.5-BL"
+		(property "Footprint" "Mega_JLCPCB:OSC-SMD_4P-L3.2-W2.5-BL"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -1597,7 +1597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:FC-135R_L3.2-W1.5"
+		(property "Footprint" "Mega_JLCPCB:FC-135R_L3.2-W1.5"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -1925,7 +1925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:CRYSTAL-SMD_L5.0-W3.2"
+		(property "Footprint" "Mega_JLCPCB:CRYSTAL-SMD_L5.0-W3.2"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -2247,7 +2247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:CRYSTAL-SMD_L11.5-W4.8-LS12.7"
+		(property "Footprint" "Mega_JLCPCB:CRYSTAL-SMD_L11.5-W4.8-LS12.7"
 			(at 0 -10.16 0)
 			(effects
 				(font

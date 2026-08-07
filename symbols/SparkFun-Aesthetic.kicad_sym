@@ -30,7 +30,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Aesthetic:Fiducial_0.5mm_Mask1mm"
+		(property "Footprint" "Mega_SparkFun-Aesthetic:Fiducial_0.5mm_Mask1mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -143,7 +143,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Aesthetic:GNSS_Flex_Template"
+		(property "Footprint" "Mega_SparkFun-Aesthetic:GNSS_Flex_Template"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -454,7 +454,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Aesthetic:Creative_Commons_License"
+		(property "Footprint" "Mega_SparkFun-Aesthetic:Creative_Commons_License"
 			(at 0.2047 -0.0243 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1106,7 +1106,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Aesthetic:Ordering_Instructions"
+		(property "Footprint" "Mega_SparkFun-Aesthetic:Ordering_Instructions"
 			(at 0 -3.81 0)
 			(show_name no)
 			(do_not_autoplace no)

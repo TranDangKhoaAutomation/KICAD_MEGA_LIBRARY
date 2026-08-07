@@ -1696,7 +1696,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-C3-DevKitC-02"
+		(property "Footprint" "Mega_Espressif:ESP32-C3-DevKitC-02"
 			(at 0 -35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2346,7 +2346,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-C3-DevKitM-1"
+		(property "Footprint" "Mega_Espressif:ESP32-C3-DevKitM-1"
 			(at 0 -35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2996,7 +2996,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-C3-MINI-1"
+		(property "Footprint" "Mega_Espressif:ESP32-C3-MINI-1"
 			(at 0 -35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4087,7 +4087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-C3-WROOM-02"
+		(property "Footprint" "Mega_Espressif:ESP32-C3-WROOM-02"
 			(at 0 -30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5515,7 +5515,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-C5-DevKitC-1"
+		(property "Footprint" "Mega_Espressif:ESP32-C5-DevKitC-1"
 			(at -1.016 -51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6216,7 +6216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-C5-MINI-1"
+		(property "Footprint" "Mega_Espressif:ESP32-C5-MINI-1"
 			(at 17.018 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7576,7 +7576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-C5-WROOM-1"
+		(property "Footprint" "Mega_Espressif:ESP32-C5-WROOM-1"
 			(at 19.558 -21.971 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8261,7 +8261,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-C5-WROOM-1U"
+		(property "Footprint" "Mega_Espressif:ESP32-C5-WROOM-1U"
 			(at 19.558 -21.971 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9854,7 +9854,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-C6-DevKitC-1"
+		(property "Footprint" "Mega_Espressif:ESP32-C6-DevKitC-1"
 			(at 0 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10559,7 +10559,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-C6-DevKitM-1"
+		(property "Footprint" "Mega_Espressif:ESP32-C6-DevKitM-1"
 			(at 0 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11225,7 +11225,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-C6-MINI-1"
+		(property "Footprint" "Mega_Espressif:ESP32-C6-MINI-1"
 			(at 0 -45.085 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12306,7 +12306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-C6-WROOM-1"
+		(property "Footprint" "Mega_Espressif:ESP32-C6-WROOM-1"
 			(at 0 -45.085 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13647,7 +13647,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-DevKitC"
+		(property "Footprint" "Mega_Espressif:ESP32-DevKitC"
 			(at 0 -43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14435,7 +14435,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-DevKitM-1"
+		(property "Footprint" "Mega_Espressif:ESP32-DevKitM-1"
 			(at 0 -43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15146,7 +15146,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm"
+		(property "Footprint" "Mega_Espressif:QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm"
 			(at 0 -39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15833,7 +15833,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-H2-MINI-1"
+		(property "Footprint" "Mega_Espressif:ESP32-H2-MINI-1"
 			(at 1.27 -39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16927,7 +16927,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-MINI-1"
+		(property "Footprint" "Mega_Espressif:ESP32-MINI-1"
 			(at 0 -53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18038,7 +18038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-P4"
+		(property "Footprint" "Mega_Espressif:ESP32-P4"
 			(at -54.61 -41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20246,7 +20246,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-P4"
+		(property "Footprint" "Mega_Espressif:ESP32-P4"
 			(at -54.61 -41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22490,7 +22490,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-PICO-MINI-02"
+		(property "Footprint" "Mega_Espressif:ESP32-PICO-MINI-02"
 			(at 0 -44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25539,7 +25539,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S2-DevKitC-1"
+		(property "Footprint" "Mega_Espressif:ESP32-S2-DevKitC-1"
 			(at 0 -33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26414,7 +26414,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S2-DevKitM"
+		(property "Footprint" "Mega_Espressif:ESP32-S2-DevKitM"
 			(at 2.54 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27271,7 +27271,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S2-MINI-1"
+		(property "Footprint" "Mega_Espressif:ESP32-S2-MINI-1"
 			(at 0 -53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28568,7 +28568,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S2-SOLO"
+		(property "Footprint" "Mega_Espressif:ESP32-S2-SOLO"
 			(at 0 -53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29408,7 +29408,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S2-Saola-1"
+		(property "Footprint" "Mega_Espressif:ESP32-S2-Saola-1"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30265,7 +30265,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S2-WROOM"
+		(property "Footprint" "Mega_Espressif:ESP32-S2-WROOM"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31133,7 +31133,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S2-WROVER"
+		(property "Footprint" "Mega_Espressif:ESP32-S2-WROVER"
 			(at 2.54 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33118,7 +33118,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S3-DevKitC"
+		(property "Footprint" "Mega_Espressif:ESP32-S3-DevKitC"
 			(at 0 -57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34005,7 +34005,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S3-MINI-1"
+		(property "Footprint" "Mega_Espressif:ESP32-S3-MINI-1"
 			(at 0 -55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35287,7 +35287,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S3-WROOM-1"
+		(property "Footprint" "Mega_Espressif:ESP32-S3-WROOM-1"
 			(at 2.54 -48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36116,7 +36116,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S3-WROOM-2"
+		(property "Footprint" "Mega_Espressif:ESP32-S3-WROOM-2"
 			(at 2.54 -48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36943,7 +36943,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-S31-WROOM-3"
+		(property "Footprint" "Mega_Espressif:ESP32-S31-WROOM-3"
 			(at 0.254 -55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39227,7 +39227,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-WROOM-DA"
+		(property "Footprint" "Mega_Espressif:ESP32-WROOM-DA"
 			(at 0 -30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39872,7 +39872,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-WROOM-32E"
+		(property "Footprint" "Mega_Espressif:ESP32-WROOM-32E"
 			(at 0 -35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40550,7 +40550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP32-WROVER-E"
+		(property "Footprint" "Mega_Espressif:ESP32-WROVER-E"
 			(at 2.54 -33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43115,7 +43115,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP8684-WROOM-02C"
+		(property "Footprint" "Mega_Espressif:ESP8684-WROOM-02C"
 			(at 0 -30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44132,7 +44132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Espressif:ESP8685-WROOM-06"
+		(property "Footprint" "Mega_Espressif:ESP8685-WROOM-06"
 			(at 2.54 -33.02 0)
 			(show_name no)
 			(do_not_autoplace no)

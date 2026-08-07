@@ -30,7 +30,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x03_NoSilk"
+		(property "Footprint" "Mega_SparkFun-Connector:2x03_NoSilk"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -227,7 +227,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x03_Pogo"
+		(property "Footprint" "Mega_SparkFun-Connector:2x03_Pogo"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -422,7 +422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:Audio_Jack_3.5mm_TRRS_SMD_RA"
+		(property "Footprint" "Mega_SparkFun-Connector:Audio_Jack_3.5mm_TRRS_SMD_RA"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -665,7 +665,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:Barrel_Jack_PTH"
+		(property "Footprint" "Mega_SparkFun-Connector:Barrel_Jack_PTH"
 			(at 1.27 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -917,7 +917,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:Barrel_Jack_PTH_Slot"
+		(property "Footprint" "Mega_SparkFun-Connector:Barrel_Jack_PTH_Slot"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1169,7 +1169,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:Barrel_Jack_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:Barrel_Jack_SMD"
 			(at 1.27 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1419,7 +1419,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:Terminal_Block_9.5mm-2"
+		(property "Footprint" "Mega_SparkFun-Connector:Terminal_Block_9.5mm-2"
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1636,7 +1636,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x01_6.5mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x01_6.5mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1765,7 +1765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x01_P2.0mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x01_P2.0mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1894,7 +1894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x01_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x01_P2.54mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2023,7 +2023,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x01_SMD_1x1mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x01_SMD_1x1mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2154,7 +2154,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x02_P2.0mm_Horizontal_PTH"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x02_P2.0mm_Horizontal_PTH"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2327,7 +2327,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x02_P2.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x02_P2.0mm_Horizontal_SMD"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2539,7 +2539,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x02_P2.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x02_P2.0mm_Horizontal_SMD"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2764,7 +2764,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x02_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x02_P2.54mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2925,7 +2925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x03_P1.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x03_P1.0mm_Horizontal_SMD"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3116,7 +3116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x03_P1.0mm_Vertical_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x03_P1.0mm_Vertical_SMD"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3305,7 +3305,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x03_P1.25mm_Locking_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x03_P1.25mm_Locking_Horizontal_SMD"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3535,7 +3535,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x03_P2.0mm_Horizontal_PTH"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x03_P2.0mm_Horizontal_PTH"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3727,7 +3727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x03_P2.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x03_P2.0mm_Horizontal_SMD"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3919,7 +3919,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x03_P2.0mm_Vertical_PTH"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x03_P2.0mm_Vertical_PTH"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4108,7 +4108,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x03_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x03_P2.54mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4295,7 +4295,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x03_P2.54mm_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x03_P2.54mm_Locking"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4485,7 +4485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x04_P1.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x04_P1.0mm_Horizontal_SMD"
 			(at -0.254 -11.684 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4692,7 +4692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x04_P1.0mm_Vertical_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x04_P1.0mm_Vertical_SMD"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4919,7 +4919,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x04_P1.25mm_Locking_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x04_P1.25mm_Locking_Horizontal_SMD"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5187,7 +5187,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x04_P2.0mm_Horizontal_PTH"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x04_P2.0mm_Horizontal_PTH"
 			(at -0.254 -11.684 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5397,7 +5397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x04_P2.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x04_P2.0mm_Horizontal_SMD"
 			(at -0.254 -11.684 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5604,7 +5604,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x04_P2.0mm_Vertical_PTH"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x04_P2.0mm_Vertical_PTH"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5831,7 +5831,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x04_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x04_P2.54mm"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6047,7 +6047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x04_P2.54mm_Header_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:1x04_P2.54mm_Header_Horizontal_SMD"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6274,7 +6274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x04_P2.54mm_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x04_P2.54mm_Locking"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6493,7 +6493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x05_P1.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x05_P1.0mm_Horizontal_SMD"
 			(at -0.254 -11.684 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6718,7 +6718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x05_P1.25mm_Locking_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x05_P1.25mm_Locking_Horizontal_SMD"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7012,7 +7012,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x05_P2.0mm_Socket_Vertical_PTH"
+		(property "Footprint" "Mega_SparkFun-Connector:1x05_P2.0mm_Socket_Vertical_PTH"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7268,7 +7268,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x05_P2.0mm_Socket_Vertical_SMD_Pin1RightDown"
+		(property "Footprint" "Mega_SparkFun-Connector:1x05_P2.0mm_Socket_Vertical_SMD_Pin1RightDown"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7524,7 +7524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x05_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x05_P2.54mm"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7769,7 +7769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x05_P2.54mm_Castellated"
+		(property "Footprint" "Mega_SparkFun-Connector:1x05_P2.54mm_Castellated"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8014,7 +8014,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x05_P2.54mm_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x05_P2.54mm_Locking"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8259,7 +8259,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x05_P2.54mm_Socket_PTH"
+		(property "Footprint" "Mega_SparkFun-Connector:1x05_P2.54mm_Socket_PTH"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8515,7 +8515,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_1x05_P1.0mm_Horizontal_DualContact_LIF"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_1x05_P1.0mm_Horizontal_DualContact_LIF"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8803,7 +8803,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x06_P1.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x06_P1.0mm_Horizontal_SMD"
 			(at -0.254 -14.224 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9046,7 +9046,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x06_P1.0mm_Vertical_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x06_P1.0mm_Vertical_SMD"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9331,7 +9331,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x06_P1.25mm_Locking_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x06_P1.25mm_Locking_Horizontal_SMD"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9654,7 +9654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x06_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x06_P2.54mm"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9928,7 +9928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x06_P2.54mm_Header_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:1x06_P2.54mm_Header_Horizontal_SMD"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10213,7 +10213,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x06_P2.54mm_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x06_P2.54mm_Locking"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10487,7 +10487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x06_P2.54mm_Socket_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:1x06_P2.54mm_Socket_Horizontal_SMD"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10772,7 +10772,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x06_P2.54mm_Socket_Vertical_SMD_Combined"
+		(property "Footprint" "Mega_SparkFun-Connector:1x06_P2.54mm_Socket_Vertical_SMD_Combined"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11057,7 +11057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x06_P2.54mm_Socket_Vertical_SMD_Pin1RightDown"
+		(property "Footprint" "Mega_SparkFun-Connector:1x06_P2.54mm_Socket_Vertical_SMD_Pin1RightDown"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11342,7 +11342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x06_P2.54mm_Socket_Vertical_SMD_Pin1RightDown_Passthru"
+		(property "Footprint" "Mega_SparkFun-Connector:1x06_P2.54mm_Socket_Vertical_SMD_Pin1RightDown_Passthru"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11630,7 +11630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x07_P1.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x07_P1.0mm_Horizontal_SMD"
 			(at -0.254 -14.224 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11891,7 +11891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x07_P1.25mm_Locking_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x07_P1.25mm_Locking_Horizontal_SMD"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12243,7 +12243,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x07_P2.0mm_Socket_Vertical_PTH"
+		(property "Footprint" "Mega_SparkFun-Connector:1x07_P2.0mm_Socket_Vertical_PTH"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12557,7 +12557,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x07_P2.0mm_Socket_Vertical_SMD_Pin1RightUp"
+		(property "Footprint" "Mega_SparkFun-Connector:1x07_P2.0mm_Socket_Vertical_SMD_Pin1RightUp"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12871,7 +12871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x07_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x07_P2.54mm"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13174,7 +13174,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x07_P2.54mm_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x07_P2.54mm_Locking"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13477,7 +13477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_1x08_P1.0mm_Horizontal_DualContact_LIF"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_1x08_P1.0mm_Horizontal_DualContact_LIF"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13861,7 +13861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x08_P1.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x08_P1.0mm_Horizontal_SMD"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14140,7 +14140,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x08_P1.25mm_Locking_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x08_P1.25mm_Locking_Horizontal_SMD"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14521,7 +14521,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x08_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x08_P2.54mm"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14853,7 +14853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x08_P2.54mm_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x08_P2.54mm_Locking"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15185,7 +15185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x08_P2.54mm_Socket_Vertical_SMD_Combined"
+		(property "Footprint" "Mega_SparkFun-Connector:1x08_P2.54mm_Socket_Vertical_SMD_Combined"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15528,7 +15528,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x08_P2.54mm_Socket_Vertical_SMD_Pin1RightDown"
+		(property "Footprint" "Mega_SparkFun-Connector:1x08_P2.54mm_Socket_Vertical_SMD_Pin1RightDown"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15871,7 +15871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x08_P2.54mm_Socket_Vertical_SMD_Pin1RightDown_Passthru"
+		(property "Footprint" "Mega_SparkFun-Connector:1x08_P2.54mm_Socket_Vertical_SMD_Pin1RightDown_Passthru"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16217,7 +16217,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x09_P1.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x09_P1.0mm_Horizontal_SMD"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16514,7 +16514,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x09_P1.25mm_Locking_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x09_P1.25mm_Locking_Horizontal_SMD"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16924,7 +16924,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x09_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x09_P2.54mm"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17285,7 +17285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x09_P2.54mm_Castellated"
+		(property "Footprint" "Mega_SparkFun-Connector:1x09_P2.54mm_Castellated"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17646,7 +17646,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x09_P2.54mm_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x09_P2.54mm_Locking"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18007,7 +18007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x09_P2.54mm_Socket_Vertical_PTH"
+		(property "Footprint" "Mega_SparkFun-Connector:1x09_P2.54mm_Socket_Vertical_PTH"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18379,7 +18379,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_1x10_P1.0mm_Horizontal_DualContact_LIF"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_1x10_P1.0mm_Horizontal_DualContact_LIF"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18821,7 +18821,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x10_P1.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x10_P1.0mm_Horizontal_SMD"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19136,7 +19136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x10_P1.25mm_Locking_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x10_P1.25mm_Locking_Horizontal_SMD"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19575,7 +19575,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x10_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x10_P2.54mm"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19965,7 +19965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x10_P2.54mm_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x10_P2.54mm_Locking"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20355,7 +20355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x10_P2.54mm_Socket_Vertical_SMD_Combined"
+		(property "Footprint" "Mega_SparkFun-Connector:1x10_P2.54mm_Socket_Vertical_SMD_Combined"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20756,7 +20756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x10_P2.54mm_Socket_Vertical_SMD_Pin1RightDown"
+		(property "Footprint" "Mega_SparkFun-Connector:1x10_P2.54mm_Socket_Vertical_SMD_Pin1RightDown"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21157,7 +21157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x10_P2.54mm_Socket_Vertical_SMD_Pin1RightDown_Passthru"
+		(property "Footprint" "Mega_SparkFun-Connector:1x10_P2.54mm_Socket_Vertical_SMD_Pin1RightDown_Passthru"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21558,7 +21558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x11_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x11_P2.54mm"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21977,7 +21977,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x11_P2.54mm_Castellated_0.05inch_SmallFirst"
+		(property "Footprint" "Mega_SparkFun-Connector:1x11_P2.54mm_Castellated_0.05inch_SmallFirst"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22476,7 +22476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x11_P2.54mm_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x11_P2.54mm_Locking"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22895,7 +22895,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_1x12_P0.5mm_Horizontal_Dual_Contact"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_1x12_P0.5mm_Horizontal_Dual_Contact"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23343,7 +23343,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x12_P1.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x12_P1.0mm_Horizontal_SMD"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23802,7 +23802,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x12_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x12_P2.54mm"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24250,7 +24250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x12_P2.54mm_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x12_P2.54mm_Locking"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24698,7 +24698,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x13"
+		(property "Footprint" "Mega_SparkFun-Connector:1x13"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25175,7 +25175,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x13_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x13_Locking"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25652,7 +25652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x14"
+		(property "Footprint" "Mega_SparkFun-Connector:1x14"
 			(at 0 -22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26158,7 +26158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x14_Castellated"
+		(property "Footprint" "Mega_SparkFun-Connector:1x14_Castellated"
 			(at 0 -22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26664,7 +26664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_SMD_1.0mm-14"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_SMD_1.0mm-14"
 			(at 0 -22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27181,7 +27181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x14_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x14_Locking"
 			(at 0 -22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27687,7 +27687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x15"
+		(property "Footprint" "Mega_SparkFun-Connector:1x15"
 			(at 0 -22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28222,7 +28222,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x15_Castellated"
+		(property "Footprint" "Mega_SparkFun-Connector:1x15_Castellated"
 			(at 0 -22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28757,7 +28757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x15_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x15_Locking"
 			(at 0 -22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29292,7 +29292,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x16"
+		(property "Footprint" "Mega_SparkFun-Connector:1x16"
 			(at 0 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29856,7 +29856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_1x16_P0.5mm_Horizontal_DualContact"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_1x16_P0.5mm_Horizontal_DualContact"
 			(at 0 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30469,7 +30469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x16_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x16_Locking"
 			(at 0 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31033,7 +31033,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x17"
+		(property "Footprint" "Mega_SparkFun-Connector:1x17"
 			(at 0 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31626,7 +31626,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x17_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x17_Locking"
 			(at 0 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32219,7 +32219,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x18"
+		(property "Footprint" "Mega_SparkFun-Connector:1x18"
 			(at 0 -27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32841,7 +32841,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x18_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x18_Locking"
 			(at 0 -27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33463,7 +33463,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x19"
+		(property "Footprint" "Mega_SparkFun-Connector:1x19"
 			(at 0 -27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34114,7 +34114,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x19_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x19_Locking"
 			(at 0 -27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34765,7 +34765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x20"
+		(property "Footprint" "Mega_SparkFun-Connector:1x20"
 			(at 0 -30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35445,7 +35445,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x20_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x20_Locking"
 			(at 0 -30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36125,7 +36125,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x20_SMD_Pin1RightUp"
+		(property "Footprint" "Mega_SparkFun-Connector:1x20_SMD_Pin1RightUp"
 			(at 0 -30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36817,7 +36817,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_1x21_P0.3mm_Horizontal_DualContact"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_1x21_P0.3mm_Horizontal_DualContact"
 			(at 0 -35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38721,7 +38721,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x22"
+		(property "Footprint" "Mega_SparkFun-Connector:1x22"
 			(at 0 -33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39459,7 +39459,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_1x22_P0.5mm_Horizontal_BottomContact"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_1x22_P0.5mm_Horizontal_BottomContact"
 			(at 0 -33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40208,7 +40208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_1x22_P0.5mm_Vertical_LowerContact"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_1x22_P0.5mm_Vertical_LowerContact"
 			(at 0 -33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40957,7 +40957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x22_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x22_Locking"
 			(at 0 -33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41695,7 +41695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_1x24_P0.5mm_Horizontal_BottomContact"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_1x24_P0.5mm_Horizontal_BottomContact"
 			(at 0.508 -38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42502,7 +42502,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_1x24_P0.5mm_Horizontal_DualContact"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_1x24_P0.5mm_Horizontal_DualContact"
 			(at 0.508 -38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43347,7 +43347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x27_Castellated_0.05inch"
+		(property "Footprint" "Mega_SparkFun-Connector:1x27_Castellated_0.05inch"
 			(at 0 -38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44401,7 +44401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x29"
+		(property "Footprint" "Mega_SparkFun-Connector:1x29"
 			(at 0 -40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45342,7 +45342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x30"
+		(property "Footprint" "Mega_SparkFun-Connector:1x30"
 			(at 0 -43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46312,7 +46312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x47_Castellated_0.05inch"
+		(property "Footprint" "Mega_SparkFun-Connector:1x47_Castellated_0.05inch"
 			(at 0 -63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48076,7 +48076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FlexyPin_1x47_P1.27mm"
+		(property "Footprint" "Mega_SparkFun-Connector:FlexyPin_1x47_P1.27mm"
 			(at 0 -63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49840,7 +49840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x53_Castellated_0.05inch"
+		(property "Footprint" "Mega_SparkFun-Connector:1x53_Castellated_0.05inch"
 			(at 0 -71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51813,7 +51813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x03_P2.00mm_NoSilk"
+		(property "Footprint" "Mega_SparkFun-Connector:2x03_P2.00mm_NoSilk"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52075,7 +52075,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x03_P2.0mm_Header_Vertical_SMD_Pegs"
+		(property "Footprint" "Mega_SparkFun-Connector:2x03_P2.0mm_Header_Vertical_SMD_Pegs"
 			(at 0 -8.128 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52349,7 +52349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x10_P2.0mm_Header_Vertical_SMD_Pegs"
+		(property "Footprint" "Mega_SparkFun-Connector:2x10_P2.0mm_Header_Vertical_SMD_Pegs"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53040,7 +53040,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x10_P2.0mm_Socket_Vertical_SMD_Pegs"
+		(property "Footprint" "Mega_SparkFun-Connector:2x10_P2.0mm_Socket_Vertical_SMD_Pegs"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53731,7 +53731,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x10_P2.54mm_Socket_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:2x10_P2.54mm_Socket_Horizontal_SMD"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54422,7 +54422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x10_P2.54mm_Socket_Vertical_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:2x10_P2.54mm_Socket_Vertical_SMD"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55109,7 +55109,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_2x12-1MP_P0.4mm"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_2x12-1MP_P0.4mm"
 			(at 0 -24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55640,7 +55640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:DE9_Header_Horizontal_PTH"
+		(property "Footprint" "Mega_SparkFun-Connector:DE9_Header_Horizontal_PTH"
 			(at 0 -14.986 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56003,7 +56003,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:DE9_Socket_Horizontal_PTH"
+		(property "Footprint" "Mega_SparkFun-Connector:DE9_Socket_Horizontal_PTH"
 			(at 0 -13.462 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56365,7 +56365,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x05_P1.27mm"
+		(property "Footprint" "Mega_SparkFun-Connector:2x05_P1.27mm"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56611,7 +56611,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x05_P1.27mm_SMD_Unshrouded"
+		(property "Footprint" "Mega_SparkFun-Connector:2x05_P1.27mm_SMD_Unshrouded"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56855,7 +56855,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:HDMI_A_19P_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:HDMI_A_19P_SMD"
 			(at 0 -45.466 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57384,7 +57384,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x04_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x04_P2.54mm"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57632,7 +57632,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x10_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x10_Locking"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58102,7 +58102,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x09_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:1x09_Locking"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58535,7 +58535,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x10_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x10_P2.54mm"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59005,7 +59005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x09_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x09_P2.54mm"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59438,7 +59438,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x04_P1.0mm_Horizontal_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x04_P1.0mm_Horizontal_SMD"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59834,7 +59834,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_1x04_P1.0mm_Vertical_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_1x04_P1.0mm_Vertical_SMD"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60226,7 +60226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:MagJack_RJ45_2.5GB"
+		(property "Footprint" "Mega_SparkFun-Connector:MagJack_RJ45_2.5GB"
 			(at 0 -30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62767,7 +62767,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:MagJack_PoE_RJ45"
+		(property "Footprint" "Mega_SparkFun-Connector:MagJack_PoE_RJ45"
 			(at 0 -26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64645,7 +64645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:RJ45_Mid_Mount_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:RJ45_Mid_Mount_SMD"
 			(at -0.508 -21.082 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65329,7 +65329,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x20_Shrouded"
+		(property "Footprint" "Mega_SparkFun-Connector:2x20_Shrouded"
 			(at 0 -44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -66180,7 +66180,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x20_Shrouded_NoSilk"
+		(property "Footprint" "Mega_SparkFun-Connector:2x20_Shrouded_NoSilk"
 			(at 0 -44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67031,7 +67031,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:Raspberry_Pi_Shield_Bottom_Entry_No_Mounting_Holes"
+		(property "Footprint" "Mega_SparkFun-Connector:Raspberry_Pi_Shield_Bottom_Entry_No_Mounting_Holes"
 			(at 0 -40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67871,7 +67871,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:Raspberry_Pi_Shield_Top_Entry_No_Mounting_Holes"
+		(property "Footprint" "Mega_SparkFun-Connector:Raspberry_Pi_Shield_Top_Entry_No_Mounting_Holes"
 			(at -0.635 -40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68712,7 +68712,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_1x16_P0.5mm_Horizontal_DualContact_ReverseNumbering"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_1x16_P0.5mm_Horizontal_DualContact_ReverseNumbering"
 			(at 0 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69115,7 +69115,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:ScrewCage_1x10_P3.5mm_Horizontal"
+		(property "Footprint" "Mega_SparkFun-Connector:ScrewCage_1x10_P3.5mm_Horizontal"
 			(at 0.254 -20.066 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69756,7 +69756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:ScrewTerminal_1x02_P3.5mm_Horizontal_Black"
+		(property "Footprint" "Mega_SparkFun-Connector:ScrewTerminal_1x02_P3.5mm_Horizontal_Black"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69973,7 +69973,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:ScrewTerminal_1x03_P3.5mm_Horizontal_Black"
+		(property "Footprint" "Mega_SparkFun-Connector:ScrewTerminal_1x03_P3.5mm_Horizontal_Black"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70243,7 +70243,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:ScrewTerminal_1x04_P3.5mm_Horizontal"
+		(property "Footprint" "Mega_SparkFun-Connector:ScrewTerminal_1x04_P3.5mm_Horizontal"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70566,7 +70566,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:ScrewTerminal_1x05_P3.5mm_Horizontal"
+		(property "Footprint" "Mega_SparkFun-Connector:ScrewTerminal_1x05_P3.5mm_Horizontal"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70946,7 +70946,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:TestPoint-0.5mm"
+		(property "Footprint" "Mega_SparkFun-Connector:TestPoint-0.5mm"
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71059,7 +71059,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:TestPoint-0.75mm"
+		(property "Footprint" "Mega_SparkFun-Connector:TestPoint-0.75mm"
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71172,7 +71172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:TestPoint-1.0mm"
+		(property "Footprint" "Mega_SparkFun-Connector:TestPoint-1.0mm"
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71285,7 +71285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:TestPoint-1.25mm"
+		(property "Footprint" "Mega_SparkFun-Connector:TestPoint-1.25mm"
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71398,7 +71398,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x01_P2.54mm"
+		(property "Footprint" "Mega_SparkFun-Connector:1x01_P2.54mm"
 			(at -1.27 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71508,7 +71508,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:USB-C_16"
+		(property "Footprint" "Mega_SparkFun-Connector:USB-C_16"
 			(at 0 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -72132,7 +72132,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:microSD_Friction_Fit_Common"
+		(property "Footprint" "Mega_SparkFun-Connector:microSD_Friction_Fit_Common"
 			(at 1.27 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -72453,7 +72453,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:microSD_External_Pin"
+		(property "Footprint" "Mega_SparkFun-Connector:microSD_External_Pin"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -32,7 +32,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
+		(property "Footprint" "Mega_SparkFun-Switch:Pad-CapacitiveTouch"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -141,7 +141,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Slide_DP3T_SMD_9.8x3.5mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Slide_DP3T_SMD_9.8x3.5mm"
 			(at 0 -19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -584,7 +584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Slide_DPDT_SMD_7.2x3.5mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Slide_DPDT_SMD_7.2x3.5mm"
 			(at 0 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -981,7 +981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Slide_DPDT_SMD_9.0x3.6mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Slide_DPDT_SMD_9.0x3.6mm"
 			(at 0 -19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1381,7 +1381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Joystick_PTH"
+		(property "Footprint" "Mega_SparkFun-Switch:Joystick_PTH"
 			(at 0 -13.208 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1799,7 +1799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Navigation_SMD_7.5x7.5mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Navigation_SMD_7.5x7.5mm"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2269,7 +2269,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Navigation_SMD_9.9x9.9mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Navigation_SMD_9.9x9.9mm"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2774,7 +2774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Slide_SP3T_SMD_9.7x2.6mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Slide_SP3T_SMD_9.7x2.6mm"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3034,7 +3034,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Slide_DP3T_SMD_9.8x3.5mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Slide_DP3T_SMD_9.8x3.5mm"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3340,7 +3340,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Slide_SPDT_PTH_11.6x4.0mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Slide_SPDT_PTH_11.6x4.0mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3543,7 +3543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Slide_SPDT_PTH_11.6x4.0mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Slide_SPDT_PTH_11.6x4.0mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3746,7 +3746,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Slide_SPST_SMD_6.7x2.6mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Slide_SPST_SMD_6.7x2.6mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4025,7 +4025,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Slide_DPDT_SMD_7.2x3.5mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Slide_DPDT_SMD_7.2x3.5mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4285,7 +4285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Slide_DPDT_SMD_7.2x3.5mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Slide_DPDT_SMD_7.2x3.5mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4545,7 +4545,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Slide_DPDT_SMD_9.0x3.6mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Slide_DPDT_SMD_9.0x3.6mm"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4819,7 +4819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_PTH_12x12mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_PTH_12x12mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5006,7 +5006,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_PTH_12x12mm_LED_Red"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_PTH_12x12mm_LED_Red"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5315,7 +5315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_PTH_RA_7.4x4.3mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_PTH_RA_7.4x4.3mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5540,7 +5540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_PTH_RA_8-020_h7.5mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_PTH_RA_8-020_h7.5mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5765,7 +5765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_SMD_12x12mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_SMD_12x12mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5952,7 +5952,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_SMD_4.2x3.2mm_h2.5mm_Beige"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_SMD_4.2x3.2mm_h2.5mm_Beige"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6137,7 +6137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_SMD_4.2x3.2mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_SMD_4.2x3.2mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6322,7 +6322,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_SMD_4.6x2.8mm_h1.9mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_SMD_4.6x2.8mm_h1.9mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6507,7 +6507,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_SMD_4.6x2.8mm_h2.5mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_SMD_4.6x2.8mm_h2.5mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6683,7 +6683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_SMD_5.2x5.2mm_h1.9mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_SMD_5.2x5.2mm_h1.9mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6859,7 +6859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_SMD_5.2x5.2mm_h2.5mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_SMD_5.2x5.2mm_h2.5mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7035,7 +7035,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_SMD_6.2x6.2mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_SMD_6.2x6.2mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7222,7 +7222,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_SMD_6x3.5mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_SMD_6x3.5mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7409,7 +7409,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_SMD_RA_4.5x3.4mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_SMD_RA_4.5x3.4mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7596,7 +7596,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_SMD_RA_5x3mm"
+		(property "Footprint" "Mega_SparkFun-Switch:Push_SMD_RA_5x3mm"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)

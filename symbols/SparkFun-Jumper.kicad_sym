@@ -35,7 +35,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:Jumper_2_PTH_SMD_Combo-NC"
+		(property "Footprint" "Mega_SparkFun-Jumper:Jumper_2_PTH_SMD_Combo-NC"
 			(at -0.254 -4.572 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -248,7 +248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:Jumper_2_PTH_SMD_Combo-NO"
+		(property "Footprint" "Mega_SparkFun-Jumper:Jumper_2_PTH_SMD_Combo-NO"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -450,7 +450,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:Jumper_2_NC_Trace"
+		(property "Footprint" "Mega_SparkFun-Jumper:Jumper_2_NC_Trace"
 			(at -0.254 -4.572 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -663,7 +663,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:Jumper_2_NC_Trace_NoSilk"
+		(property "Footprint" "Mega_SparkFun-Jumper:Jumper_2_NC_Trace_NoSilk"
 			(at -0.254 -4.572 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -876,7 +876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:Jumper_2_NO"
+		(property "Footprint" "Mega_SparkFun-Jumper:Jumper_2_NO"
 			(at 0 -3.302 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1078,7 +1078,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:Jumper_2_NO_NoSilk"
+		(property "Footprint" "Mega_SparkFun-Jumper:Jumper_2_NO_NoSilk"
 			(at 0 -3.302 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1280,7 +1280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:Jumper_3_NC-1_Trace"
+		(property "Footprint" "Mega_SparkFun-Jumper:Jumper_3_NC-1_Trace"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1558,7 +1558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:Jumper_3_NC-2_Trace"
+		(property "Footprint" "Mega_SparkFun-Jumper:Jumper_3_NC-2_Trace"
 			(at 0.254 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1847,7 +1847,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:Jumper_3_NC-2_Trace_NoSilk"
+		(property "Footprint" "Mega_SparkFun-Jumper:Jumper_3_NC-2_Trace_NoSilk"
 			(at 0.254 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2136,7 +2136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:Jumper_3_NC-1_Trace_NoSilk"
+		(property "Footprint" "Mega_SparkFun-Jumper:Jumper_3_NC-1_Trace_NoSilk"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2414,7 +2414,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:Jumper_3_NO"
+		(property "Footprint" "Mega_SparkFun-Jumper:Jumper_3_NO"
 			(at 0.254 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2681,7 +2681,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Jumper:Jumper_3_NO_NoSilk"
+		(property "Footprint" "Mega_SparkFun-Jumper:Jumper_3_NO_NoSilk"
 			(at 0.254 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)

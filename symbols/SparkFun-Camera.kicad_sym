@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_2x12-1MP_P0.4mm"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_2x12-1MP_P0.4mm"
 			(at 0 -24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -556,7 +556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcd-tft:HM01B0-ANA-00FT870"
+		(property "Footprint" "Mega_SparkFun-Camera:HM01B0-ANA-00FT870"
 			(at 0 -3.81 0)
 			(show_name no)
 			(do_not_autoplace no)

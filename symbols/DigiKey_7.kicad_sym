@@ -33,7 +33,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TFSOP-12-16_W3.00mm"
+			(property "Footprint" "Mega_DigiKey:TFSOP-12-16_W3.00mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -451,7 +451,7 @@
 					(justify right)
 				)
 			)
-			(property "Footprint" "digikey-footprints:MSOP-10-1EP_W3mm"
+			(property "Footprint" "Mega_DigiKey:MSOP-10-1EP_W3mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -851,7 +851,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:MSOP-10_W3mm"
+			(property "Footprint" "Mega_DigiKey:MSOP-10_W3mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1231,7 +1231,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_Bar_Graph_LTA-1000"
+			(property "Footprint" "Mega_DigiKey:LED_Bar_Graph_LTA-1000"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2751,7 +2751,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_Bar_Graph_LTA-1000"
+			(property "Footprint" "Mega_DigiKey:LED_Bar_Graph_LTA-1000"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4271,7 +4271,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_Bar_Graph_LTA-1000"
+			(property "Footprint" "Mega_DigiKey:LED_Bar_Graph_LTA-1000"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5793,7 +5793,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TSSOP-8_W3mm"
+			(property "Footprint" "Mega_DigiKey:TSSOP-8_W3mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6139,7 +6139,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TSSOP-8_W3mm"
+			(property "Footprint" "Mega_DigiKey:TSSOP-8_W3mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6486,7 +6486,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:WFDFN-8-1EP_3x3mm"
+			(property "Footprint" "Mega_DigiKey:WFDFN-8-1EP_3x3mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6851,7 +6851,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:MSOP-10_W3mm"
+			(property "Footprint" "Mega_DigiKey:MSOP-10_W3mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7232,7 +7232,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TFSOP-16_W3.00mm"
+			(property "Footprint" "Mega_DigiKey:TFSOP-16_W3.00mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7722,7 +7722,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:MSOP-10-1EP_W3mm"
+			(property "Footprint" "Mega_DigiKey:MSOP-10-1EP_W3mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -8121,7 +8121,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:WFQFN-38-1EP_5x7mm"
+			(property "Footprint" "Mega_DigiKey:WFQFN-38-1EP_5x7mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -9025,7 +9025,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:MSOP-10_W3mm"
+			(property "Footprint" "Mega_DigiKey:MSOP-10_W3mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -9406,7 +9406,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TSSOP-8_W3mm"
+			(property "Footprint" "Mega_DigiKey:TSSOP-8_W3mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -9754,7 +9754,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-23-8"
+			(property "Footprint" "Mega_DigiKey:SOT-23-8"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -10100,7 +10100,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-23-6"
+			(property "Footprint" "Mega_DigiKey:SOT-23-6"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -10406,7 +10406,7 @@
 					(justify right)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-23-6"
+			(property "Footprint" "Mega_DigiKey:SOT-23-6"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -10714,7 +10714,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_3mm_Radial"
+			(property "Footprint" "Mega_DigiKey:LED_3mm_Radial"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -11011,7 +11011,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_3mm_Radial"
+			(property "Footprint" "Mega_DigiKey:LED_3mm_Radial"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -11308,7 +11308,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_5mm_Radial"
+			(property "Footprint" "Mega_DigiKey:LED_5mm_Radial"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -11605,7 +11605,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_5mm_Radial"
+			(property "Footprint" "Mega_DigiKey:LED_5mm_Radial"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -11902,7 +11902,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_5mm_Radial"
+			(property "Footprint" "Mega_DigiKey:LED_5mm_Radial"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -12199,7 +12199,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_5mm_Radial"
+			(property "Footprint" "Mega_DigiKey:LED_5mm_Radial"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -12496,7 +12496,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_5mm_Radial"
+			(property "Footprint" "Mega_DigiKey:LED_5mm_Radial"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -12794,7 +12794,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:Phototransistor_4.4x1.5mm_P2.54_Radial"
+			(property "Footprint" "Mega_DigiKey:Phototransistor_4.4x1.5mm_P2.54_Radial"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -13127,7 +13127,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_3mm_Radial"
+			(property "Footprint" "Mega_DigiKey:LED_3mm_Radial"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -13459,7 +13459,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:1206"
+			(property "Footprint" "Mega_DigiKey:1206"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -13756,7 +13756,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:1206"
+			(property "Footprint" "Mega_DigiKey:1206"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -14053,7 +14053,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:1206"
+			(property "Footprint" "Mega_DigiKey:1206"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -14350,7 +14350,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:1206"
+			(property "Footprint" "Mega_DigiKey:1206"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -14647,7 +14647,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:0805"
+			(property "Footprint" "Mega_DigiKey:0805"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -14944,7 +14944,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:0805"
+			(property "Footprint" "Mega_DigiKey:0805"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -15241,7 +15241,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:0805"
+			(property "Footprint" "Mega_DigiKey:0805"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -15538,7 +15538,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:0805"
+			(property "Footprint" "Mega_DigiKey:0805"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -15835,7 +15835,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:0805"
+			(property "Footprint" "Mega_DigiKey:0805"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -16134,7 +16134,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_0603"
+			(property "Footprint" "Mega_DigiKey:LED_0603"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -16481,7 +16481,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_0603"
+			(property "Footprint" "Mega_DigiKey:LED_0603"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -16826,7 +16826,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:0603"
+			(property "Footprint" "Mega_DigiKey:0603"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -17123,7 +17123,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:0603"
+			(property "Footprint" "Mega_DigiKey:0603"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -17420,7 +17420,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:0603"
+			(property "Footprint" "Mega_DigiKey:0603"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -17719,7 +17719,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_0603"
+			(property "Footprint" "Mega_DigiKey:LED_0603"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -18064,7 +18064,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:0603"
+			(property "Footprint" "Mega_DigiKey:0603"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -18361,7 +18361,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:0603"
+			(property "Footprint" "Mega_DigiKey:0603"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -18659,7 +18659,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_Dual0603"
+			(property "Footprint" "Mega_DigiKey:LED_Dual0603"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -19268,7 +19268,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:1206"
+			(property "Footprint" "Mega_DigiKey:1206"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -19565,7 +19565,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SMD-4_4.4x3.85mm_P2.54mm"
+			(property "Footprint" "Mega_DigiKey:SMD-4_4.4x3.85mm_P2.54mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -19933,7 +19933,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SMD-4_4.6x7.62mm_P2.54mm"
+			(property "Footprint" "Mega_DigiKey:SMD-4_4.6x7.62mm_P2.54mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -20301,7 +20301,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:DIP-4_W7.62mm"
+			(property "Footprint" "Mega_DigiKey:DIP-4_W7.62mm"
 				(at 5.08 5.08 90)
 				(show_name no)
 				(do_not_autoplace no)
@@ -20669,7 +20669,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:DIP-16_W7.62mm"
+			(property "Footprint" "Mega_DigiKey:DIP-16_W7.62mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -21541,7 +21541,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:LED_5mm_Radial"
+			(property "Footprint" "Mega_DigiKey:LED_5mm_Radial"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -21839,7 +21839,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:PinHeader_1x2_P2.54mm"
+			(property "Footprint" "Mega_DigiKey:PinHeader_1x2_P2.54mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -22095,7 +22095,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SMD-5-6_3.83x2.79mm"
+			(property "Footprint" "Mega_DigiKey:SMD-5-6_3.83x2.79mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -22626,7 +22626,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:DFN-10_2x2mm"
+			(property "Footprint" "Mega_DigiKey:DFN-10_2x2mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -23008,7 +23008,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-753"
+			(property "Footprint" "Mega_DigiKey:SOT-753"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -23299,7 +23299,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:DIP-16_W7.62mm"
+			(property "Footprint" "Mega_DigiKey:DIP-16_W7.62mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -23787,7 +23787,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:Smoke_Sensor_MAX30105EFD+"
+			(property "Footprint" "Mega_DigiKey:Smoke_Sensor_MAX30105EFD+"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -24242,7 +24242,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TO-92-3"
+			(property "Footprint" "Mega_DigiKey:TO-92-3"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -24498,7 +24498,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOIC-8_W3.9mm"
+			(property "Footprint" "Mega_DigiKey:SOIC-8_W3.9mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -24844,7 +24844,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TQFN-20-1EP_5x5mm"
+			(property "Footprint" "Mega_DigiKey:TQFN-20-1EP_5x5mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -25422,7 +25422,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:DIP-16_W7.62mm"
+			(property "Footprint" "Mega_DigiKey:DIP-16_W7.62mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -25908,7 +25908,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:UDFN-6-1EP_2x2mm"
+			(property "Footprint" "Mega_DigiKey:UDFN-6-1EP_2x2mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -26235,7 +26235,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-353"
+			(property "Footprint" "Mega_DigiKey:SOT-353"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -26564,7 +26564,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TSSOP-14_W4.4mm"
+			(property "Footprint" "Mega_DigiKey:TSSOP-14_W4.4mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -27018,7 +27018,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-23-8"
+			(property "Footprint" "Mega_DigiKey:SOT-23-8"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -27365,7 +27365,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-143-4"
+			(property "Footprint" "Mega_DigiKey:SOT-143-4"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -27638,7 +27638,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TQFN-44-1EP_7x7mm"
+			(property "Footprint" "Mega_DigiKey:TQFN-44-1EP_7x7mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -28649,7 +28649,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:WFDFN-14-1EP_3x3mm"
+			(property "Footprint" "Mega_DigiKey:WFDFN-14-1EP_3x3mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -29120,7 +29120,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:WFDFN-14-1EP_3x3mm"
+			(property "Footprint" "Mega_DigiKey:WFDFN-14-1EP_3x3mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -29879,7 +29879,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TO-269AA"
+			(property "Footprint" "Mega_DigiKey:TO-269AA"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -30298,7 +30298,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TO-269AA"
+			(property "Footprint" "Mega_DigiKey:TO-269AA"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -30716,7 +30716,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOIC-8_W3.9mm"
+			(property "Footprint" "Mega_DigiKey:SOIC-8_W3.9mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -31065,7 +31065,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOD-123"
+			(property "Footprint" "Mega_DigiKey:SOD-123"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -31343,7 +31343,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOD-123"
+			(property "Footprint" "Mega_DigiKey:SOD-123"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -31617,7 +31617,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-363"
+			(property "Footprint" "Mega_DigiKey:SOT-363"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -32153,7 +32153,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOIC-14_W3.9mm"
+			(property "Footprint" "Mega_DigiKey:SOIC-14_W3.9mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -33030,7 +33030,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TO-252-3"
+			(property "Footprint" "Mega_DigiKey:TO-252-3"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -33281,7 +33281,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TO-220-3"
+			(property "Footprint" "Mega_DigiKey:TO-220-3"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -33532,7 +33532,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TO-220-3"
+			(property "Footprint" "Mega_DigiKey:TO-220-3"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -33788,7 +33788,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-23-3"
+			(property "Footprint" "Mega_DigiKey:SOT-23-3"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -34040,7 +34040,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-753"
+			(property "Footprint" "Mega_DigiKey:SOT-753"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -34328,7 +34328,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-753"
+			(property "Footprint" "Mega_DigiKey:SOT-753"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -34616,7 +34616,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-23-3"
+			(property "Footprint" "Mega_DigiKey:SOT-23-3"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -34870,7 +34870,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-23-3"
+			(property "Footprint" "Mega_DigiKey:SOT-23-3"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -35121,7 +35121,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:TO-92-3"
+			(property "Footprint" "Mega_DigiKey:TO-92-3"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -35372,7 +35372,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOT-23-3"
+			(property "Footprint" "Mega_DigiKey:SOT-23-3"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -35626,7 +35626,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:DIP-18_W7.62mm"
+			(property "Footprint" "Mega_DigiKey:DIP-18_W7.62mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -36151,7 +36151,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:SOIC-28_W7.5mm"
+			(property "Footprint" "Mega_DigiKey:SOIC-28_W7.5mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -36855,7 +36855,7 @@
 					)
 				)
 			)
-			(property "Footprint" "digikey-footprints:DIP-28_W7.62mm"
+			(property "Footprint" "Mega_DigiKey:DIP-28_W7.62mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -37560,7 +37560,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "digikey-footprints:DIP-28_W7.62mm"
+			(property "Footprint" "Mega_DigiKey:DIP-28_W7.62mm"
 				(at 5.08 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)

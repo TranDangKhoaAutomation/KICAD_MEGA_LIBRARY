@@ -391,40 +391,40 @@ BOARD_MCU = {
 
 # Footprint tương ứng cho từng board (dùng chung)
 BOARD_FP = {
-    "STM32F103C8T6 Mini": "STM32_Board:BluePill_STM32F103",
-    "STM32F407VET6 Core Board": "STM32_Board:LQFP-100_14x14mm",
-    "STM32F407ZGT6 Core Board": "STM32_Board:LQFP-144_20x20mm_P0.5mm",
-    "STM32F407VGT6 Core Board": "STM32_Board:LQFP-100_14x14mm",
-    "STM32F405RGT6 Core Board": "STM32_Board:LQFP-64_10x10mm",
-    "STM32H743VIT6 Core Board": "STM32_Board:LQFP-100_14x14mm",
-    "STM32H750VBT6 Core Board": "STM32_Board:LQFP-100_14x14mm",
-    "Maple Mini STM32F103": "STM32_Board:BluePill_STM32F103",
-    "STM32F0DISCOVERY": "STM32_Board:STM32F4DISCOVERY",
-    "STM32F3DISCOVERY": "STM32_Board:STM32F4DISCOVERY",
-    "STM32F4DISCOVERY": "STM32_Board:STM32F4DISCOVERY",
-    "STM32F407G-DISC1": "STM32_Board:STM32F4DISCOVERY",
-    "STM32F401C-DISCO": "STM32_Board:STM32F4DISCOVERY",
-    "STM32F411E-DISCO": "STM32_Board:STM32F4DISCOVERY",
-    "STM32F429I-DISCO": "STM32_Board:STM32F4DISCOVERY",
-    "STM32F469I-DISCO": "STM32_Board:STM32F4DISCOVERY",
-    "STM32F746G-DISCO": "STM32_Board:STM32F4DISCOVERY",
-    "STM32F769I-DISCO": "STM32_Board:STM32F4DISCOVERY",
-    "STM32H747I-DISCO": "STM32_Board:STM32F4DISCOVERY",
-    "STM32L476G-DISCO": "STM32_Board:STM32F4DISCOVERY",
-    "STM32U5G9J-DK": "STM32_Board:STM32F4DISCOVERY",
-    "NUCLEO-F030R8": "STM32_Board:Nucleo_64",
-    "NUCLEO-F103RB": "STM32_Board:Nucleo_64",
-    "NUCLEO-F401RE": "STM32_Board:Nucleo_64",
-    "NUCLEO-F411RE": "STM32_Board:Nucleo_64",
-    "NUCLEO-F446RE": "STM32_Board:Nucleo_64",
-    "NUCLEO-F446ZE": "STM32_Board:Nucleo_144",
-    "NUCLEO-F767ZI": "STM32_Board:Nucleo_144",
-    "NUCLEO-G431RB": "STM32_Board:Nucleo_64",
-    "NUCLEO-G474RE": "STM32_Board:Nucleo_64",
-    "NUCLEO-H743ZI": "STM32_Board:Nucleo_144",
-    "NUCLEO-H753ZI": "STM32_Board:Nucleo_144",
-    "NUCLEO-L432KC": "STM32_Board:Nucleo_32",
-    "NUCLEO-L476RG": "STM32_Board:Nucleo_64",
+    "STM32F103C8T6 Mini": "Mega_STM32_Board:BluePill_STM32F103",
+    "STM32F407VET6 Core Board": "Mega_STM32_Board:LQFP-100_14x14mm",
+    "STM32F407ZGT6 Core Board": "Mega_STM32_Board:LQFP-144_20x20mm_P0.5mm",
+    "STM32F407VGT6 Core Board": "Mega_STM32_Board:LQFP-100_14x14mm",
+    "STM32F405RGT6 Core Board": "Mega_STM32_Board:LQFP-64_10x10mm",
+    "STM32H743VIT6 Core Board": "Mega_STM32_Board:LQFP-100_14x14mm",
+    "STM32H750VBT6 Core Board": "Mega_STM32_Board:LQFP-100_14x14mm",
+    "Maple Mini STM32F103": "Mega_STM32_Board:BluePill_STM32F103",
+    "STM32F0DISCOVERY": "Mega_STM32_Board:STM32F4DISCOVERY",
+    "STM32F3DISCOVERY": "Mega_STM32_Board:STM32F4DISCOVERY",
+    "STM32F4DISCOVERY": "Mega_STM32_Board:STM32F4DISCOVERY",
+    "STM32F407G-DISC1": "Mega_STM32_Board:STM32F4DISCOVERY",
+    "STM32F401C-DISCO": "Mega_STM32_Board:STM32F4DISCOVERY",
+    "STM32F411E-DISCO": "Mega_STM32_Board:STM32F4DISCOVERY",
+    "STM32F429I-DISCO": "Mega_STM32_Board:STM32F4DISCOVERY",
+    "STM32F469I-DISCO": "Mega_STM32_Board:STM32F4DISCOVERY",
+    "STM32F746G-DISCO": "Mega_STM32_Board:STM32F4DISCOVERY",
+    "STM32F769I-DISCO": "Mega_STM32_Board:STM32F4DISCOVERY",
+    "STM32H747I-DISCO": "Mega_STM32_Board:STM32F4DISCOVERY",
+    "STM32L476G-DISCO": "Mega_STM32_Board:STM32F4DISCOVERY",
+    "STM32U5G9J-DK": "Mega_STM32_Board:STM32F4DISCOVERY",
+    "NUCLEO-F030R8": "Mega_STM32_Board:Nucleo_64",
+    "NUCLEO-F103RB": "Mega_STM32_Board:Nucleo_64",
+    "NUCLEO-F401RE": "Mega_STM32_Board:Nucleo_64",
+    "NUCLEO-F411RE": "Mega_STM32_Board:Nucleo_64",
+    "NUCLEO-F446RE": "Mega_STM32_Board:Nucleo_64",
+    "NUCLEO-F446ZE": "Mega_STM32_Board:Nucleo_144",
+    "NUCLEO-F767ZI": "Mega_STM32_Board:Nucleo_144",
+    "NUCLEO-G431RB": "Mega_STM32_Board:Nucleo_64",
+    "NUCLEO-G474RE": "Mega_STM32_Board:Nucleo_64",
+    "NUCLEO-H743ZI": "Mega_STM32_Board:Nucleo_144",
+    "NUCLEO-H753ZI": "Mega_STM32_Board:Nucleo_144",
+    "NUCLEO-L432KC": "Mega_STM32_Board:Nucleo_32",
+    "NUCLEO-L476RG": "Mega_STM32_Board:Nucleo_64",
 }
 
 
@@ -437,34 +437,34 @@ def build_symbols():
     # Blue Pill (pinout header 2x20 = 40 pin)
     symbols.append(gen_symbol(
         "STM32F103C8T6_BluePill", "STM32F103C8T6 Blue Pill",
-        "STM32_Board:BluePill_STM32F103", bluepins,
+        "Mega_STM32_Board:BluePill_STM32F103", bluepins,
         "STM32 Blue Pill development board (STM32F103C8T6)"))
     symbols.append(gen_symbol(
         "STM32F103CBT6_BluePill", "STM32F103CBT6 Blue Pill",
-        "STM32_Board:BluePill_STM32F103", bluepins,
+        "Mega_STM32_Board:BluePill_STM32F103", bluepins,
         "STM32 Blue Pill development board (STM32F103CBT6)"))
     # Black Pill (pinout 2x20 = 40 pin)
     symbols.append(gen_symbol(
         "STM32F401CCU6_BlackPill", "STM32F401CCU6 Black Pill",
-        "STM32_Board:BlackPill_STM32F4", blackpins,
+        "Mega_STM32_Board:BlackPill_STM32F4", blackpins,
         "WeAct Black Pill development board (STM32F401CCU6)"))
     symbols.append(gen_symbol(
         "STM32F411CEU6_BlackPill", "STM32F411CEU6 Black Pill",
-        "STM32_Board:BlackPill_STM32F4", blackpins,
+        "Mega_STM32_Board:BlackPill_STM32F4", blackpins,
         "WeAct Black Pill development board (STM32F411CEU6)"))
     symbols.append(gen_symbol(
         "WeAct_STM32F401_BlackPill", "WeAct STM32F401 Black Pill",
-        "STM32_Board:BlackPill_STM32F4", blackpins,
+        "Mega_STM32_Board:BlackPill_STM32F4", blackpins,
         "WeAct STM32F401 Black Pill development board"))
     symbols.append(gen_symbol(
         "WeAct_STM32F411_BlackPill", "WeAct STM32F411 Black Pill",
-        "STM32_Board:BlackPill_STM32F4", blackpins,
+        "Mega_STM32_Board:BlackPill_STM32F4", blackpins,
         "WeAct STM32F411 Black Pill development board"))
 
     # Board còn lại: trích pinout từ symbol MCU chính thức
     for board, (defname, lib) in BOARD_MCU.items():
         pins = load_mcu_pins(lib, defname)
-        fp = BOARD_FP.get(board, "STM32_Board:Nucleo_64")
+        fp = BOARD_FP.get(board, "Mega_STM32_Board:Nucleo_64")
         symname = board.replace(" ", "_").replace("-", "_")
         if pins:
             symbols.append(gen_symbol(symname, board, fp, pins,

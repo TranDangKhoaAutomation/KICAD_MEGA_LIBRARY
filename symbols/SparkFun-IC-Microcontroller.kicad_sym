@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:TQFP-32_7x7mm_P0.8mm"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:TQFP-32_7x7mm_P0.8mm"
 			(at 0 -48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -719,7 +719,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SO-14"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SO-14"
 			(at 0 -21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1082,7 +1082,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-20_3x3mm_P0.5mm"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:QFN-20_3x3mm_P0.5mm"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1553,7 +1553,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:MAPBGA_10x10mm_P0.65mm"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:MAPBGA_10x10mm_P0.65mm"
 			(at 0 -106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4022,7 +4022,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:MAPBGA_10x10mm_P0.65mm"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:MAPBGA_10x10mm_P0.65mm"
 			(at 0 -124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7681,7 +7681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-16"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:QFN-16"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8085,7 +8085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-60-1EP_7x7mm_P0.4mm_EP3.5x3.5mm"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:QFN-60-1EP_7x7mm_P0.4mm_EP3.5x3.5mm"
 			(at 0 -38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9292,7 +9292,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-80-1EP_10x10mm_P0.4mm_EP3.4x3.4mm"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:QFN-80-1EP_10x10mm_P0.4mm_EP3.4x3.4mm"
 			(at 0 -63.5 0)
 			(show_name no)
 			(do_not_autoplace no)

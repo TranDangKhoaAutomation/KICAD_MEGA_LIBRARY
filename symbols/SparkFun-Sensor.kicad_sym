@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FPC_1x13_P0.3mm_Bottom_Contact"
+		(property "Footprint" "Mega_SparkFun-Connector:FPC_1x13_P0.3mm_Bottom_Contact"
 			(at -0.508 -17.018 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -372,7 +372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SO-8"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SO-8"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -613,7 +613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SO-8"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SO-8"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -842,7 +842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:FPC253x"
+		(property "Footprint" "Mega_SparkFun-Sensor:FPC253x"
 			(at -0.762 -23.368 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1435,7 +1435,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:LCC-36"
+		(property "Footprint" "Mega_SparkFun-Sensor:LCC-36"
 			(at 0 -18.288 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1621,7 +1621,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SO-16"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SO-16"
 			(at 0 -29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2018,7 +2018,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:IM19"
+		(property "Footprint" "Mega_SparkFun-Sensor:IM19"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2520,7 +2520,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:IM23-Outline"
+		(property "Footprint" "Mega_SparkFun-Sensor:IM23-Outline"
 			(at -1.27 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2630,7 +2630,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:ST_LGA-16_3x3mm_P0.5mm_5x3"
+		(property "Footprint" "Mega_SparkFun-Sensor:ST_LGA-16_3x3mm_P0.5mm_5x3"
 			(at -0.762 -23.368 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3017,7 +3017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:ST_LGA-14L_2.5x3.0mm_P0.5mm_4x3"
+		(property "Footprint" "Mega_SparkFun-Sensor:ST_LGA-14L_2.5x3.0mm_P0.5mm_4x3"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3381,7 +3381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-20_3x3mm_P0.4mm"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:QFN-20_3x3mm_P0.4mm"
 			(at 0 -30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3839,7 +3839,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-24-1EP_4x4mm_P0.5mm"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:QFN-24-1EP_4x4mm_P0.5mm"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4403,7 +4403,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:MQ-4 Gas Sensor"
+		(property "Footprint" "Mega_SparkFun-Sensor:MQ-4 Gas Sensor"
 			(at -1.905 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4626,7 +4626,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:MQ-7 Gas Sensor"
+		(property "Footprint" "Mega_SparkFun-Sensor:MQ-7 Gas Sensor"
 			(at -1.905 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4847,7 +4847,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:LGA-8_3x5mm_P1.25mm"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:LGA-8_3x5mm_P1.25mm"
 			(at 0 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5106,7 +5106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:LG-MLGA-14-1_Z8B00206105"
+		(property "Footprint" "Mega_SparkFun-Sensor:LG-MLGA-14-1_Z8B00206105"
 			(at -1.905 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5474,7 +5474,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:SCD4X"
+		(property "Footprint" "Mega_SparkFun-Sensor:SCD4X"
 			(at -1.905 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5980,7 +5980,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:JST_SMD_1.25mm-6_Locking"
+		(property "Footprint" "Mega_SparkFun-Connector:JST_SMD_1.25mm-6_Locking"
 			(at -1.905 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6239,7 +6239,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:SEN5x_Outline"
+		(property "Footprint" "Mega_SparkFun-Sensor:SEN5x_Outline"
 			(at -1.27 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6347,7 +6347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad"
+		(property "Footprint" "Mega_SparkFun-Sensor:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad"
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6526,7 +6526,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:SHTC3"
+		(property "Footprint" "Mega_SparkFun-Sensor:SHTC3"
 			(at 0 -10.668 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6685,7 +6685,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:SPH0641LM4H-1_Microphone"
+		(property "Footprint" "Mega_SparkFun-Sensor:SPH0641LM4H-1_Microphone"
 			(at 1.016 -17.526 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6931,7 +6931,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:STC31"
+		(property "Footprint" "Mega_SparkFun-Sensor:STC31"
 			(at 0 -9.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7176,7 +7176,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:STCC4"
+		(property "Footprint" "Mega_SparkFun-Sensor:STCC4"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7420,7 +7420,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SOT-563"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SOT-563"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7755,7 +7755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:VCNL4040"
+		(property "Footprint" "Mega_SparkFun-Sensor:VCNL4040"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7984,7 +7984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Sensor:VEML7700-TT"
+		(property "Footprint" "Mega_SparkFun-Sensor:VEML7700-TT"
 			(at 0 -10.414 0)
 			(show_name no)
 			(do_not_autoplace no)

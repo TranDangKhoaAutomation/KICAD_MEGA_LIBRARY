@@ -137,7 +137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Hardware:Standoff"
+		(property "Footprint" "Mega_SparkFun-Hardware:Standoff"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -241,7 +241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Hardware:Standoff_Connected"
+		(property "Footprint" "Mega_SparkFun-Hardware:Standoff_Connected"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -357,7 +357,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Hardware:Standoff_Hole-2.75mm_Clearance-1.625mm"
+		(property "Footprint" "Mega_SparkFun-Hardware:Standoff_Hole-2.75mm_Clearance-1.625mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)

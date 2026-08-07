@@ -35,7 +35,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:Crystal-SMD-5x3.2mm"
+		(property "Footprint" "Mega_SparkFun-Clock:Crystal-SMD-5x3.2mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -211,7 +211,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:Crystal_SMD_2.5x2.0mm"
+		(property "Footprint" "Mega_SparkFun-Clock:Crystal_SMD_2.5x2.0mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -436,7 +436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:Crystal_SMD_2.0x1.6mm"
+		(property "Footprint" "Mega_SparkFun-Clock:Crystal_SMD_2.0x1.6mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -650,7 +650,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:Crystal_SMD_2.0x1.6mm"
+		(property "Footprint" "Mega_SparkFun-Clock:Crystal_SMD_2.0x1.6mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -864,7 +864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:Crystal_SMD_3.2x2.5mm"
+		(property "Footprint" "Mega_SparkFun-Clock:Crystal_SMD_3.2x2.5mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1089,7 +1089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:Crystal_SMD_2.0x1.6mm"
+		(property "Footprint" "Mega_SparkFun-Clock:Crystal_SMD_2.0x1.6mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1303,7 +1303,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:Crystal_SMD_3.2x2.5mm"
+		(property "Footprint" "Mega_SparkFun-Clock:Crystal_SMD_3.2x2.5mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1479,7 +1479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:Crystal_SMD_3.2x1.5mm"
+		(property "Footprint" "Mega_SparkFun-Clock:Crystal_SMD_3.2x1.5mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1655,7 +1655,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:Crystal_SMD_2.5x2.0mm"
+		(property "Footprint" "Mega_SparkFun-Clock:Crystal_SMD_2.5x2.0mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1877,7 +1877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:Crystal-SMD-2.0x1.6mm"
+		(property "Footprint" "Mega_SparkFun-Clock:Crystal-SMD-2.0x1.6mm"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2076,7 +2076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:Crystal-SMD-5x3.2mm"
+		(property "Footprint" "Mega_SparkFun-Clock:Crystal-SMD-5x3.2mm"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2487,7 +2487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:Crystal_SMD_3.2x2.5mm"
+		(property "Footprint" "Mega_SparkFun-Clock:Crystal_SMD_3.2x2.5mm"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3255,7 +3255,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:Resonator_SMD_3.2x1.3mm"
+		(property "Footprint" "Mega_SparkFun-Clock:Resonator_SMD_3.2x1.3mm"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3603,7 +3603,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Clock:OCXO_PTH_51.3x41.3x14.2mm"
+		(property "Footprint" "Mega_SparkFun-Clock:OCXO_PTH_51.3x41.3x14.2mm"
 			(at 0 -19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3789,7 +3789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:Ceramic_QFN_5.0x3.2mm-10"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:Ceramic_QFN_5.0x3.2mm-10"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4057,7 +4057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:PCBA-9.0x7.0mm-10"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:PCBA-9.0x7.0mm-10"
 			(at 0 -19.05 0)
 			(show_name no)
 			(do_not_autoplace no)

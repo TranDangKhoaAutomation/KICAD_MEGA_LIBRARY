@@ -30,7 +30,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SO-16"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SO-16"
 			(at -17.78 -29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1113,7 +1113,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-14_2.5x3mm_P0.5mm_EP1x1.5mm"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:QFN-14_2.5x3mm_P0.5mm_EP1x1.5mm"
 			(at -17.78 -29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1981,7 +1981,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:TSSOP-14_4.4x5mm_P0.65mm"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:TSSOP-14_4.4x5mm_P0.65mm"
 			(at -17.78 -29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2828,7 +2828,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SOT-353"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SOT-353"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3084,7 +3084,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SOT-353"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SOT-353"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3327,7 +3327,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SOT-363_SC-70-6"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SOT-363_SC-70-6"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3544,7 +3544,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SOT23-6"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SOT23-6"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3837,7 +3837,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:VSSOP8_SOT765-1"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:VSSOP8_SOT765-1"
 			(at 0 -21.59 0)
 			(show_name no)
 			(do_not_autoplace no)

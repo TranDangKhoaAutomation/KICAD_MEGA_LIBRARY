@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Electromechanical:Buzzer_9mm_SMD"
+		(property "Footprint" "Mega_SparkFun-Electromechanical:Buzzer_9mm_SMD"
 			(at 0 -8.128 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -174,7 +174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:FFC_0.3mm-15"
+		(property "Footprint" "Mega_SparkFun-Connector:FFC_0.3mm-15"
 			(at 0 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -549,7 +549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Electromechanical:Relay_DPDT_1A_10.0x6.5mm_SMD"
+		(property "Footprint" "Mega_SparkFun-Electromechanical:Relay_DPDT_1A_10.0x6.5mm_SMD"
 			(at 0 -19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1161,7 +1161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Electromechanical:Relay_SPDT_10A_15.2x19.0mm"
+		(property "Footprint" "Mega_SparkFun-Electromechanical:Relay_SPDT_10A_15.2x19.0mm"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1550,7 +1550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Electromechanical:Relay_SPDT_10A_15.2x19.0mm"
+		(property "Footprint" "Mega_SparkFun-Electromechanical:Relay_SPDT_10A_15.2x19.0mm"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1939,7 +1939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Electromechanical:Relay_SPDT_20A_27.6x32.0mm"
+		(property "Footprint" "Mega_SparkFun-Electromechanical:Relay_SPDT_20A_27.6x32.0mm"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2328,7 +2328,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Electromechanical:Relay_SPDT_2A_7.5x12.5mm"
+		(property "Footprint" "Mega_SparkFun-Electromechanical:Relay_SPDT_2A_7.5x12.5mm"
 			(at 0 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2735,7 +2735,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Electromechanical:Relay_SPDT_5A_10.3x20.3mm"
+		(property "Footprint" "Mega_SparkFun-Electromechanical:Relay_SPDT_5A_10.3x20.3mm"
 			(at 0 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3124,7 +3124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Electromechanical:Relay_SPST_5A_5.0x20mm"
+		(property "Footprint" "Mega_SparkFun-Electromechanical:Relay_SPST_5A_5.0x20mm"
 			(at 0 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)

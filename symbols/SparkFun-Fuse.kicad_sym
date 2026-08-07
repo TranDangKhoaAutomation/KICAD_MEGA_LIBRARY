@@ -197,7 +197,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Fuse:1812"
+		(property "Footprint" "Mega_SparkFun-Fuse:1812"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -360,7 +360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Fuse:0805"
+		(property "Footprint" "Mega_SparkFun-Fuse:0805"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -523,7 +523,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Fuse:0805"
+		(property "Footprint" "Mega_SparkFun-Fuse:0805"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -686,7 +686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Fuse:1206"
+		(property "Footprint" "Mega_SparkFun-Fuse:1206"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -849,7 +849,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Fuse:1210"
+		(property "Footprint" "Mega_SparkFun-Fuse:1210"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1013,7 +1013,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Fuse:Fuseholder_Automotive"
+		(property "Footprint" "Mega_SparkFun-Fuse:Fuseholder_Automotive"
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)

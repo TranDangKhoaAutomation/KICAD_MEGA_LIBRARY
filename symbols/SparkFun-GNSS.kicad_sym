@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:u-blox_DAN-F10N"
+		(property "Footprint" "Mega_SparkFun-GNSS:u-blox_DAN-F10N"
 			(at 3.81 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1198,7 +1198,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x10_P2.0mm_Header_Vertical_SMD_Pegs"
+		(property "Footprint" "Mega_SparkFun-Connector:2x10_P2.0mm_Header_Vertical_SMD_Pegs"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2309,7 +2309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x10_P2.0mm_Header_Vertical_SMD_Pegs"
+		(property "Footprint" "Mega_SparkFun-Connector:2x10_P2.0mm_Header_Vertical_SMD_Pegs"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3420,7 +3420,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x10_P2.0mm_Header_Vertical_SMD_Pegs"
+		(property "Footprint" "Mega_SparkFun-Connector:2x10_P2.0mm_Header_Vertical_SMD_Pegs"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4531,7 +4531,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x10_P2.0mm_Socket_Vertical_SMD_Pegs"
+		(property "Footprint" "Mega_SparkFun-Connector:2x10_P2.0mm_Socket_Vertical_SMD_Pegs"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5642,7 +5642,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x10_P2.0mm_Socket_Vertical_SMD_Pegs"
+		(property "Footprint" "Mega_SparkFun-Connector:2x10_P2.0mm_Socket_Vertical_SMD_Pegs"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6753,7 +6753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:2x10_P2.0mm_Socket_Vertical_SMD_Pegs"
+		(property "Footprint" "Mega_SparkFun-Connector:2x10_P2.0mm_Socket_Vertical_SMD_Pegs"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7860,7 +7860,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:Quectel_L7X"
+		(property "Footprint" "Mega_SparkFun-GNSS:Quectel_L7X"
 			(at 1.27 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8299,7 +8299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:Quectel_LG290P"
+		(property "Footprint" "Mega_SparkFun-GNSS:Quectel_LG290P"
 			(at 1.27 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8853,7 +8853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:Quectel_LG580P"
+		(property "Footprint" "Mega_SparkFun-GNSS:Quectel_LG580P"
 			(at 3.81 -31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9856,7 +9856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:Quectel_LS5x"
+		(property "Footprint" "Mega_SparkFun-GNSS:Quectel_LS5x"
 			(at 1.27 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10628,7 +10628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:NEO-M9N_M8T_M8U_D9S_F9P_F10N"
+		(property "Footprint" "Mega_SparkFun-GNSS:NEO-M9N_M8T_M8U_D9S_F9P_F10N"
 			(at 0 -22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11161,7 +11161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:NEO-M9N_M8T_M8U_D9S_F9P_F10N"
+		(property "Footprint" "Mega_SparkFun-GNSS:NEO-M9N_M8T_M8U_D9S_F9P_F10N"
 			(at 0 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11692,7 +11692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:P23M"
+		(property "Footprint" "Mega_SparkFun-GNSS:P23M"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12248,7 +12248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:u-blox_SAM-M8Q"
+		(property "Footprint" "Mega_SparkFun-GNSS:u-blox_SAM-M8Q"
 			(at 0 -27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12725,7 +12725,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:UM980"
+		(property "Footprint" "Mega_SparkFun-GNSS:UM980"
 			(at 0 -29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14720,7 +14720,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:ZED-F9P_F9T_F9R_X20P"
+		(property "Footprint" "Mega_SparkFun-GNSS:ZED-F9P_F9T_F9R_X20P"
 			(at 0 -27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16731,7 +16731,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:ZED-F9P_F9T_F9R_X20P"
+		(property "Footprint" "Mega_SparkFun-GNSS:ZED-F9P_F9T_F9R_X20P"
 			(at 0 -27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18361,7 +18361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:ZED-F9P_F9T_F9R_X20P"
+		(property "Footprint" "Mega_SparkFun-GNSS:ZED-F9P_F9T_F9R_X20P"
 			(at 0 -27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20375,7 +20375,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:Septentrio_mosaic-G5_LGA54"
+		(property "Footprint" "Mega_SparkFun-GNSS:Septentrio_mosaic-G5_LGA54"
 			(at 0 -29.718 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22246,7 +22246,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:Septentrio_mosaic_LGA"
+		(property "Footprint" "Mega_SparkFun-GNSS:Septentrio_mosaic_LGA"
 			(at -1.27 -60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25685,7 +25685,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GNSS:Septentrio_mosaic_LGA"
+		(property "Footprint" "Mega_SparkFun-GNSS:Septentrio_mosaic_LGA"
 			(at -1.27 -60.96 0)
 			(show_name no)
 			(do_not_autoplace no)

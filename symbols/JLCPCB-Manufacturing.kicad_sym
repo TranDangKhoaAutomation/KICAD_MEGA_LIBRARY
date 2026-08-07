@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Hole, 3mm"
+		(property "Footprint" "Mega_JLCPCB:Hole, 3mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -114,7 +114,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:MouseBites, Cosmetic, JLCPCB, 1.6mm"
+		(property "Footprint" "Mega_JLCPCB:MouseBites, Cosmetic, JLCPCB, 1.6mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -244,7 +244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:MouseBites, Mechanical, JLCPCB, 1.6mm"
+		(property "Footprint" "Mega_JLCPCB:MouseBites, Mechanical, JLCPCB, 1.6mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -374,7 +374,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Part_Num_JLCPCB"
+		(property "Footprint" "Mega_JLCPCB:Part_Num_JLCPCB"
 			(at 0 0 0)
 			(effects
 				(font
@@ -435,7 +435,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Hole_Tooling_JLCPCB"
+		(property "Footprint" "Mega_JLCPCB:Hole_Tooling_JLCPCB"
 			(at 0 0 0)
 			(effects
 				(font

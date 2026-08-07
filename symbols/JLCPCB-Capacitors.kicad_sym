@@ -28,7 +28,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -294,7 +294,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -560,7 +560,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -826,7 +826,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -1092,7 +1092,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -1358,7 +1358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -1624,7 +1624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -1890,7 +1890,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -2156,7 +2156,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -2422,7 +2422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -2688,7 +2688,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -2954,7 +2954,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -3220,7 +3220,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -3486,7 +3486,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -3743,7 +3743,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -4000,7 +4000,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -4266,7 +4266,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -4532,7 +4532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -4798,7 +4798,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -5055,7 +5055,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -5312,7 +5312,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -5578,7 +5578,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -5835,7 +5835,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -6101,7 +6101,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -6358,7 +6358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -6624,7 +6624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -6881,7 +6881,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -7147,7 +7147,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -7413,7 +7413,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -7679,7 +7679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -7945,7 +7945,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -8211,7 +8211,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -8477,7 +8477,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -8743,7 +8743,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -9009,7 +9009,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -9248,7 +9248,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -9514,7 +9514,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -9780,7 +9780,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -10046,7 +10046,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0402"
+		(property "Footprint" "Mega_JLCPCB:C_0402"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -10312,7 +10312,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -10578,7 +10578,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -10844,7 +10844,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -11110,7 +11110,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -11376,7 +11376,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -11642,7 +11642,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -11908,7 +11908,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -12174,7 +12174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -12440,7 +12440,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -12706,7 +12706,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -12972,7 +12972,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -13238,7 +13238,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -13504,7 +13504,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -13770,7 +13770,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -14036,7 +14036,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -14302,7 +14302,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -14568,7 +14568,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -14834,7 +14834,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -15100,7 +15100,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -15366,7 +15366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -15632,7 +15632,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -15898,7 +15898,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -16164,7 +16164,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -16430,7 +16430,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -16687,7 +16687,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -16953,7 +16953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -17210,7 +17210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -17467,7 +17467,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -17733,7 +17733,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -17999,7 +17999,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -18265,7 +18265,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -18531,7 +18531,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -18797,7 +18797,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -19063,7 +19063,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -19329,7 +19329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -19595,7 +19595,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -19861,7 +19861,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -20127,7 +20127,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -20393,7 +20393,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -20650,7 +20650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -20916,7 +20916,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -21182,7 +21182,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -21439,7 +21439,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -21705,7 +21705,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -21971,7 +21971,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -22237,7 +22237,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -22503,7 +22503,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -22769,7 +22769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Mega_JLCPCB:C_0603"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -23035,7 +23035,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -23301,7 +23301,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -23567,7 +23567,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -23833,7 +23833,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -24099,7 +24099,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -24365,7 +24365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -24631,7 +24631,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -24897,7 +24897,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -25163,7 +25163,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -25429,7 +25429,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -25695,7 +25695,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -25961,7 +25961,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -26227,7 +26227,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -26493,7 +26493,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -26759,7 +26759,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -27025,7 +27025,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -27291,7 +27291,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -27557,7 +27557,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -27823,7 +27823,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -28089,7 +28089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -28355,7 +28355,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -28621,7 +28621,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -28887,7 +28887,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -29153,7 +29153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -29419,7 +29419,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -29685,7 +29685,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -29951,7 +29951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -30217,7 +30217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -30483,7 +30483,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -30749,7 +30749,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -31015,7 +31015,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -31281,7 +31281,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -31547,7 +31547,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0805"
+		(property "Footprint" "Mega_JLCPCB:C_0805"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -31813,7 +31813,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_1206"
+		(property "Footprint" "Mega_JLCPCB:C_1206"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -32079,7 +32079,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_1206"
+		(property "Footprint" "Mega_JLCPCB:C_1206"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -32345,7 +32345,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_1206"
+		(property "Footprint" "Mega_JLCPCB:C_1206"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -32611,7 +32611,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_1206"
+		(property "Footprint" "Mega_JLCPCB:C_1206"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -32877,7 +32877,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_1206"
+		(property "Footprint" "Mega_JLCPCB:C_1206"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -33143,7 +33143,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_1206"
+		(property "Footprint" "Mega_JLCPCB:C_1206"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -33409,7 +33409,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_1206"
+		(property "Footprint" "Mega_JLCPCB:C_1206"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -33675,7 +33675,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_1206"
+		(property "Footprint" "Mega_JLCPCB:C_1206"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -33941,7 +33941,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_1206"
+		(property "Footprint" "Mega_JLCPCB:C_1206"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -34207,7 +34207,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_1206"
+		(property "Footprint" "Mega_JLCPCB:C_1206"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -34473,7 +34473,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_1206"
+		(property "Footprint" "Mega_JLCPCB:C_1206"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -34739,7 +34739,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_1206"
+		(property "Footprint" "Mega_JLCPCB:C_1206"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -35005,7 +35005,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_1206"
+		(property "Footprint" "Mega_JLCPCB:C_1206"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -35271,7 +35271,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_CASE-A-3216-18(mm)"
+		(property "Footprint" "Mega_JLCPCB:C_CASE-A-3216-18(mm)"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -35576,7 +35576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_CASE-B-3528-21(mm)"
+		(property "Footprint" "Mega_JLCPCB:C_CASE-B-3528-21(mm)"
 			(at -1.778 0 90)
 			(effects
 				(font

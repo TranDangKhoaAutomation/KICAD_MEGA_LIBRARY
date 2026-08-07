@@ -27,7 +27,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -421,7 +421,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -815,7 +815,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -1185,7 +1185,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -1579,7 +1579,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -1973,7 +1973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -2343,7 +2343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -2737,7 +2737,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -3107,7 +3107,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -3477,7 +3477,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -3862,7 +3862,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -4232,7 +4232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -4626,7 +4626,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -5020,7 +5020,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -5414,7 +5414,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -5808,7 +5808,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-89-3L"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-89-3L"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -6202,7 +6202,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-89-3L"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-89-3L"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -6572,7 +6572,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -7009,7 +7009,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -7473,7 +7473,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -7946,7 +7946,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -8410,7 +8410,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -8874,7 +8874,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -9347,7 +9347,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -9820,7 +9820,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -10293,7 +10293,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-89"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-89"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -10606,7 +10606,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-89"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-89"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -10895,7 +10895,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -11289,7 +11289,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -11683,7 +11683,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -12053,7 +12053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -12447,7 +12447,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -12817,7 +12817,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -13187,7 +13187,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -13581,7 +13581,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -13975,7 +13975,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -14345,7 +14345,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -14658,7 +14658,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -14947,7 +14947,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -15260,7 +15260,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -15549,7 +15549,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -15862,7 +15862,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -16151,7 +16151,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -16464,7 +16464,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -16777,7 +16777,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -17090,7 +17090,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -17379,7 +17379,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -17668,7 +17668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -17981,7 +17981,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -18294,7 +18294,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -18583,7 +18583,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -18896,7 +18896,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -19185,7 +19185,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -19498,7 +19498,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -19787,7 +19787,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -20076,7 +20076,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -20389,7 +20389,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -20783,7 +20783,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-89"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-89"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -21096,7 +21096,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-89"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-89"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -21409,7 +21409,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-89"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-89"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -21698,7 +21698,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-89"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-89"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -22011,7 +22011,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-89"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-89"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -22405,7 +22405,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -22878,7 +22878,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -23351,7 +23351,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -23824,7 +23824,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -24297,7 +24297,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -24770,7 +24770,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -25243,7 +25243,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -25716,7 +25716,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -26189,7 +26189,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -26662,7 +26662,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -27135,7 +27135,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -27518,7 +27518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -27901,7 +27901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-23"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -28284,7 +28284,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-323"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-323"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -28757,7 +28757,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-323"
+		(property "Footprint" "Mega_JLCPCB:Q_SOT-323"
 			(at -1.778 0 90)
 			(effects
 				(font

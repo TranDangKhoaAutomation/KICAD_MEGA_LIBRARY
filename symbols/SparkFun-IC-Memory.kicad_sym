@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:TFBGA-24"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:TFBGA-24"
 			(at 0 -22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -575,7 +575,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:USON-8_3x2mm-SkinnyCenterPad"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:USON-8_3x2mm-SkinnyCenterPad"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -847,7 +847,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SO-8_WIDE"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SO-8_WIDE"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1101,7 +1101,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SO-8"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SO-8"
 			(at 0 -15.875 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1352,7 +1352,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SO-8"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SO-8"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1605,7 +1605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:TFBGA-24"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:TFBGA-24"
 			(at 0 -19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2152,7 +2152,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:TFBGA-24"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:TFBGA-24"
 			(at 0 -19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2699,7 +2699,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:WDFN-8_6x5mm-SkinnyCenterPad"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:WDFN-8_6x5mm-SkinnyCenterPad"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2971,7 +2971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SO-8_WIDE"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SO-8_WIDE"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3224,7 +3224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:SO-8"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:SO-8"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)

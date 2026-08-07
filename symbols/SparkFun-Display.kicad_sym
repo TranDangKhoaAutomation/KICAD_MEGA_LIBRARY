@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Display:LCD_TFT_2.0in_Waveshare_Outline"
+		(property "Footprint" "Mega_SparkFun-Display:LCD_TFT_2.0in_Waveshare_Outline"
 			(at -1.778 -34.036 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -744,7 +744,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "SparkFun-Display:OLED_0.66in"
+		(property "Footprint" "Mega_SparkFun-Display:OLED_0.66in"
 			(at 0 -34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1347,7 +1347,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "SparkFun-Display:OLED_1.3in_128x64-Folded"
+		(property "Footprint" "Mega_SparkFun-Display:OLED_1.3in_128x64-Folded"
 			(at 0 -26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1987,7 +1987,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "SparkFun-Display:OLED_1.5in_128x128-Folded"
+		(property "Footprint" "Mega_SparkFun-Display:OLED_1.5in_128x128-Folded"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2521,7 +2521,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Display:ePaper_2.13in"
+		(property "Footprint" "Mega_SparkFun-Display:ePaper_2.13in"
 			(at -24.765 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)

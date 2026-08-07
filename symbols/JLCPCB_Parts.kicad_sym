@@ -22,7 +22,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL"
+			(property "Footprint" "Mega_JLCPCB:OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -510,7 +510,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SMD-8_L9.8-W6.6-P2.54-LS10.3-BL"
+			(property "Footprint" "Mega_JLCPCB:SMD-8_L9.8-W6.6-P2.54-LS10.3-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -971,7 +971,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -1369,7 +1369,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -1675,7 +1675,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:UFDFN-6_L1.45-W1.0-P0.50-BL"
+			(property "Footprint" "Mega_JLCPCB:UFDFN-6_L1.45-W1.0-P0.50-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -1882,7 +1882,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOP-4_L4.4-W2.8-P1.27-LS7.0-TL"
+			(property "Footprint" "Mega_JLCPCB:SOP-4_L4.4-W2.8-P1.27-LS7.0-TL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -2185,7 +2185,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-143-4_L2.9-W1.3-P1.92-LS2.4-BL"
+			(property "Footprint" "Mega_JLCPCB:SOT-143-4_L2.9-W1.3-P1.92-LS2.4-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -2367,7 +2367,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-1"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -2583,7 +2583,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -2772,7 +2772,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TO-220AB-3_L10.4-W4.6-P2.54-L"
+			(property "Footprint" "Mega_JLCPCB:TO-220AB-3_L10.4-W4.6-P2.54-L"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -2974,7 +2974,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL"
+			(property "Footprint" "Mega_JLCPCB:LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -3937,7 +3937,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-669_L4.9-W4.0-P1.27-LS6.0-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-669_L4.9-W4.0-P1.27-LS6.0-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -4322,7 +4322,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-223-3_L6.7-W3.7-P2.30-LS7.0-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-223-3_L6.7-W3.7-P2.30-LS7.0-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -4495,7 +4495,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR-1"
+			(property "Footprint" "Mega_JLCPCB:SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -4767,7 +4767,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SC-70-6_L2.0-W1.3-P0.65-LS2.1-BR"
+			(property "Footprint" "Mega_JLCPCB:SC-70-6_L2.0-W1.3-P0.65-LS2.1-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -5014,7 +5014,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOIC-20W_7.5x12.8mm_P1.27mm"
+			(property "Footprint" "Mega_JLCPCB:SOIC-20W_7.5x12.8mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5546,7 +5546,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -6007,7 +6007,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOIC-8_L4.9-W3.9-P1.27-LS6.1-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-8_L4.9-W3.9-P1.27-LS6.1-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -6261,7 +6261,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SO-8_L4.9-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SO-8_L4.9-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -6515,7 +6515,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -6706,7 +6706,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SMT-8_L9.7-W6.6-P2.54-LS10.3-BL"
+			(property "Footprint" "Mega_JLCPCB:SMT-8_L9.7-W6.6-P2.54-LS10.3-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -7023,7 +7023,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:POWERFLAT-8_L5.2-W6.0-P1.27-LS6.2-BL"
+			(property "Footprint" "Mega_JLCPCB:POWERFLAT-8_L5.2-W6.0-P1.27-LS6.2-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -7277,7 +7277,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL"
+			(property "Footprint" "Mega_JLCPCB:TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -7891,7 +7891,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:DIP-8_L9.3-W6.4-P2.54-LS7.9-BL"
+			(property "Footprint" "Mega_JLCPCB:DIP-8_L9.3-W6.4-P2.54-LS7.9-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -8145,7 +8145,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SC-70-5_L2.0-W1.3-P0.65-LS2.1-BR"
+			(property "Footprint" "Mega_JLCPCB:SC-70-5_L2.0-W1.3-P0.65-LS2.1-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -8397,7 +8397,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:PWRM-TH_L28.0-W18.0_R02-T2S12-H"
+			(property "Footprint" "Mega_JLCPCB:PWRM-TH_L28.0-W18.0_R02-T2S12-H"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -8588,7 +8588,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-363_L2.0-W1.3-P0.65-LS2.1-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-363_L2.0-W1.3-P0.65-LS2.1-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -9050,7 +9050,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -9268,7 +9268,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -9486,7 +9486,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -9639,7 +9639,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -9792,7 +9792,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -10074,7 +10074,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:HDR-TH_8P-P2.54-V-M"
+			(property "Footprint" "Mega_JLCPCB:HDR-TH_8P-P2.54-V-M"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -10392,7 +10392,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:OSC-SMD_4P-L3.2-W2.5-BL"
+			(property "Footprint" "Mega_JLCPCB:OSC-SMD_4P-L3.2-W2.5-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -10574,7 +10574,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -10817,7 +10817,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:LED-TH_3P-BD4.0-P2.54-L"
+			(property "Footprint" "Mega_JLCPCB:LED-TH_3P-BD4.0-P2.54-L"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -11031,7 +11031,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:FILTER-SMD_4P-L12.0-W10.8-TL"
+			(property "Footprint" "Mega_JLCPCB:FILTER-SMD_4P-L12.0-W10.8-TL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -11457,7 +11457,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TO-220-3_L9.9-W4.5-P2.54-L-1"
+			(property "Footprint" "Mega_JLCPCB:TO-220-3_L9.9-W4.5-P2.54-L-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -11820,7 +11820,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:FILTER-ARRAY-SMD_0805-4P-L2.0-W1.3-BL_BWCU"
+			(property "Footprint" "Mega_JLCPCB:FILTER-ARRAY-SMD_0805-4P-L2.0-W1.3-BL_BWCU"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -12159,7 +12159,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -12472,7 +12472,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:GBU_4P-L22.0-W3.5-P5.08"
+			(property "Footprint" "Mega_JLCPCB:GBU_4P-L22.0-W3.5-P5.08"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -12717,7 +12717,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:ITO-220AB-3_L10.0-W4.5-P2.54-L"
+			(property "Footprint" "Mega_JLCPCB:ITO-220AB-3_L10.0-W4.5-P2.54-L"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -12983,7 +12983,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SW-TH_PBS-42D02"
+			(property "Footprint" "Mega_JLCPCB:SW-TH_PBS-42D02"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -13368,7 +13368,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOP-8_L4.9-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOP-8_L4.9-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -13622,7 +13622,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:DFS_4P-L8.3-W6.4-P5.10-LS10.1-BL"
+			(property "Footprint" "Mega_JLCPCB:DFS_4P-L8.3-W6.4-P5.10-LS10.1-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -13856,7 +13856,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TO-3P-3_L16.2-W5.0-P5.45-L"
+			(property "Footprint" "Mega_JLCPCB:TO-3P-3_L16.2-W5.0-P5.45-L"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -14169,7 +14169,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:WSON-12_L3.0-W2.0-P0.5-BL-EP2.7"
+			(property "Footprint" "Mega_JLCPCB:WSON-12_L3.0-W2.0-P0.5-BL-EP2.7"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -14513,7 +14513,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -14702,7 +14702,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:CDIP-18_L24.4-W6.5-P2.54-LS7.6-BL"
+			(property "Footprint" "Mega_JLCPCB:CDIP-18_L24.4-W6.5-P2.54-LS7.6-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -15137,7 +15137,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:CRYSTAL-SMD_4P-L2.5-W2.0-BL"
+			(property "Footprint" "Mega_JLCPCB:CRYSTAL-SMD_4P-L2.5-W2.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -15482,7 +15482,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:CONN-TH_HKT-00004"
+			(property "Footprint" "Mega_JLCPCB:CONN-TH_HKT-00004"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -15727,7 +15727,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:HDR-TH_4P-P1.27_X1321FR-2X02-C43D24"
+			(property "Footprint" "Mega_JLCPCB:HDR-TH_4P-P1.27_X1321FR-2X02-C43D24"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -15899,7 +15899,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:KEY-TH_4P-L6.0-W6.0-P4.50-LS6.50"
+			(property "Footprint" "Mega_JLCPCB:KEY-TH_4P-L6.0-W6.0-P4.50-LS6.50"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -16217,7 +16217,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:GBU_4P-L22.0-W3.5-P5.08-GBU4K"
+			(property "Footprint" "Mega_JLCPCB:GBU_4P-L22.0-W3.5-P5.08-GBU4K"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -16518,7 +16518,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:DIO-BG-TH_KBPC3510"
+			(property "Footprint" "Mega_JLCPCB:DIO-BG-TH_KBPC3510"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -16700,7 +16700,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:LED-TH_3P-BD5.8-P2.54_XL-A524SURUGC"
+			(property "Footprint" "Mega_JLCPCB:LED-TH_3P-BD5.8-P2.54_XL-A524SURUGC"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -17070,7 +17070,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -17394,7 +17394,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:OSC-SMD_4P-L5.0-W3.2-BL-1"
+			(property "Footprint" "Mega_JLCPCB:OSC-SMD_4P-L5.0-W3.2-BL-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -17577,7 +17577,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:OSC-SMD_4P-L3.2-W2.5-BL"
+			(property "Footprint" "Mega_JLCPCB:OSC-SMD_4P-L3.2-W2.5-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -17760,7 +17760,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:OSC-SMD_4P-L3.2-W2.5-BL"
+			(property "Footprint" "Mega_JLCPCB:OSC-SMD_4P-L3.2-W2.5-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -17942,7 +17942,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:IDC-TH_14P-P2.54_Z-230011014209"
+			(property "Footprint" "Mega_JLCPCB:IDC-TH_14P-P2.54_Z-230011014209"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -18306,7 +18306,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:RES-ADJ-TH_3P-BD13.0_WI-11-102"
+			(property "Footprint" "Mega_JLCPCB:RES-ADJ-TH_3P-BD13.0_WI-11-102"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -18593,7 +18593,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:USB-C-TH_KINGHELM_KH-TYPE-C-L15-6P"
+			(property "Footprint" "Mega_JLCPCB:USB-C-TH_KINGHELM_KH-TYPE-C-L15-6P"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -18926,7 +18926,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -19192,7 +19192,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TYPE-C-SMD_U263-163N-4BLS1735"
+			(property "Footprint" "Mega_JLCPCB:TYPE-C-SMD_U263-163N-4BLS1735"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -19590,7 +19590,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOIC-18_L11.6-W7.5-P1.27-LS10.3-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-18_L11.6-W7.5-P1.27-LS10.3-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -20024,7 +20024,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -20290,7 +20290,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -20658,7 +20658,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:IND-TH_L18.2-W10.2-P12.00-D0.9"
+			(property "Footprint" "Mega_JLCPCB:IND-TH_L18.2-W10.2-P12.00-D0.9"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -20878,7 +20878,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:IND-TH_4P-L9.0-W5.0-P3.50-D0.3-1"
+			(property "Footprint" "Mega_JLCPCB:IND-TH_4P-L9.0-W5.0-P3.50-D0.3-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -21230,7 +21230,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:MBF-SMD_L4.7-W3.8-P2.50-LS7.0-BL"
+			(property "Footprint" "Mega_JLCPCB:MBF-SMD_L4.7-W3.8-P2.50-LS7.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -21464,7 +21464,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -21745,7 +21745,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SW-SMD_218-2LPSTRF"
+			(property "Footprint" "Mega_JLCPCB:SW-SMD_218-2LPSTRF"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -22162,7 +22162,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:FILTER-SMD_4P-L9.5-W8.3_PSMCAQ1050-222P"
+			(property "Footprint" "Mega_JLCPCB:FILTER-SMD_4P-L9.5-W8.3_PSMCAQ1050-222P"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -22623,7 +22623,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:CONN-TH_K966658WV-1"
+			(property "Footprint" "Mega_JLCPCB:CONN-TH_K966658WV-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -23309,7 +23309,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:CONN-TH_20P-P3.50-S4.60_L18.6-W60.3-EH3.2"
+			(property "Footprint" "Mega_JLCPCB:CONN-TH_20P-P3.50-S4.60_L18.6-W60.3-EH3.2"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -23779,7 +23779,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:CONN-TH_2P-P5.00_KFM736H-5.0-2X1P"
+			(property "Footprint" "Mega_JLCPCB:CONN-TH_2P-P5.00_KFM736H-5.0-2X1P"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -23988,7 +23988,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:CONN-TH_16P-P5.08_KEFA_KF2EDGKRCH-5.08-2X8P"
+			(property "Footprint" "Mega_JLCPCB:CONN-TH_16P-P5.08_KEFA_KF2EDGKRCH-5.08-2X8P"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -24376,7 +24376,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:HC-49S_L7.0-W4.0"
+			(property "Footprint" "Mega_JLCPCB:HC-49S_L7.0-W4.0"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -24601,7 +24601,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:FILTER-SMD_4P-L2.0-W1.2-BL-1"
+			(property "Footprint" "Mega_JLCPCB:FILTER-SMD_4P-L2.0-W1.2-BL-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -24918,7 +24918,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:PG-HSOF-8_L10.5-W10.1-P1.20-LS11.9-TL-2"
+			(property "Footprint" "Mega_JLCPCB:PG-HSOF-8_L10.5-W10.1-P1.20-LS11.9-TL-2"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -25361,7 +25361,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:BAT-TH_BS-07-A1BJ001"
+			(property "Footprint" "Mega_JLCPCB:BAT-TH_BS-07-A1BJ001"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -25620,7 +25620,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:CONN-TH_4P-P5.08_DB129VG-5.08-4P-GN-S"
+			(property "Footprint" "Mega_JLCPCB:CONN-TH_4P-P5.08_DB129VG-5.08-4P-GN-S"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -25964,7 +25964,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:USB-TYPE-C-TH_TYPEC-214-ARP14H105"
+			(property "Footprint" "Mega_JLCPCB:USB-TYPE-C-TH_TYPEC-214-ARP14H105"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -26452,7 +26452,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -26641,7 +26641,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:PDIP-8_L9.6-W6.4-P2.54-LS7.9-BL-1"
+			(property "Footprint" "Mega_JLCPCB:PDIP-8_L9.6-W6.4-P2.54-LS7.9-BL-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -26969,7 +26969,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:CONN-TH_2P-P10.00_DBT10-10.0-2P-BK"
+			(property "Footprint" "Mega_JLCPCB:CONN-TH_2P-P10.00_DBT10-10.0-2P-BK"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -27115,7 +27115,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOP-4_L4.4-W4.0-P2.54-LS7.0-TL"
+			(property "Footprint" "Mega_JLCPCB:SOP-4_L4.4-W4.0-P2.54-LS7.0-TL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -27505,7 +27505,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:OPTO-SMD-4_L4.4-W4.1-P2.54-LS7.0-TL"
+			(property "Footprint" "Mega_JLCPCB:OPTO-SMD-4_L4.4-W4.1-P2.54-LS7.0-TL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -27979,7 +27979,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:ITO-220AB-3_L10.0-W4.5-P2.54-L"
+			(property "Footprint" "Mega_JLCPCB:ITO-220AB-3_L10.0-W4.5-P2.54-L"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -28207,7 +28207,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:FILTER-TH_6P-L28.0-W21.0-P10.00-BL"
+			(property "Footprint" "Mega_JLCPCB:FILTER-TH_6P-L28.0-W21.0-P10.00-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -28677,7 +28677,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-3_L2.9-W1.3-P0.95-LS2.4-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -28987,7 +28987,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -29403,7 +29403,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOP-4_L4.4-W2.8-P1.27-LS7.0-TL"
+			(property "Footprint" "Mega_JLCPCB:SOP-4_L4.4-W2.8-P1.27-LS7.0-TL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -29891,7 +29891,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -30145,7 +30145,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:DFN-10_L3.0-W3.0-P0.50-BL-EP-2"
+			(property "Footprint" "Mega_JLCPCB:DFN-10_L3.0-W3.0-P0.50-BL-EP-2"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -30453,7 +30453,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:ESIP-7C_L10.1-W2.0-P2.54-TL"
+			(property "Footprint" "Mega_JLCPCB:ESIP-7C_L10.1-W2.0-P2.54-TL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -30671,7 +30671,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:PDIP-8_L9.6-W6.4-P2.54-LS7.6-BL"
+			(property "Footprint" "Mega_JLCPCB:PDIP-8_L9.6-W6.4-P2.54-LS7.6-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -30925,7 +30925,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:DIP-8_7P-L9.7-W6.4-P2.54-LS7.6-BL-PE6"
+			(property "Footprint" "Mega_JLCPCB:DIP-8_7P-L9.7-W6.4-P2.54-LS7.6-BL-PE6"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -31161,7 +31161,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:OPTO-TH_4P_ITR8307-S17-TR8-B-TS"
+			(property "Footprint" "Mega_JLCPCB:OPTO-TH_4P_ITR8307-S17-TR8-B-TS"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -31464,7 +31464,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOP-6_L4.5-W6.8-P1.27-LS11.5-BL"
+			(property "Footprint" "Mega_JLCPCB:SOP-6_L4.5-W6.8-P1.27-LS11.5-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -31686,7 +31686,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOT-363_SC-70-6"
+			(property "Footprint" "Mega_JLCPCB:SOT-363_SC-70-6"
 				(at 5.08 2.54 0)
 				(effects
 					(font
@@ -32066,7 +32066,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOT-363_SC-70-6"
+			(property "Footprint" "Mega_JLCPCB:SOT-363_SC-70-6"
 				(at 5.08 2.54 0)
 				(effects
 					(font
@@ -32446,7 +32446,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOT-363_SC-70-6"
+			(property "Footprint" "Mega_JLCPCB:SOT-363_SC-70-6"
 				(at 5.08 2.54 0)
 				(effects
 					(font
@@ -32795,7 +32795,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOP-4_L4.4-W2.8-P1.27-LS7.0-TL"
+			(property "Footprint" "Mega_JLCPCB:SOP-4_L4.4-W2.8-P1.27-LS7.0-TL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -33166,7 +33166,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOP-4_L4.4-W2.8-P1.27-LS7.0-TL"
+			(property "Footprint" "Mega_JLCPCB:SOP-4_L4.4-W2.8-P1.27-LS7.0-TL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -33542,7 +33542,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOP-4_3.8x4.1mm_P2.54mm"
+			(property "Footprint" "Mega_JLCPCB:SOP-4_3.8x4.1mm_P2.54mm"
 				(at -5.08 -5.08 0)
 				(effects
 					(font
@@ -33932,7 +33932,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-363_L2.1-W1.3-P0.65-LS2.1-BL"
+			(property "Footprint" "Mega_JLCPCB:SOT-363_L2.1-W1.3-P0.65-LS2.1-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -34302,7 +34302,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOP-8_L5.0-W3.9-P1.27-LS6.0-BL-1"
+			(property "Footprint" "Mega_JLCPCB:SOP-8_L5.0-W3.9-P1.27-LS6.0-BL-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -34545,7 +34545,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:PG-SSOP-14_L4.9-W3.9-P0.65-LS6.0-BL-EP"
+			(property "Footprint" "Mega_JLCPCB:PG-SSOP-14_L4.9-W3.9-P0.65-LS6.0-BL-EP"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -34925,7 +34925,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TSSOP-5_L2.1-W1.3-P0.65-LS2.2-BR"
+			(property "Footprint" "Mega_JLCPCB:TSSOP-5_L2.1-W1.3-P0.65-LS2.2-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -35125,7 +35125,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SIP-3_L4.1-W1.6-P1.27-L"
+			(property "Footprint" "Mega_JLCPCB:SIP-3_L4.1-W1.6-P1.27-L"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -35278,7 +35278,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:QFN-32_L5.0-W5.0-P0.50-TL-EP3.4"
+			(property "Footprint" "Mega_JLCPCB:QFN-32_L5.0-W5.0-P0.50-TL-EP3.4"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -36045,7 +36045,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-25_L3.0-W1.6-P0.95-LS2.8-BL"
+			(property "Footprint" "Mega_JLCPCB:SOT-25_L3.0-W1.6-P0.95-LS2.8-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -36245,7 +36245,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TDSON-8-4_IRF40H233"
+			(property "Footprint" "Mega_JLCPCB:TDSON-8-4_IRF40H233"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -36707,7 +36707,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:POWERDI3333-8_DMN7022LFGQ-7"
+			(property "Footprint" "Mega_JLCPCB:POWERDI3333-8_DMN7022LFGQ-7"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -37017,7 +37017,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TSSOP-8_L4.4-W3.0-P0.65-LS6.4-BL"
+			(property "Footprint" "Mega_JLCPCB:TSSOP-8_L4.4-W3.0-P0.65-LS6.4-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -37260,7 +37260,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TSSOP-24_L7.8-W4.4-P0.65-LS6.4-BL"
+			(property "Footprint" "Mega_JLCPCB:TSSOP-24_L7.8-W4.4-P0.65-LS6.4-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -37802,7 +37802,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-363_L2.1-W1.3-P0.65-LS2.1-BL"
+			(property "Footprint" "Mega_JLCPCB:SOT-363_L2.1-W1.3-P0.65-LS2.1-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -38170,7 +38170,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -38501,7 +38501,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOP-8_L4.9-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOP-8_L4.9-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -38755,7 +38755,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -38937,7 +38937,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SC-70-5_L2.1-W1.3-P0.65-LS2.1-BL"
+			(property "Footprint" "Mega_JLCPCB:SC-70-5_L2.1-W1.3-P0.65-LS2.1-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -39126,7 +39126,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -39576,7 +39576,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -39792,7 +39792,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOP-8_L4.9-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOP-8_L4.9-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -40046,7 +40046,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:DFNWB-6_L2.0-W2.0-P0.65-BL-EP_CJM1206"
+			(property "Footprint" "Mega_JLCPCB:DFNWB-6_L2.0-W2.0-P0.65-BL-EP_CJM1206"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -40410,7 +40410,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOP-8_L4.9-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOP-8_L4.9-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -40774,7 +40774,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -40974,7 +40974,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SSOP-24_L8.6-W3.9-P0.65-LS6.0-BL-EP"
+			(property "Footprint" "Mega_JLCPCB:SSOP-24_L8.6-W3.9-P0.65-LS6.0-BL-EP"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -41523,7 +41523,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:WSON-8_L8.0-W6.0-P1.27-TL-EP-1"
+			(property "Footprint" "Mega_JLCPCB:WSON-8_L8.0-W6.0-P1.27-TL-EP-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -41784,7 +41784,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SDB_L8.3-W6.4-P5.10-LS9.9-BL"
+			(property "Footprint" "Mega_JLCPCB:SDB_L8.3-W6.4-P5.10-LS9.9-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -42018,7 +42018,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -42436,7 +42436,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -42600,7 +42600,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOP-8_L5.0-W3.8-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOP-8_L5.0-W3.8-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -42917,7 +42917,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -43117,7 +43117,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL-1"
+			(property "Footprint" "Mega_JLCPCB:MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -43399,7 +43399,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SC-70-5_L2.0-W1.3-P0.65-LS2.1-BR"
+			(property "Footprint" "Mega_JLCPCB:SC-70-5_L2.0-W1.3-P0.65-LS2.1-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -43588,7 +43588,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -43752,7 +43752,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TDFN-6_L2.0-W1.3-P0.40-TR"
+			(property "Footprint" "Mega_JLCPCB:TDFN-6_L2.0-W1.3-P0.40-TR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -43977,7 +43977,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TSSOP-8_L4.4-W3.0-P0.65-LS6.4-BL"
+			(property "Footprint" "Mega_JLCPCB:TSSOP-8_L4.4-W3.0-P0.65-LS6.4-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -44259,7 +44259,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -44513,7 +44513,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TO-92-3_L4.8-W3.7-P1.27-L-1"
+			(property "Footprint" "Mega_JLCPCB:TO-92-3_L4.8-W3.7-P1.27-L-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -44666,7 +44666,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TSOP-32_L8.1-W12.5-P0.50-LS14.2-TL"
+			(property "Footprint" "Mega_JLCPCB:TSOP-32_L8.1-W12.5-P0.50-LS14.2-TL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -45352,7 +45352,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -45741,7 +45741,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL"
+			(property "Footprint" "Mega_JLCPCB:MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -46086,7 +46086,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL"
+			(property "Footprint" "Mega_JLCPCB:MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -46392,7 +46392,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL"
+			(property "Footprint" "Mega_JLCPCB:TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -46754,7 +46754,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL"
+			(property "Footprint" "Mega_JLCPCB:TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -47116,7 +47116,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -47359,7 +47359,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:PDIP-8_L9.3-W6.4-P2.54-LS7.9-BL-1"
+			(property "Footprint" "Mega_JLCPCB:PDIP-8_L9.3-W6.4-P2.54-LS7.9-BL-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -47641,7 +47641,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOIC-28W_7.5x17.9mm_P1.27mm"
+			(property "Footprint" "Mega_JLCPCB:SOIC-28W_7.5x17.9mm_P1.27mm"
 				(at 5.08 0 0)
 				(effects
 					(font
@@ -48251,7 +48251,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:OPTO-SMD-4_L4.4-W4.1-P2.54-LS7.0-TL"
+			(property "Footprint" "Mega_JLCPCB:OPTO-SMD-4_L4.4-W4.1-P2.54-LS7.0-TL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -48739,7 +48739,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TO-263AB_L10.2-W9.0-P5.08-LS15.2-BL"
+			(property "Footprint" "Mega_JLCPCB:TO-263AB_L10.2-W9.0-P5.08-LS15.2-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -48989,7 +48989,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:TO-263-5_L10.0-W9.0-P1.70-LS15.0-BL"
+			(property "Footprint" "Mega_JLCPCB:TO-263-5_L10.0-W9.0-P1.70-LS15.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -49198,7 +49198,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SOT-363-6_L2.2-W1.3-P0.65-LS2.1-BL"
+			(property "Footprint" "Mega_JLCPCB:SOT-363-6_L2.2-W1.3-P0.65-LS2.1-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -49416,7 +49416,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:AUDIO-TH_PJ-3850-5A"
+			(property "Footprint" "Mega_JLCPCB:AUDIO-TH_PJ-3850-5A"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -49834,7 +49834,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BL-1"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BL-1"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -50170,7 +50170,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR"
+			(property "Footprint" "Mega_JLCPCB:SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -50460,7 +50460,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL"
+			(property "Footprint" "Mega_JLCPCB:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -50829,7 +50829,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:U-DFN2020-6B_L2.0-W2.0-P0.65-BL"
+			(property "Footprint" "Mega_JLCPCB:U-DFN2020-6B_L2.0-W2.0-P0.65-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -51047,7 +51047,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:ITO-220AB-3_L10.0-W4.5-P2.54-L"
+			(property "Footprint" "Mega_JLCPCB:ITO-220AB-3_L10.0-W4.5-P2.54-L"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -51312,7 +51312,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:HTSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL-EP-A"
+			(property "Footprint" "Mega_JLCPCB:HTSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL-EP-A"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -51780,7 +51780,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCPCB-Kicad-Footprints:SSOP-16_L4.9-W3.9-P0.64-LS6.0-BL"
+			(property "Footprint" "Mega_JLCPCB:SSOP-16_L4.9-W3.9-P0.64-LS6.0-BL"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -52169,7 +52169,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:LQFP-48_7x7mm_P0.5mm"
+			(property "Footprint" "Mega_JLCPCB:LQFP-48_7x7mm_P0.5mm"
 				(at -12.7 -35.56 0)
 				(effects
 					(font

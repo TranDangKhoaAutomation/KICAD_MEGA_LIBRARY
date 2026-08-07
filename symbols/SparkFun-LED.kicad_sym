@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:APA102_2020_6Pin"
+		(property "Footprint" "Mega_SparkFun-LED:APA102_2020_6Pin"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -253,7 +253,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:APA104_1010"
+		(property "Footprint" "Mega_SparkFun-LED:APA104_1010"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -536,7 +536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:CBI_LED_Triple_3mm_PTH"
+		(property "Footprint" "Mega_SparkFun-LED:CBI_LED_Triple_3mm_PTH"
 			(at 0 -8.255 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1061,7 +1061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_0603_1608Metric"
+		(property "Footprint" "Mega_SparkFun-LED:LED_0603_1608Metric"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1262,7 +1262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_0603_1608Metric_Blue"
+		(property "Footprint" "Mega_SparkFun-LED:LED_0603_1608Metric_Blue"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1463,7 +1463,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_1206_3216Metric_Blue"
+		(property "Footprint" "Mega_SparkFun-LED:LED_1206_3216Metric_Blue"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1664,7 +1664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_0603_1608Metric_Green"
+		(property "Footprint" "Mega_SparkFun-LED:LED_0603_1608Metric_Green"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1865,7 +1865,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_1206_3216Metric_Green"
+		(property "Footprint" "Mega_SparkFun-LED:LED_1206_3216Metric_Green"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2066,7 +2066,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_1206_Green_Bottom"
+		(property "Footprint" "Mega_SparkFun-LED:LED_1206_Green_Bottom"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2267,7 +2267,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_5mm_PTH_Green_Silk"
+		(property "Footprint" "Mega_SparkFun-LED:LED_5mm_PTH_Green_Silk"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2468,7 +2468,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_1206_3216Metric_Orange"
+		(property "Footprint" "Mega_SparkFun-LED:LED_1206_3216Metric_Orange"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2669,7 +2669,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_1206_3216Metric_Pink"
+		(property "Footprint" "Mega_SparkFun-LED:LED_1206_3216Metric_Pink"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2867,7 +2867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_1205_RGB_Bottom"
+		(property "Footprint" "Mega_SparkFun-LED:LED_1205_RGB_Bottom"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3295,7 +3295,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_0402_1005Metric_Red"
+		(property "Footprint" "Mega_SparkFun-LED:LED_0402_1005Metric_Red"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3496,7 +3496,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_0603_1608Metric_Red"
+		(property "Footprint" "Mega_SparkFun-LED:LED_0603_1608Metric_Red"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3697,7 +3697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_1206_3216Metric_Red"
+		(property "Footprint" "Mega_SparkFun-LED:LED_1206_3216Metric_Red"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3898,7 +3898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_5mm_PTH_Red_NoSilk"
+		(property "Footprint" "Mega_SparkFun-LED:LED_5mm_PTH_Red_NoSilk"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4099,7 +4099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_5mm_PTH_Red_Silk"
+		(property "Footprint" "Mega_SparkFun-LED:LED_5mm_PTH_Red_Silk"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4300,7 +4300,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_0603_1608Metric_White"
+		(property "Footprint" "Mega_SparkFun-LED:LED_0603_1608Metric_White"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4501,7 +4501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_1206_3216Metric_White"
+		(property "Footprint" "Mega_SparkFun-LED:LED_1206_3216Metric_White"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4702,7 +4702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_0402_1005Metric_Yellow"
+		(property "Footprint" "Mega_SparkFun-LED:LED_0402_1005Metric_Yellow"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4903,7 +4903,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_0603_1608Metric_Yellow"
+		(property "Footprint" "Mega_SparkFun-LED:LED_0603_1608Metric_Yellow"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5104,7 +5104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_1206_3216Metric_Yellow"
+		(property "Footprint" "Mega_SparkFun-LED:LED_1206_3216Metric_Yellow"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5301,7 +5301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:WS2812_2020"
+		(property "Footprint" "Mega_SparkFun-LED:WS2812_2020"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5581,7 +5581,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:WS2812_5050_4Pin"
+		(property "Footprint" "Mega_SparkFun-LED:WS2812_5050_4Pin"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5859,7 +5859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:WS2812B_CBI"
+		(property "Footprint" "Mega_SparkFun-LED:WS2812B_CBI"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -171,7 +171,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:GNSS_Ceramic_Antenna_18.0x18.0mm"
+		(property "Footprint" "Mega_SparkFun-RF:GNSS_Ceramic_Antenna_18.0x18.0mm"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -381,7 +381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x02"
+		(property "Footprint" "Mega_SparkFun-Connector:1x02"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -576,7 +576,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:XCVR_DA16200MOD-AAC4WA32"
+		(property "Footprint" "Mega_SparkFun-RF:XCVR_DA16200MOD-AAC4WA32"
 			(at -1.016 -28.956 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1380,7 +1380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:ESP32-C5-WROOM-1"
+		(property "Footprint" "Mega_SparkFun-RF:ESP32-C5-WROOM-1"
 			(at 0 -29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2044,7 +2044,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:ESP32-C5-WROOM-1-NARROW"
+		(property "Footprint" "Mega_SparkFun-RF:ESP32-C5-WROOM-1-NARROW"
 			(at 0 -29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2710,7 +2710,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:ESP32-PICO-MINI"
+		(property "Footprint" "Mega_SparkFun-RF:ESP32-PICO-MINI"
 			(at 0 -54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3980,7 +3980,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:ESP32-MINI"
+		(property "Footprint" "Mega_SparkFun-RF:ESP32-MINI"
 			(at 0 -69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5314,7 +5314,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:ESP32-S3-WROOM-1"
+		(property "Footprint" "Mega_SparkFun-RF:ESP32-S3-WROOM-1"
 			(at 0 -54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6293,7 +6293,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:ESP32-WROOM-32D-DFM_Paste"
+		(property "Footprint" "Mega_SparkFun-RF:ESP32-WROOM-32D-DFM_Paste"
 			(at 0 -52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7298,7 +7298,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:ESP32-WROVER-E-IE"
+		(property "Footprint" "Mega_SparkFun-RF:ESP32-WROVER-E-IE"
 			(at 0 -52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8305,7 +8305,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:ESP32-WROVER-E-IE"
+		(property "Footprint" "Mega_SparkFun-RF:ESP32-WROVER-E-IE"
 			(at 0 -52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9310,7 +9310,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:ID-2_12_20_Outline"
+		(property "Footprint" "Mega_SparkFun-RF:ID-2_12_20_Outline"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9504,7 +9504,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:ID-20LF_MF_Outline"
+		(property "Footprint" "Mega_SparkFun-RF:ID-20LF_MF_Outline"
 			(at 0 -18.034 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9717,7 +9717,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:PD0922J5050S2HF_ANA"
+		(property "Footprint" "Mega_SparkFun-RF:PD0922J5050S2HF_ANA"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9938,7 +9938,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:BP2G1+"
+		(property "Footprint" "Mega_SparkFun-RF:BP2G1+"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10197,7 +10197,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:BP2G1+_Bypass1"
+		(property "Footprint" "Mega_SparkFun-RF:BP2G1+_Bypass1"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10492,7 +10492,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:BP2G1+_Bypass2"
+		(property "Footprint" "Mega_SparkFun-RF:BP2G1+_Bypass2"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10785,7 +10785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:Mini-Circuits_BH292"
+		(property "Footprint" "Mega_SparkFun-RF:Mini-Circuits_BH292"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10990,7 +10990,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-32"
+		(property "Footprint" "Mega_SparkFun-Semiconductor-Standard:QFN-32"
 			(at -1.905 -22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11686,7 +11686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:RM2"
+		(property "Footprint" "Mega_SparkFun-RF:RM2"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12181,7 +12181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:RM2_Tight"
+		(property "Footprint" "Mega_SparkFun-RF:RM2_Tight"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12683,7 +12683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:RP-SMA_Edge"
+		(property "Footprint" "Mega_SparkFun-Connector:RP-SMA_Edge"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12883,7 +12883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:RP-SMA_Edge_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:RP-SMA_Edge_SMD"
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13079,7 +13079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-RF:Filter_1109-5_1.1x0.9mm"
+		(property "Footprint" "Mega_SparkFun-RF:Filter_1109-5_1.1x0.9mm"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13371,7 +13371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:SMA_Edge_6.3mm"
+		(property "Footprint" "Mega_SparkFun-Connector:SMA_Edge_6.3mm"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13571,7 +13571,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:SMA_Edge_8mm"
+		(property "Footprint" "Mega_SparkFun-Connector:SMA_Edge_8mm"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13771,7 +13771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:SMA_Edge_SMD"
+		(property "Footprint" "Mega_SparkFun-Connector:SMA_Edge_SMD"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13971,7 +13971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:U.FL"
+		(property "Footprint" "Mega_SparkFun-Connector:U.FL"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)

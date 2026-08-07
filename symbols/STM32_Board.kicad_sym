@@ -30,7 +30,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:BluePill_STM32F103"
+		(property "Footprint" "Mega_STM32_Board:BluePill_STM32F103"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -255,7 +255,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:BluePill_STM32F103"
+		(property "Footprint" "Mega_STM32_Board:BluePill_STM32F103"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -480,7 +480,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:BlackPill_STM32F4"
+		(property "Footprint" "Mega_STM32_Board:BlackPill_STM32F4"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -689,7 +689,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:BlackPill_STM32F4"
+		(property "Footprint" "Mega_STM32_Board:BlackPill_STM32F4"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -898,7 +898,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:BlackPill_STM32F4"
+		(property "Footprint" "Mega_STM32_Board:BlackPill_STM32F4"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1107,7 +1107,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:BlackPill_STM32F4"
+		(property "Footprint" "Mega_STM32_Board:BlackPill_STM32F4"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1316,7 +1316,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:BluePill_STM32F103"
+		(property "Footprint" "Mega_STM32_Board:BluePill_STM32F103"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1573,7 +1573,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:LQFP-100_14x14mm"
+		(property "Footprint" "Mega_STM32_Board:LQFP-100_14x14mm"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2038,7 +2038,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:LQFP-144_20x20mm_P0.5mm"
+		(property "Footprint" "Mega_STM32_Board:LQFP-144_20x20mm_P0.5mm"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2679,7 +2679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:LQFP-100_14x14mm"
+		(property "Footprint" "Mega_STM32_Board:LQFP-100_14x14mm"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3144,7 +3144,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:LQFP-64_10x10mm"
+		(property "Footprint" "Mega_STM32_Board:LQFP-64_10x10mm"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3465,7 +3465,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:LQFP-100_14x14mm"
+		(property "Footprint" "Mega_STM32_Board:LQFP-100_14x14mm"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3930,7 +3930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:LQFP-100_14x14mm"
+		(property "Footprint" "Mega_STM32_Board:LQFP-100_14x14mm"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4395,7 +4395,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:BluePill_STM32F103"
+		(property "Footprint" "Mega_STM32_Board:BluePill_STM32F103"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4656,7 +4656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:STM32F4DISCOVERY"
+		(property "Footprint" "Mega_STM32_Board:STM32F4DISCOVERY"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4977,7 +4977,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:STM32F4DISCOVERY"
+		(property "Footprint" "Mega_STM32_Board:STM32F4DISCOVERY"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5442,7 +5442,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:STM32F4DISCOVERY"
+		(property "Footprint" "Mega_STM32_Board:STM32F4DISCOVERY"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5907,7 +5907,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:STM32F4DISCOVERY"
+		(property "Footprint" "Mega_STM32_Board:STM32F4DISCOVERY"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6372,7 +6372,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:STM32F4DISCOVERY"
+		(property "Footprint" "Mega_STM32_Board:STM32F4DISCOVERY"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6633,7 +6633,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:STM32F4DISCOVERY"
+		(property "Footprint" "Mega_STM32_Board:STM32F4DISCOVERY"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6894,7 +6894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:STM32F4DISCOVERY"
+		(property "Footprint" "Mega_STM32_Board:STM32F4DISCOVERY"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7535,7 +7535,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:STM32F4DISCOVERY"
+		(property "Footprint" "Mega_STM32_Board:STM32F4DISCOVERY"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8464,7 +8464,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:STM32F4DISCOVERY"
+		(property "Footprint" "Mega_STM32_Board:STM32F4DISCOVERY"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9393,7 +9393,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:STM32F4DISCOVERY"
+		(property "Footprint" "Mega_STM32_Board:STM32F4DISCOVERY"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10322,7 +10322,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:STM32F4DISCOVERY"
+		(property "Footprint" "Mega_STM32_Board:STM32F4DISCOVERY"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10787,7 +10787,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:STM32F4DISCOVERY"
+		(property "Footprint" "Mega_STM32_Board:STM32F4DISCOVERY"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11252,7 +11252,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:STM32F4DISCOVERY"
+		(property "Footprint" "Mega_STM32_Board:STM32F4DISCOVERY"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11993,7 +11993,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:Nucleo_64"
+		(property "Footprint" "Mega_STM32_Board:Nucleo_64"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12314,7 +12314,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:Nucleo_64"
+		(property "Footprint" "Mega_STM32_Board:Nucleo_64"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12635,7 +12635,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:Nucleo_64"
+		(property "Footprint" "Mega_STM32_Board:Nucleo_64"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12956,7 +12956,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:Nucleo_64"
+		(property "Footprint" "Mega_STM32_Board:Nucleo_64"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13277,7 +13277,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:Nucleo_64"
+		(property "Footprint" "Mega_STM32_Board:Nucleo_64"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13598,7 +13598,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:Nucleo_144"
+		(property "Footprint" "Mega_STM32_Board:Nucleo_144"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14239,7 +14239,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:Nucleo_144"
+		(property "Footprint" "Mega_STM32_Board:Nucleo_144"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14880,7 +14880,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:Nucleo_64"
+		(property "Footprint" "Mega_STM32_Board:Nucleo_64"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15077,7 +15077,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:Nucleo_64"
+		(property "Footprint" "Mega_STM32_Board:Nucleo_64"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15398,7 +15398,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:Nucleo_144"
+		(property "Footprint" "Mega_STM32_Board:Nucleo_144"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16039,7 +16039,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:Nucleo_144"
+		(property "Footprint" "Mega_STM32_Board:Nucleo_144"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16680,7 +16680,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:Nucleo_32"
+		(property "Footprint" "Mega_STM32_Board:Nucleo_32"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16877,7 +16877,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32_Board:Nucleo_64"
+		(property "Footprint" "Mega_STM32_Board:Nucleo_64"
 			(at 0 -50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
