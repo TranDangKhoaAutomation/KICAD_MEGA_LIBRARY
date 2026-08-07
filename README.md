@@ -16,8 +16,17 @@ Hệ thống gồm **4 nguồn thư viện** đã được clone về máy cục
 | `Mega_SparkFun` | SparkFun | Linh kiện, sensor, module phổ biến |
 | `Mega_DigiKey` | DigiKey | Hàng nghìn linh kiện từ nhà phân phối |
 | `Mega_JLCPCB` | JLCPCB (CDFER) | Linh kiện basic/preferred của JLCPCB |
+| `Mega_MCU_ST_STM32F0/F1/F3/F4/F7/H7/L4/L4+` | STMicroelectronics | Symbol MCU STM32 chính thức (~835 MCU) |
+| `Mega_STM32_Board` | STM32 dev boards | Footprint + symbol board dev STM32 (40 boards) |
 
-**Tổng số:** khoảng **8.900 symbol**, **1.400 footprint**, **750 model 3D**.
+**Board dev STM32 có sẵn** trong `Mega_STM32_Board`:
+- **Pill boards**: Blue Pill (F103C8/CB), Black Pill (F401/F411, WeAct)
+- **Core boards**: F407VET6/ZGT6/VGT6, F405RGT6, H743VIT6, H750VBT6
+- **Discovery**: F0, F3, F4, F407G-DISC1, F401C, F411E, F429I, F469I, F746G, F769I, H747I, L476G, U5G9J
+- **Nucleo**: NUCLEO-32/64/144, F030R8, F103RB, F401RE, F411RE, F446RE/ZF, F767ZI, G431RB, G474RE, H743ZI, H753ZI, L432KC, L476RG
+- **Khác**: STM32F103C8T6 Mini, Maple Mini STM32F103
+
+**Tổng số:** khoảng **8.900 symbol**, **1.400 footprint**, **750 model 3D** (chưa tính STM32).
 
 ---
 

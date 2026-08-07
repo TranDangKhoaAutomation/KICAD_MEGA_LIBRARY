@@ -33,6 +33,7 @@ fp-info-cache
 
 # Kicad Project for Testing
 JLCPCB-Kicad
+test_project/
 
 __pycache__*
 
