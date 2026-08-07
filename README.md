@@ -18,6 +18,7 @@ Hệ thống gồm **4 nguồn thư viện** đã được clone về máy cục
 | `Mega_JLCPCB` | JLCPCB (CDFER) | Linh kiện basic/preferred của JLCPCB |
 | `Mega_MCU_ST_STM32F0/F1/F3/F4/F7/H7/L4/L4+` | STMicroelectronics | Symbol MCU STM32 chính thức (~835 MCU) |
 | `Mega_STM32_Board` | STM32 dev boards | Footprint + symbol board dev STM32 (40 boards) |
+| `Mega_Espressif` | ESP32 dev boards | Footprint + symbol board dev ESP32 (14 boards) |
 
 **Board dev STM32 có sẵn** trong `Mega_STM32_Board`:
 - **Pill boards**: Blue Pill (F103C8/CB), Black Pill (F401/F411, WeAct)
@@ -26,7 +27,11 @@ Hệ thống gồm **4 nguồn thư viện** đã được clone về máy cục
 - **Nucleo**: NUCLEO-32/64/144, F030R8, F103RB, F401RE, F411RE, F446RE/ZF, F767ZI, G431RB, G474RE, H743ZI, H753ZI, L432KC, L476RG
 - **Khác**: STM32F103C8T6 Mini, Maple Mini STM32F103
 
-**Tổng số:** khoảng **8.900 symbol**, **1.400 footprint**, **750 model 3D** (chưa tính STM32).
+**Board dev ESP32 có sẵn** trong `Mega_Espressif`:
+- **Espressif chính thức**: DevKitC (classic/S2/S3/C3/C5/C6), DevKitM-1, Saola-1
+- **Cộng đồng**: ESP32-DevKit-V1-DOIT, NodeMCU-32S, NodeMCU-ESP8266, ESP32-S3-DevKitC-1
+
+**Tổng số:** khoảng **8.900 symbol**, **1.400 footprint**, **750 model 3D** (chưa tính STM32/ESP32).
 
 ---
 
