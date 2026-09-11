@@ -4,7 +4,7 @@ Stage vendor libraries from Sources/ into the managed footprints/ and symbols/
 directories. Sources/ repos stay clean for git updates. Idempotent: files that
 already exist at the destination are kept (never overwritten, never duplicated).
 New files are copied.
-Copyright © Trần Đăng Khoa.
+Copyright © Trần Đăng Khoa / TranDangKhoaAutomation.
 """
 import os, shutil, time
 

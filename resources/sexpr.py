@@ -2,7 +2,7 @@
 """
 Minimal, correct S-expression helpers (strings respected).
 Used by register_libraries / fix_3d_paths.
-Copyright © Trần Đăng Khoa.
+Copyright © Trần Đăng Khoa / TranDangKhoaAutomation.
 """
 
 

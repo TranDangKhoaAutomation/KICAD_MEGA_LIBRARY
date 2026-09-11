@@ -1,7 +1,7 @@
 @echo off
 REM ============================================================
 REM  KiCad Mega Library - Cập nhật thư viện
-REM  Copyright (c) Tran Dang Khoa
+REM  Copyright (c) Trần Đăng Khoa / TranDangKhoaAutomation
 REM
 REM  Thao tác:
 REM   1. Pull cập nhật mới nhất từ 4 nhà sản xuất (Espressif,
@@ -19,7 +19,7 @@ set "LOG=%ROOT%\logs\update.log"
 
 echo ============================================================
 echo  KiCad Mega Library Update
-echo  Copyright (c) Tran Dang Khoa
+echo  Copyright (c) Trần Đăng Khoa / TranDangKhoaAutomation
 echo ============================================================
 echo.
 

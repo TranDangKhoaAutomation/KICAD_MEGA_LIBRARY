@@ -2,7 +2,7 @@
 """
 Consolidate 3D models from all sources into D:\\KICAD_MEGA_LIBRARY\\3dmodels\\<Vendor>\\.
 Copies unique files; keeps existing files. Idempotent.
-Copyright © Trần Đăng Khoa.
+Copyright © Trần Đăng Khoa / TranDangKhoaAutomation.
 """
 import os, shutil, hashlib, time
 

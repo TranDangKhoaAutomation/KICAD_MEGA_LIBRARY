@@ -7,7 +7,7 @@ Thêm các board dev ESP32 phổ biến (DevKit) vào thư viện Espressif.
 Thư viện footprint : footprints/Espressif.pretty/
 Thư viện symbol    : symbols/Espressif.kicad_sym
 
-Copyright © Trần Đăng Khoa.
+Copyright © Trần Đăng Khoa / TranDangKhoaAutomation.
 """
 
 import os

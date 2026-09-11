@@ -1,6 +1,6 @@
 ================================================================================
 KICAD MEGA LIBRARY - FINAL REPORT
-Copyright (c) Tran Dang Khoa
+Copyright (c) Trần Đăng Khoa / TranDangKhoaAutomation
 Generated: 2026-08-07 05:55:22
 ================================================================================
 

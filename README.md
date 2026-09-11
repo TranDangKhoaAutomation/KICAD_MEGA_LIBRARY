@@ -205,4 +205,4 @@ D:\KICAD_MEGA_LIBRARY
 | JLCPCB-CDFER | MIT (cộng đồng) |
 | STM32 (MCU_ST_STM32*) | CC-BY-SA-4.0 (KiCad official) |
 
-Hệ thống tổng hợp: **© Trần Đăng Khoa**
+Hệ thống tổng hợp: **© Trần Đăng Khoa / TranDangKhoaAutomation**

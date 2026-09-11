@@ -1,5 +1,5 @@
 {
-  "_comment": "Copyright © Trần Đăng Khoa. Danh sách nguồn thư viện KiCad cho hệ thống KICAD_MEGA_LIBRARY. Chỉ thêm nguồn đáng tin cậy, có giấy phép rõ ràng.",
+  "_comment": "Copyright © Trần Đăng Khoa / TranDangKhoaAutomation. Danh sách nguồn thư viện KiCad cho hệ thống KICAD_MEGA_LIBRARY. Chỉ thêm nguồn đáng tin cậy, có giấy phép rõ ràng.",
   "mega_root": "D:/KICAD_MEGA_LIBRARY",
   "kicad_config_dir": "C:/Users/trand/AppData/Roaming/kicad/10.0",
   "sources": [

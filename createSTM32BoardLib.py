@@ -12,7 +12,7 @@ Cấu trúc:
 - Board Nucleo/Discovery/Core: footprint chuẩn + symbol MCU STM32 chính thức
   (trong symbols/MCU_ST_STM32*.kicad_sym).
 
-Copyright © Trần Đăng Khoa.
+Copyright © Trần Đăng Khoa / TranDangKhoaAutomation.
 """
 
 import os

@@ -4,7 +4,7 @@ Rewrite 3D model paths inside staged footprint .kicad_mod files so they
 resolve on this KiCad install. Only modifies references whose model actually
 exists in the target 3dmodels folder. Unfixable references are logged to
 broken_3d_paths.txt and left untouched. offset/scale/rotate untouched.
-Copyright © Trần Đăng Khoa.
+Copyright © Trần Đăng Khoa / TranDangKhoaAutomation.
 """
 import os, re
 

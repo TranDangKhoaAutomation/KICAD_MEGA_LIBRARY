@@ -2,7 +2,7 @@
 """
 Register Mega_* symbol and footprint libraries in KiCad's global tables.
 Keeps existing entries, adds only new valid ones, writes atomically.
-Copyright © Trần Đăng Khoa.
+Copyright © Trần Đăng Khoa / TranDangKhoaAutomation.
 """
 import os, re, sys
 
