@@ -4,8 +4,8 @@ REM  KiCad Mega Library - Cập nhật thư viện
 REM  Copyright (c) Trần Đăng Khoa / TranDangKhoaAutomation
 REM
 REM  Thao tác:
-REM   1. Pull cập nhật mới nhất từ 4 nhà sản xuất (Espressif,
-REM      SparkFun, DigiKey, JLCPCB-CDFER) vào Sources/
+REM   1. Pull cập nhật mới nhất từ 5 nguồn (Espressif, SparkFun,
+REM      DigiKey, JLCPCB-CDFER, wt32-eth01) vào Sources/
 REM   2. Dong bo file moi vao symbols/, footprints/, 3dmodels/
 REM   3. Sua model paths 3D
 REM   4. Dang ky lai bang thu vien trong KiCad
@@ -43,6 +43,7 @@ call :UPDATE_REPO Espressif https://github.com/espressif/kicad-libraries.git
 call :UPDATE_REPO SparkFun https://github.com/sparkfun/SparkFun-KiCad-Libraries.git
 call :UPDATE_REPO DigiKey https://github.com/Digi-Key/digikey-kicad-library.git
 call :UPDATE_REPO JLCPCB-CDFER https://github.com/CDFER/JLCPCB-Kicad-Library.git
+call :UPDATE_REPO wt32-eth01 https://github.com/egnor/wt32-eth01.git
 
 echo.
 
@@ -53,6 +54,10 @@ if exist "%ROOT%\resources\stage_libraries.py" (
 )
 if exist "%ROOT%\resources\consolidate_3dmodels.py" (
     "%PYTHON%" "%ROOT%\resources\consolidate_3dmodels.py" >> "%LOG%" 2>&1
+)
+REM Board dev WT32-ETH01 (ESP32 + Ethernet) - dong bo symbol/footprint/3D
+if exist "%ROOT%\createWt32Eth01Lib.py" (
+    "%PYTHON%" "%ROOT%\createWt32Eth01Lib.py" >> "%LOG%" 2>&1
 )
 echo.
 

@@ -2,7 +2,7 @@
 
 **Thư viện KiCad tổng hợp của Trần Đăng Khoa** — gom góp và cập nhật tự động từ nhiều nguồn thư viện chính thức của các nhà sản xuất linh kiện.
 
-> © 2026 **Trần Đăng Khoa**. Mọi nội dung trong hệ thống thư viện này thuộc về tác giả.
+> **Bản quyền:** © 2026 **Trần Đăng Khoa**. Toàn bộ hệ thống thư viện này (tổ chức, script, tài liệu, board dev tự tạo) thuộc về tác giả — xem [LICENSE](LICENSE). Các thành phần linh kiện gốc từ nhà sản xuất vẫn giữ giấy phép riêng của họ (xem mục "Nguồn gốc & giấy phép").
 
 ---
 
@@ -16,7 +16,7 @@
 | `Mega_JLCPCB` | JLCPCB (CDFER) | Linh kiện basic/preferred của JLCPCB |
 | `Mega_MCU_ST_STM32F0/F1/F3/F4/F7/H7/L4/L4+` | STMicroelectronics | Symbol MCU STM32 chính thức (~835 MCU) |
 | `Mega_STM32_Board` | STM32 dev boards | Footprint + symbol board dev STM32 (40 boards) |
-| `Mega_Espressif` | ESP32 dev boards | Footprint + symbol board dev ESP32 (14 boards) |
+| `Mega_Espressif` | ESP32 dev boards | Footprint + symbol board dev ESP32 (15 boards) |
 
 ### 📊 Tổng số linh kiện
 
@@ -26,7 +26,7 @@
 | **Footprint** (chân linh kiện) | **1.442** footprint trong 25 thư viện |
 | **Model 3D** (`.step`/`.wrl`) | **751** model |
 | **Board dev STM32** | **40** boards |
-| **Board dev ESP32** | **14** boards |
+| **Board dev ESP32** | **15** boards |
 | **MCU STM32** | **835** chip (trong 8 thư viện `MCU_ST_STM32*`) |
 
 ---
@@ -43,6 +43,7 @@
 
 - **Espressif chính thức**: DevKitC (classic/S2/S3/C3/C5/C6), DevKitM-1, Saola-1
 - **Cộng đồng**: ESP32-DevKit-V1-DOIT, NodeMCU-32S, NodeMCU-ESP8266, ESP32-S3-DevKitC-1
+- **WT32-ETH01** (wireless-tag): ESP32 + Ethernet LAN8720A (RJ45) — board dev có mạng có dây
 
 ---
 
@@ -169,7 +170,7 @@ Update-KiCadMegaLibrary.bat
 ```
 
 File này sẽ tự động:
-1. **Pull** mã mới nhất từ 4 repo nhà sản xuất vào `Sources/`
+1. **Pull** mã mới nhất từ các repo nhà sản xuất (Espressif, SparkFun, DigiKey, JLCPCB-CDFER, wt32-eth01) vào `Sources/`
 2. **Đồng bộ** file thư viện mới vào `symbols/`, `footprints/`, `3dmodels/`
 3. **Sửa** model paths 3D
 4. **Đăng ký lại** bảng thư viện trong KiCad
@@ -182,7 +183,7 @@ File này sẽ tự động:
 
 ```
 D:\KICAD_MEGA_LIBRARY
-├── Sources/          ← Các repo Git nguồn (Espressif, SparkFun, DigiKey, JLCPCB-CDFER)
+├── Sources/          ← Các repo Git nguồn (Espressif, SparkFun, DigiKey, JLCPCB-CDFER, wt32-eth01)
 ├── symbols/          ← Thư viện symbol .kicad_sym (74 file, 3818 symbol)
 ├── footprints/       ← Thư viện footprint .pretty (25 thư mục, 1442 footprint)
 ├── 3dmodels/         ← Model 3D .step/.wrl (751 model)
@@ -204,5 +205,6 @@ D:\KICAD_MEGA_LIBRARY
 | DigiKey | MIT |
 | JLCPCB-CDFER | MIT (cộng đồng) |
 | STM32 (MCU_ST_STM32*) | CC-BY-SA-4.0 (KiCad official) |
+| WT32-ETH01 (egnor/wt32-eth01) | Cộng đồng (không có license file) |
 
-Hệ thống tổng hợp: **© Trần Đăng Khoa / TranDangKhoaAutomation**
+Hệ thống tổng hợp (tổ chức, script, tài liệu, board dev tự tạo): **© 2026 Trần Đăng Khoa / TranDangKhoaAutomation** — giấy phép MIT (xem [LICENSE](LICENSE)).

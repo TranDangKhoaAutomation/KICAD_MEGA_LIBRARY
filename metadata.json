@@ -1,30 +1,32 @@
 {
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
-    "name": "JLCPCB KiCad Library",
-    "description": "A set of symbol Libraries and a set of footprints and 3d models of the basic components from JLCPCB smt assembly",
-    "description_full": "A full KiCad library containing matched schematic symbols and PCB footprints, complete with 3D STEP models. All components are from JLCPCB's basic and preferred parts list, ensuring no extra setup costs. I\u2019m not affiliated or sponsored by jlcpcb, just another customer.",
-    "identifier": "com.github.CDFER.JLCPCB-Kicad-Library",
+    "name": "KiCad Mega Library",
+    "description": "Thư viện KiCad tổng hợp của Trần Đăng Khoa — gom góp và cập nhật tự động từ nhiều nguồn thư viện chính thức của các nhà sản xuất linh kiện.",
+    "description_full": "Hệ thống thư viện KiCad tổng hợp (symbol + footprint + model 3D) của Trần Đăng Khoa, kết hợp từ các nguồn: Espressif, SparkFun, DigiKey, JLCPCB (CDFER), STM32 official, và các board dev cộng đồng (STM32, ESP32, WT32-ETH01).",
+    "identifier": "com.tdkhoa.KiCad-Mega-Library",
     "type": "library",
     "author": {
-        "name": "Chris Dirks",
+        "name": "Trần Đăng Khoa",
         "contact": {
-            "email": "cdirksfer@gmail.com",
-            "web": "https://keastudios.co.nz/"
+            "web": "https://github.com/TranDangKhoa"
         }
     },
     "license": "MIT",
     "resources": {
-        "homepage": "https://github.com/CDFER/JLCPCB-Kicad-Library"
+        "homepage": "https://github.com/TranDangKhoa"
     },
     "tags": [
         "footprints",
-        "symbols"
+        "symbols",
+        "mega-library",
+        "esp32",
+        "stm32"
     ],
     "versions": [
         {
-            "version": "2026.08.06",
+            "version": "2026.08.08",
             "status": "stable",
-            "kicad_version": "8.0"
+            "kicad_version": "10.0"
         }
     ]
 }
